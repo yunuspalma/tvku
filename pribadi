@@ -534,7 +534,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/kixindi.jpg" group-title="Film",KIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -601,28 +601,19 @@ https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
+
 -----------------------------HBO Premium-----------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-ID="HBO" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/hboindo.jpg",HBO
+#EXTINF:-1 tvg-ID="HBO" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/HBO2.jpg",HBO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 http://playtv.my.id/play/freemium_hbo.m3u8
 
-#EXTINF:-1 tvg-ID="hbo" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/hbohitsindo.jpg",HBO Hits
-http://playtv.my.id/play/freemium_hbohits.m3u8
 
-#EXTINF:-1 group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/hbofamilyindo.jpg",HBO Family
-http://playtv.my.id/play/freemium_hbofam.m3u8
-
-#EXTINF:-1 tvg-ID="HBO" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/hbosignatureindo.jpg",HBO Signature
-http://playtv.my.id/play/freemium_hbosig.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF:-1 tvg-ID="HBO GO" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/cinemaxindo.jpg",Cinemax
-https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
-
-
------------------------------------------------------------------------------------------------------------------------------------
 
 
 #EXTINF:-1 tvg-ID="HBO" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/HBO2.jpg",HBO sgp
@@ -631,20 +622,48 @@ https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 #https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
 
+#EXTINF:-1 tvg-ID="hbo" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/HBOHITS.jpg",HBO Hits
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+http://playtv.my.id/play/freemium_hbohits.m3u8
+
 #EXTINF:-1 tvg-ID="hbo" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/HBOHITS.jpg",HBO Hits sgp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 #https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-ID="HBO" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/HBOSIG.jpg",HBO Signature
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+http://playtv.my.id/play/freemium_hbosig.m3u8
 
 #EXTINF:-1 tvg-ID="HBO" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/HBOSIG.jpg",HBO Signature sgp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 #https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
+
+#EXTINF:-1 group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/HBOFAMILY.jpg",HBO Family
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+http://playtv.my.id/play/freemium_hbofam.m3u8
+
 #EXTINF:-1 group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/HBOFAMILY.jpg",HBO Family sgp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 #https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
@@ -652,7 +671,10 @@ https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 #https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTINF:-1 tvg-ID="HBO GO" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/CINEMAX.jpg",Cinemax
+https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 -----------------------------News-----------------------------------------------------------------------------------------------------------------------------
 
@@ -761,14 +783,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/spotvindi1.jpg" group-title="Olahraga",SPOTV 
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/spo1.png" group-title="Olahraga",SPOTV 
 #https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/spotvindi2.jpg" group-title="Olahraga",SPOTV 2
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/spo2.png" group-title="Olahraga",SPOTV 2
 #https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
@@ -1395,8 +1417,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/star2.png" group-title="Live Bola",ID~Sport~2â€¢ðŸ‡²ðŸ‡¨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
