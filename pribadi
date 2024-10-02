@@ -636,7 +636,6 @@ http://playtv.my.id/play/freemium_hbohits.m3u8
 #https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
 
 
-
 #EXTINF:-1 tvg-ID="HBO" group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/HBOSIG.jpg",HBO Signature
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -649,8 +648,6 @@ http://playtv.my.id/play/freemium_hbosig.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 #https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-
-
 
 #EXTINF:-1 group-title="HBO" tvg-logo="http://yunus12.my.id/logotv/HBOFAMILY.jpg",HBO Family
 #KODIPROP:inputstream.adaptive.manifest_type=dash
