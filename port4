@@ -90,7 +90,7 @@ rtp://@239.1.1.112:8646
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/rockentertainment.png" group-title="Movies HD",Rock Entertainment
 rtp://@239.1.2.76:9310
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/STUDIOUNIVERSAL.png" group-title="Movies HD",Studio Universal
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/STUDIOUNIVERSAL.png" group-title="Movies HD",Studio Universal
 rtp://@239.1.2.67:8221
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/axn.png" group-title="Movies HD",AXN
