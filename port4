@@ -76,7 +76,7 @@ rtp://@239.1.3.10:1234
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/hbohits.png" group-title="Movies HD",HBO Hits HD
 rtp://@239.1.3.78:1234
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/hbosignature.png" group-title="Movies HD",HBO Signature HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/hbosignature.png" group-title="Movies HD",HBO Signature HD
 rtp://@239.1.3.68:1234
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/hbofamily.png" group-title="Movies HD",HBO Family HD
@@ -96,7 +96,7 @@ rtp://@239.1.2.67:8221
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/axn.png" group-title="Movies HD",AXN
 rtp://@239.1.1.245:9436
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/warner.png" group-title="Movies HD",Warner
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/warner.png" group-title="Movies HD",Warner
 rtp://@239.1.2.244:9078
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/sone.png" group-title="Movies HD",ONE
