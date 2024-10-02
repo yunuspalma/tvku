@@ -46,21 +46,21 @@ rtp://@239.1.2.148:8026
 #rtp://@239.1.1.149:8868
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/insert.png" group-title="Local",Insert
 rtp://@239.1.1.113:8652
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/jaktv.png" group-title="Local",Jak TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/logo_jaktv_small1.png" group-title="Local",Jak TV
 rtp://@239.1.1.107:8616
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/rtv.png" group-title="Local",RTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/logo_rtv_ver1.png" group-title="Local",RTV
 rtp://@239.1.1.253:8018
 #rtp://@239.1.1.69:8388
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/daaitv.png" group-title="Local",DAAI TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/logo_daaitv_small1.png" group-title="Local",DAAI TV
 rtp://@239.1.1.188:8015
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/tvedukasi.png" group-title="Local",TV Edukasi
 #rtp://@239.1.1.39:8208
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/balitv.png" group-title="Local",Bali TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/logo_balitv_small1.png" group-title="Local",Bali TV
 rtp://@239.1.1.72:8406
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/jtv.png" group-title="Local",JTV
 rtp://@239.1.1.6:8010
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/antara.png" group-title="Local",Antara
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/logo_antara_small1.png" group-title="Local",Antara
 rtp://@239.1.1.128:9218
 
 
