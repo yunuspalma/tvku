@@ -17,7 +17,7 @@ rtp://@239.1.2.5:8168
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/sctv.png" group-title="Local",SCTV
 rtp://239.1.3.143:1234
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_transtv.png" group-title="Local",TransTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/logo_transtv.png" group-title="Local",TransTV
 rtp://@239.1.1.194:9138
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_trans7.png" group-title="Local",Trans7
 rtp://@239.1.1.222:9306
