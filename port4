@@ -1,5 +1,5 @@
 
-#EXTM3U billed-msg="Channel Premium Ini Milik YUNUS Jika ada channel yg tidak bisa di akses selama 1 hari,silahkan Hub Yunus, Terima Kasih.", url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz" refresh="3600"
+
 
 #EXTINF:0 tvg-logo="http://yus.skom.id/useetvlogo/ALLPLAY.png" group-title="Local",AllPlay
 rtp://@239.1.1.252:9486
