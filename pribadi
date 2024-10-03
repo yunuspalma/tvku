@@ -1412,10 +1412,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/star1.png" group-title="Live Bola",ID~Sport~1â€¢ðŸ‡²ðŸ‡¨	
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/star2.png" group-title="Live Bola",ID~Sport~2â€¢ðŸ‡²ðŸ‡¨	
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
