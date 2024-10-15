@@ -33,19 +33,15 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="TVRI KalBar" tvg-logo="http://yunus12.my.id/logo/tvri.png" group-title="Lokal",TVRI KalBar
+#EXTINF:-1 tvg-ID="TVRI KalBar" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvri.jpg" group-title="Lokal",TVRI KalBar
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_1500000=10006-mp4a_96000_eng=20002.m3u8
-
-
-#EXTINF:-1 tvg-ID="tvri" group-title="Lokal" tvg-logo="http://yunus12.my.id/logo/tvri.png",TVRI
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-ID="tvri" group-title="Lokal" tvg-logo="http://yunus12.my.id/logotv/tvriindi.png",TVRI
+#EXTINF:-1 tvg-ID="tvri" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvriindi.png",TVRI
 http://cdnkbl3.indihometv.com/ateme/dash/TVRI/manifest.mpd
-https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
 
 #EXTINF:-1 tvg-ID="TVRI KalBar" tvg-logo="http://yunus12.my.id/logotv/pontv.jpg" group-title="Lokal",PonTv
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
@@ -55,12 +51,12 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w1627249822.m3
 http://cdnkbl3.indihometv.com/ateme/dash/useeprime/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/uchannelindi.png" group-title="Lokal",U Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/uchannelindi.png" group-title="Lokal",U Channel
 https://cdn09jtedge.indihometv.com/joss/130/uchannel/index.m3u8
 
 
 
-#EXTINF:-1 tvg-ID="rcti" tvg-logo="http://yunus12.my.id/logotv/RCTI+.png" group-title="Lokal",RCTI Plus
+#EXTINF:-1 tvg-ID="rcti" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/RCTI%2B.png" group-title="Lokal",RCTI Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO CPH1729 Build/N6F26Q) IPTV/7.1.6
 https://1s1.rctiplus.id/rcti2023-avc1_3500000=8-mp4a_128000=2.m3u8
 
@@ -81,7 +77,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 #EXTINF:-1 tvg-ID="rcti" tvg-logo="http://yunus12.my.id/logotv/rctiplus.png" group-title="Lokal",RCTI HD
 #https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv" tvg-logo="http://yunus12.my.id/logotv/MNC+.png" group-title="Lokal",MNCTV Plus
+#EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/MNC%2B.png" group-title="Lokal",MNCTV Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO CPH1729 Build/N6F26Q) IPTV/7.1.6
 https://1s1.rctiplus.id/mnctv2023-avc1_3500000=8-mp4a_128000=2.m3u8
 
@@ -90,7 +86,7 @@ https://1s1.rctiplus.id/mnctv2023-avc1_3500000=8-mp4a_128000=2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv" tvg-logo="http://yunus12.my.id/logotv/mncplus.png" group-title="Lokal",MNCTV HD
+#EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/mncplus.png" group-title="Lokal",MNCTV HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-ID="Useephoto" tvg-logo="http://yunus12.my.id/logotv/GTV+.png" group-title="Lokal",GTV Plus
@@ -122,7 +118,7 @@ https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 #EXTINF:-1 tvg-ID="antv" group-title="Lokal" tvg-logo="http://yunus12.my.id/logotv/antv.jpg",ANTV
 #https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-ID="transtv" tvg-logo="http://yunus12.my.id/logotv/transindihome.png" group-title="Lokal",Trans TV HD
+#EXTINF:-1 tvg-ID="transtv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/transindihome.png" group-title="Lokal",Trans TV HD
 https://cdn09jtedge.indihometv.com/joss/133/transtv1080/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -138,7 +134,7 @@ https://cdn09jtedge.indihometv.com/joss/133/transtv1080/index.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="http://yunus12.my.id/logotv/trans7.jpg",Trans 7
 #https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 group-title="Lokal" tvg-logo="http://yunus12.my.id/logotv/trans7indihome.png",Trans 7 HD
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/trans7indihome.png",Trans 7 HD
 http://cdnkbl3.indihometv.com/ateme/dash/trans7/manifest.mpd
 
 
@@ -157,7 +153,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="http://yunus12.my.id/logotv/gbtackerv.png" group-title="Lokal",Global Trekker
 https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/btvindi.png" group-title="Lokal",BTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/btvindi.png" group-title="Lokal",BTV
 http://cdnkbl3.indihometv.com/ateme/dash/beritasatu/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
 
@@ -362,7 +358,7 @@ http://cdnkbl3.indihometv.com/ateme/dash/myfamily/manifest.mpd
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/MFC.jpg" group-title="Film",My Family Channel
 #https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/celestialindi.png" group-title="Film",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/celestialindi.png" group-title="Film",Celestial Movies
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -451,7 +447,7 @@ https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/tvnindi.png" group-title="Film",tvN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvnindi.png" group-title="Film",tvN
 https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -461,7 +457,7 @@ https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8
 #https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/tvnmivieindi.png" group-title="Film",TVN Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvnmivieindi.png" group-title="Film",TVN Movies
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -698,10 +694,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/cgtnindi.png" group-title="Pengetahuan",CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/cgtnindi.png" group-title="Pengetahuan",CGTN Documentary
 http://cdnkbl3.indihometv.com/ateme/dash/CGTN_DOCUMENTARY/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/bloombergindi.png" group-title="Berita",Bloomberg TV Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/bloombergindi.png" group-title="Berita",Bloomberg TV Asia
 http://cdnkbl3.indihometv.com/ateme/dash/BLOOMBERG/manifest.mpd
 
 #EXTINF:-1 tvg-ID="INews" tvg-logo="http://yunus12.my.id/logotv/inewsindi.png" group-title="Berita",iNews
@@ -782,14 +778,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/spotvindi1.jpg" group-title="Olahraga",SPOTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/spotvindi1.jpg" group-title="Olahraga",SPOTV 
 #https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/spotvindi2.jpg" group-title="Olahraga",SPOTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/spotvindi2.jpg" group-title="Olahraga",SPOTV 2
 #https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
@@ -798,13 +794,13 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/star1.png" group-title="Olahraga",SportStars
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/star1.png" group-title="Olahraga",SportStars
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/star2.png" group-title="Olahraga",SportStars 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/star2.png" group-title="Olahraga",SportStars 2
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -932,7 +928,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/nhkjpindi.png" group-title="Hiburan",NHK World Japan
 https://cdn09jtedge.indihometv.com/joss/130/nhkworld720/index.m3u8
 
-#EXTINF:-1 group-title="Hiburan" tvg-logo="http://yunus12.my.id/logotv/stindi.png",SEA Today
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/stindi.png",SEA Today
 http://cdnkbl3.indihometv.com/ateme/dash/seatoday/manifest.mpd
 
 
@@ -1152,7 +1148,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/ledonindi.png" group-title="Anak",Nickelodeon
 http://cdnkbl3.indihometv.com/ateme/dash/nickelodeon/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/cartoonitoindi.png" group-title="Anak",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/cartoonitoindi.png" group-title="Anak",Cartoonito
 http://cdnkbl3.indihometv.com/ateme/dash/boomerang/manifest.mpd
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/HIPHIPINDI.png" group-title="Anak",Horee
@@ -1411,11 +1407,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/star1.png" group-title="Live Bola",ID~Sport~1 HD
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/star1.png" group-title="Live Bola",ID~Sport~1HD	
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/star2.png" group-title="Live Bola",ID~Sport2 HD	
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/star2.png" group-title="Live Bola",ID~Sport~2HD	
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
