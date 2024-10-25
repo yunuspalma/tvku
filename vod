@@ -1,4 +1,23 @@
 
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/08/film-the-beast-within-2024-lk21-d21.jpg.webp"group-title="2024",The Beast Within
+https://stream.hownetwork.xyz/xxx/the-beast-within-2024-bluray_X_a21435c6/26/480.m3u8
+#EXTINF:0 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/10/film-classified-2024-lk21-d21.jpg"group-title="2024",Classified
+https://stream.hownetwork.xyz/xxx/classified-2024-webdl_X_716d762f/26/480.m3u8
+
+#EXTINF:0 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/10/film-die-alone-2024-lk21-d21.jpg"group-title="2024",Die Alone
+https://stream.hownetwork.xyz/xxx/die-alone-2024-webdl_X_e7589cf4/26/480.m3u8
+
+#EXTINF:0 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/10/film-outside-2024-lk21-d21.jpg"group-title="2024",Outside
+https://stream.hownetwork.xyz/xxx/outside-2024-webdl_X_f8dcd29a/26/480.m3u8
+
 #EXTINF:0 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/10/film-the-nine-dragon-wall-the-legend-of-man-and-loong-2024-lk21-d21.jpg"group-title="2024",The Nine Dragon Wall
 https://www.googleapis.com/drive/v3/files/1s5AzObNWP3HbnUpMvRn7ih3-sGO55eO9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:0 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-tantra-2024-lk21-d21.jpg.webp"group-title="2024",Tantra
@@ -127,13 +146,8 @@ https://stream.hownetwork.xyz/xxx/officer-black-belt-2024-webdl_X_7d8b3e27/20/48
 #EXTINF:-1 type="" group-title="2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/09/film-while-you-were-sleeping-2024-lk21-d21.jpg.webp",While You Were Sleeping
 https://stream.hownetwork.xyz/xxx/while-you-were-sleeping-2024-webdl_X_c6c99f0d/20/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv.lk21official.online/
-#EXTINF:-1 type="" group-title="2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/09/film-rob-peace-2024-lk21-d21.jpg.webp",Rob Peace
-https://stream.hownetwork.xyz/xxx/rob-peace-2024-webdl_X_98715186/20/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv.lk21official.online/
+
 #EXTINF:-1 type="" group-title="2024" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/09/film-kung-fu-games-2024-lk21-d21.jpg.webp",Kung Fu Games
 https://stream.hownetwork.xyz/xxx/kung-fu-games-2024-webdl_X_961f75b8/20/480.m3u8
 
@@ -155,19 +169,11 @@ https://stream.hownetwork.xyz/xxx/dont-turn-out-the-lights-2024-webdl_X_5d13c4de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTVLCOPT:http-referrer=https://tv.lk21official.online/
 #EXTINF:-1 type="" group-title="2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/09/film-the-demon-disorder-2024-lk21-d21.jpg.webp",The Demon Disorder
-https://stream.hownetwork.xyz/xxx/the-demon-disorder-2024-webdl_X_eac9fadc/25/480.m3u8
-
+https://stream.hownetwork.xyz/xxx/the-demon-disorder-2024-bluray_X_8db2eb4c/20/480.m3u8
 
 #EXTINF:0 tvg-logo="https://titipjepang.com/wp-content/uploads/2023/11/555-Faiz-Next.png"group-title="2024",Kamen Rider 555 20th
 https://stream.hownetwork.xyz/xxx/kamen-rider-555-20th-paradise-regained-2024-webdl_X_2609a770/25/480.m3u8
 
-
-#EXTINF:-1 type="" group-title="2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/09/film-shoshana-2024-lk21-d21.jpg.webp",Shoshana
-https://stream.hownetwork.xyz/xxx/shoshana-2024-webdl_X_f20d71a7/25/480.m3u8
-
-
-#EXTINF:-1 type="" group-title="2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/09/film-claws-mong-vuot-2024-lk21-d21.jpg.webp",Claws
-https://stream.hownetwork.xyz/xxx/claws-mong-vuot-2024-webdl_X_df901e32/25/480.m3u8
 
 #EXTINF:-1 type="" group-title="2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/09/film-escape-from-germany-2024-lk21-d21.jpg.webp",Escape from Germany
 https://stream.hownetwork.xyz/xxx/escape-from-germany-2024-webdl_X_d9eb9f7d/25/480.m3u8
@@ -344,8 +350,10 @@ https://stream.hownetwork.xyz/xxx/ghostbusters-frozen-empire-2024-bluray_X_8dd41
 
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/images/rebel.png"group-title="2024",Rebel Moon–Part 2
-https://stream.hownetwork.xyz/xxx/rebel-moon-part-two-the-scargiver-2024-webdl/21/480.m3u8
-
+https://storage.dewanonton.online/hls/82ef55ac-2ad7-4f92-92eb-244d79c1ce35.mp4/index.m3u8
+#https://stream.hownetwork.xyz/xxx/rebel-moon-part-two-the-scargiver-2024-webdl/21/480.m3u8
+#EXTINF:0 tvg-logo="http://yunus12.my.id/images/rebel.png"group-title="2024",Rebel Moon–Part 1
+https://storage.dewanonton.online/hls/25613831-54fb-4018-9ff3-fd6a1fe7f937.mp4/index.m3u8
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/images/TW2.jpg"group-title="2024",Town Mall 2
 https://stream.hownetwork.xyz/xxx/town-mall-2-2024-webdl_X_dda86a9e/20/480.m3u8
