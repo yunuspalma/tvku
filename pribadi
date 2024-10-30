@@ -261,7 +261,7 @@ http://cdnkbl3.indihometv.com/ateme/dash/tvone/manifest.mpd
 #EXTINF:-1 tvg-id="tvone" tvg-name="TVONE" tvg-logo="http://yunus12.my.id/logotv/tvone.jpg" group-title="Lokal",tvOne
 #https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-logo="https://s.id/ugs4S" group-title="Lokal",MOJI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/mojiindi.png" group-title="Lokal",MOJI
 https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/moji.jpg" group-title="Lokal",MOJI
@@ -636,7 +636,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/idx.jpg" group-title="Berita",IDX Channel
 #https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="hhttps://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/idxindi.png" group-title="Berita",IDX Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/idxindi.png" group-title="Berita",IDX Channel
 http://cdnkbl3.indihometv.com/ateme/dash/idx/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/curiosindi.png" group-title="Berita",Curiosity Channel 
