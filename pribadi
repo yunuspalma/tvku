@@ -937,10 +937,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 #https://cdnjt24.useetv.com/drm/live/smil:afc.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/nhkjpindi.png" group-title="Hiburan",NHK World Japan
-https://streaming.indihometv.com/atm/hlsv3/NHK_WORLD_JAPAN/playlist.m3u8
-https://cdn09jtedge.indihometv.com/joss/130/nhkworld720/index.m3u8
-
 #EXTINF:-1 group-title="Hiburan" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/stindi.png",SEA Today
 https://streaming.indihometv.com/atm/hlsv3/seatoday/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/seatoday/manifest.mpd
@@ -953,6 +949,12 @@ http://cdnkbl3.indihometv.com/ateme/dash/seatoday/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/nhkjpindi.png" group-title="Hiburan",NHK World Japan
+https://streaming.indihometv.com/atm/hlsv3/NHK_WORLD_JAPAN/playlist.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/nhkworld720/index.m3u8
+
 
 #EXTINF:-1 tvg-ID="arirang" tvg-name="arirang" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ariangindi.png" group-title="Hiburan",Arirang
 https://streaming.indihometv.com/atm/hlsv3/ARIRANG/playlist.m3u8
