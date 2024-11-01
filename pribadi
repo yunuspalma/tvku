@@ -28,8 +28,9 @@
 
 
 
-
------------------------------Local-----------------------------------------------------------------------------------------------------------------------------
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> Local
+//========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -64,7 +65,7 @@ https://1s1.rctiplus.id/rcti2023-avc1_3500000=8-mp4a_128000=2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-ID="rcti" tvg-logo="http://yunus12.my.id/logotv/rctiplus.png" group-title="Lokal",RCTI
+#EXTINF:-1 tvg-ID="rcti" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/rctinew.jpg" group-title="Lokal",RCTI
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 
 
@@ -86,7 +87,7 @@ https://1s1.rctiplus.id/mnctv2023-avc1_3500000=8-mp4a_128000=2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/mncplus.png" group-title="Lokal",MNCTV HD
+#EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/mnctvnew.jpg" group-title="Lokal",MNCTV HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-ID="Useephoto" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/GTV%2B.png" group-title="Lokal",GTV Plus
@@ -97,7 +98,7 @@ https://1s1.rctiplus.id/gtv2023-avc1_3500000=8-mp4a_106400_eng=9.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-ID="Useephoto" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/gtvplus.png" group-title="Lokal",GTV
+#EXTINF:-1 tvg-ID="Useephoto" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/gtvnew.jpg" group-title="Lokal",GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
@@ -268,7 +269,9 @@ https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #https://s.id/1YseN
 
------------------------------Movies-----------------------------------------------------------------------------------------------------------------------------
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> Movies
+//========================================================================
 
 
 #EXTINF:-1 tvg-ID="Film" group-title="Film" tvg-logo="http://yunus12.my.id/vidiologo/cbioskop.jpg",Citra Bioskop 
@@ -576,12 +579,9 @@ https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-
-
-
-
-
------------------------------HBO Premium-----------------------------------------------------------------------------------------------------------------------------
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>>HBO
+//========================================================================
 
 
 
@@ -626,7 +626,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 
------------------------------News-----------------------------------------------------------------------------------------------------------------------------
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> News
+//========================================================================
 
 
 
@@ -678,8 +680,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
 #https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 
-
------------------------------Sports-----------------------------------------------------------------------------------------------------------------------------
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> Sports
+//========================================================================
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -745,10 +748,6 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -774,14 +773,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/star2.png" group-title="Olahraga",SportStars 2
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/star2.png" group-title="Olahraga",SportStars up
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/star2.png" group-title="Olahraga",SportStars 2(Back,up)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/star2.png" group-title="Olahraga",SportStars 2
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
@@ -885,7 +884,12 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/figsportindi.jpg" group-title="Olahraga",Fight Sports
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
------------------------------Religi-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> Religi
+//========================================================================
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -979,7 +983,9 @@ https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://yunus12.my.id/logotv/dunialain.png" group-title="Agama",Dunia Lain 
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/dunialain.m3u8
 
------------------------------Malaysia-----------------------------------------------------------------------------------------------------------------------------
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> Malaysia
+//========================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/okey.jpg" group-title="Malaysia",Okey
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -1049,8 +1055,9 @@ https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
 
 
------------------------------Musik-----------------------------------------------------------------------------------------------------------------------------
-
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> Musik
+//========================================================================
 
 
 
@@ -1102,7 +1109,12 @@ https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTINF:-1 tvg-ID="Film" group-title="Musik" tvg-logo="http://yunus12.my.id/logotv/NAGASPOP.jpg",Nagaswara Pop
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
------------------------------Kids-----------------------------------------------------------------------------------------------------------------------------
+
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> Kids
+//========================================================================
+
+
 #EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/funindi.png" group-title="Anak",FunPlanet
 https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8
 
@@ -1224,6 +1236,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/moonbug.jpg" group-title="Anak",Moonbug
 https://streaming.indihometv.com/joss/134/moonbug/playlist.m3u8
 
+
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> Hiburan
+//========================================================================
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1279,6 +1296,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEnt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/fmnvision.png" group-title="Hiburan",FMN
 https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> Cadangan
+//========================================================================
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1337,10 +1359,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/mojidens.jpg" group-title="Cadangan",MOJI
-#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 tvg-ID="kompastv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/kompasdens.jpg" group-title="Cadangan",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
