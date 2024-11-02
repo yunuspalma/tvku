@@ -60,7 +60,7 @@ https://cdn09jtedge.indihometv.com/joss/130/uchannel/index.m3u8
 
 
 
-#EXTINF:-1 tvg-ID="rcti" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/RCTI%2B.png" group-title="Lokal",RCTI Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/RCTI%2B.png" group-title="Lokal",RCTI Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO CPH1729 Build/N6F26Q) IPTV/7.1.6
 https://1s1.rctiplus.id/rcti2023-avc1_3500000=8-mp4a_128000=2.m3u8
 
@@ -68,7 +68,7 @@ https://1s1.rctiplus.id/rcti2023-avc1_3500000=8-mp4a_128000=2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-ID="rcti" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/rctinew.jpg" group-title="Lokal",RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/rctinew.jpg" group-title="Lokal",RCTI
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 
 
@@ -81,7 +81,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
 #EXTINF:-1 tvg-ID="rcti" tvg-logo="http://yunus12.my.id/logotv/rctiplus.png" group-title="Lokal",RCTI HD
 #https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/MNC%2B.png" group-title="Lokal",MNCTV Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/MNC%2B.png" group-title="Lokal",MNCTV Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO CPH1729 Build/N6F26Q) IPTV/7.1.6
 https://1s1.rctiplus.id/mnctv2023-avc1_3500000=8-mp4a_128000=2.m3u8
 
@@ -93,7 +93,7 @@ https://1s1.rctiplus.id/mnctv2023-avc1_3500000=8-mp4a_128000=2.m3u8
 #EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/mnctvnew.jpg" group-title="Lokal",MNCTV HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-ID="Useephoto" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/GTV%2B.png" group-title="Lokal",GTV Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/GTV%2B.png" group-title="Lokal",GTV Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO CPH1729 Build/N6F26Q) IPTV/7.1.6
 https://1s1.rctiplus.id/gtv2023-avc1_3500000=8-mp4a_106400_eng=9.m3u8
 
@@ -101,19 +101,19 @@ https://1s1.rctiplus.id/gtv2023-avc1_3500000=8-mp4a_106400_eng=9.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-ID="Useephoto" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/gtvnew.jpg" group-title="Lokal",GTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/gtvnew.jpg" group-title="Lokal",GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
 
 
 
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/sctvindihome.png",SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/sctvindihome.png" group-title="Lokal",SCTV
 https://streaming.indihometv.com/atm/hlsv3/sctv/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/sctv/manifest.mpd
 
 
-#EXTINF:-1 tvg-ID="antv" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/antvindihome.png",ANTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/antvindihome.png" group-title="Lokal",ANTV
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -122,7 +122,7 @@ https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 #EXTINF:-1 tvg-ID="antv" group-title="Lokal" tvg-logo="http://yunus12.my.id/logotv/antv.jpg",ANTV
 #https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-ID="transtv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/transindihome.png" group-title="Lokal",Trans TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/transindihome.png" group-title="Lokal",Trans TV HD
 https://cdn09jtedge.indihometv.com/joss/133/transtv1080/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -143,7 +143,7 @@ https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/trans7/manifest.mpd
 
 
-#EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/indosiarindihome.png" group-title="Lokal",Indosiar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/indosiarindihome.png" group-title="Lokal",Indosiar
 https://streaming.indihometv.com/atm/hlsv3/indosiar/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/indosiar/manifest.mpd
 
@@ -155,7 +155,7 @@ http://cdnkbl3.indihometv.com/ateme/dash/indosiar/manifest.mpd
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="http://yunus12.my.id/logotv/gbtackerv.png" group-title="Lokal",Global Trekker
 https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/btvindi.png" group-title="Lokal",BTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/btvindi.png" group-title="Lokal",BTV
 https://streaming.indihometv.com/atm/hlsv3/beritasatu/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/beritasatu/manifest.mpd
 
@@ -184,7 +184,7 @@ http://cdnkbl3.indihometv.com/ateme/dash/mncnews/manifest.mpd
 #EXTINF:-1 tvg-name="daaitv" group-title="Lokal" tvg-logo="http://yunus12.my.id/logotv/garuda.jpg",Garuda TV
 #https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Insert" tvg-name="Insert" tvg-logo="http://yunus12.my.id/vidiologo/insert.jpg" group-title="Lokal",Insert
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/vidiologo/insert.jpg" group-title="Lokal",Insert
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
 https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
@@ -198,7 +198,7 @@ https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w156028470
 #https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 
-#EXTINF:-1 tvg-ID="jtv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/jtvindi.png" group-title="Lokal",JTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/jtvindi.png" group-title="Lokal",JTV
 https://streaming.indihometv.com/atm/hlsv3/jtv/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/jtv/manifest.mpd
 
@@ -237,15 +237,26 @@ https://cdn09jtedge.indihometv.com/joss/133/metrotv/index.m3u8
 #EXTINF:-1 tvg-ID="nettv" tvg-name="NET TV" tvg-logo="http://yunus12.my.id/logotv/net.jpg" group-title="Lokal",Net
 #https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-ID="nettv" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/netindi.png" group-title="Lokal",Net
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/netindi.png" group-title="Lokal",Net
 https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/antaraindi.jpg" group-title="Lokal",Antara
+https://streaming.indihometv.com/atm/hlsv3/antara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/idtvindi.jpg" group-title="Lokal",IDTV
+https://streaming.indihometv.com/joss/134/idtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/jawapos.jpg" group-title="Lokal",JawaPos tv
+https://streaming.indihometv.com/atm/hlsv3/jawapos/playlist.m3u8
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="nettv" tvg-name="Nusantara Tv" tvg-logo="https://i.ibb.co/hB6ysT2/nusantaratv.png" group-title="Lokal",Nusantara Tv
 #https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-ID="nettv" tvg-name="Nusantara Tv" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/nusantaratvindi.png" group-title="Lokal",Nusantara Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/nusantaratvindi.png" group-title="Lokal",Nusantara Tv
 https://streaming.indihometv.com/atm/hlsv3/nusantaratv/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/nusantaratv/manifest.mpd
 
@@ -255,7 +266,7 @@ http://cdnkbl3.indihometv.com/ateme/dash/nusantaratv/manifest.mpd
 #EXTINF:-1 tvg-ID="RajawaliTV" group-title="Lokal" tvg-logo="http://yunus12.my.id/logotv/rtv.jpg",RTV
 #https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-ID="RajawaliTV" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/rtvindi.png",RTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/rtvindi.png"group-title="Lokal",RTV
 https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -264,14 +275,14 @@ https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="tvone" tvg-name="TVONE" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvoneindi.png" group-title="Lokal",TVOne
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvoneindi.png" group-title="Lokal",TVOne
 https://streaming.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/tvone/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="tvone" tvg-name="TVONE" tvg-logo="http://yunus12.my.id/logotv/tvone.jpg" group-title="Lokal",tvOne
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/tvone.jpg" group-title="Lokal",tvOne
 #https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/mojiindi.png" group-title="Lokal",MOJI
@@ -293,11 +304,11 @@ https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 
-#EXTINF:-1 tvg-ID="Film" group-title="Film" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/citadramaindi.png",Citra Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/citadramaindi.png"group-title="Film",Citra Drama
 https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/chineindi.png" group-title="Film",Chinese Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/chineindi.png" group-title="Film",Chinese Drama
 https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 
 
@@ -350,7 +361,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/mcnvision.jpg" group-title="Film",My Cinema v+
-https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -368,8 +379,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/studio.jpg" group-title="Film",Studio Universal
+https://streaming.indihometv.com/joss/130/studiouniversal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/celestialindi.png" group-title="Film",Celestial Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/celestialindi.png" group-title="Film",Celestial Movies
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -422,7 +435,7 @@ https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/zeeindi.png" group-title="Film",ZBioskop
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/zeeindi.png" group-title="Film",ZBioskop
 https://cdn13jtedge.indihometv.com/atm/hlsv3/zbioskop/zbioskop.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/zbioskop/manifest.mpd
 
@@ -516,7 +529,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 #EXTINF:-1 tvg-id="blueant" tvg-logo="http://yunus12.my.id/vidiologo/REM.jpg" group-title="Film",Rock Entertainment
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 tvg-id="blueant" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/reindi.png" group-title="Film",Rock Entertainment
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/reindi.png" group-title="Film",Rock Entertainment
 #http://cdnkbl3.indihometv.com/ateme/dash/rock_entertainment/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -537,7 +550,7 @@ https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ccmvision.png" group-title="Film",CCM 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ccmvision.png" group-title="Film",CCM 
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 
@@ -556,7 +569,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionprimeplus.png" group-title="Film",Vision Prime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionprimeplus.png" group-title="Film",Vision Prime
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 
@@ -614,19 +627,19 @@ https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 //Collected by @Yunus Palma menampilkan playlist >>>HBO
 //========================================================================
 
-#EXTINF:-1 tvg-ID="HBO" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hboindo.jpg",HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hboindo.jpg",HBO
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
 
-#EXTINF:-1 tvg-ID="hbo" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbohitsindo.jpg",HBO Hits
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbohitsindo.jpg",HBO Hits
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbofamilyindo.jpg",HBO Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbofamilyindo.jpg",HBO Family
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
 
-#EXTINF:-1 tvg-ID="HBO" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbosignatureindo.jpg",HBO Signature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbosignatureindo.jpg",HBO Signature
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
 
-#EXTINF:-1 tvg-ID="HBO GO" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/cinemaxindo.jpg",Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/cinemaxindo.jpg",Cinemax
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
 
@@ -642,7 +655,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/idx.jpg" group-title="Berita",IDX Channel
 #https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/idxindi.png" group-title="Berita",IDX Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/idxindi.png" group-title="Berita",IDX Channel
 https://streaming.indihometv.com/atm/hlsv3/idx/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/idx/manifest.mpd
 
@@ -652,7 +665,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/ccgtn.jpg" group-title="Pengetahuan",CGTN Documentary
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/ccgtn.jpg" group-title="Pengetahuan",CGTN Documentary
 #https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
@@ -660,11 +673,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 https://streaming.indihometv.com/atm/hlsv3/CGTN_DOCUMENTARY/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/CGTN_DOCUMENTARY/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/bloombergindi.png" group-title="Berita",Bloomberg TV Asia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/bloombergindi.png" group-title="Berita",Bloomberg TV Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/news/bloomberg.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/BLOOMBERG/manifest.mpd
 
-#EXTINF:-1 tvg-ID="INews" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/inewsindihome.png" group-title="Berita",iNews
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/inewsindihome.png" group-title="Berita",iNews
 https://streaming.indihometv.com/atm/hlsv3/inews/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/inews/manifest.mpd
 
@@ -675,7 +688,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-ID="INews" tvg-logo="http://yunus12.my.id/logotv/inewsvisi.png" group-title="Berita",INews
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/inewsvisi.png" group-title="Berita",INews
 #https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
@@ -684,7 +697,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/bloom.png" group-title="Berita",Bloomberg TV Asia
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/bloom.png" group-title="Berita",Bloomberg TV Asia
 #https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 
@@ -954,7 +967,7 @@ http://cdnkbl3.indihometv.com/ateme/dash/FASHION_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/keyzn.png" group-title="Hiburan",KezoneTV
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/keyzn.png" group-title="Hiburan",KezoneTV
 https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 
@@ -1428,6 +1441,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
