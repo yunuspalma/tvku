@@ -304,13 +304,11 @@ https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/citadramaindi.png"group-title="Film",Citra Drama
-https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/chineindi.png" group-title="Film",Chinese Drama
 https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/citadramaindi.png" group-title="Film",Citra Drama
+https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
 
 #EXTINF:-1 tvg-ID="Film" group-title="Film" tvg-logo="http://yunus12.my.id/vidiologo/centertaiment.jpg",Citra Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
