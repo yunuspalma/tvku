@@ -326,6 +326,7 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 http://cdnkbl3.indihometv.com/ateme/dash/warner/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/axnindi.png" group-title="Film",AXN
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/axn.m3u8
 https://streaming.indihometv.com/atm/hlsv3/axn/playlist.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/axn/manifest.mpd
 
