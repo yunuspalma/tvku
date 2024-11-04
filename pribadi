@@ -315,7 +315,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnterta
 
 
 #EXTINF:-1 group-title="Film" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/kplusindi.png",Kplus
-https://streaming.indihometv.com/atm/hlsv3/kplus/playlist.m3u8
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/KPlus.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/maxsteamindi.png" group-title="Film",Maxstream
