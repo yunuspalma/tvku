@@ -1437,8 +1437,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvndens.jpg" group-title="Cadangan",tvN
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/dens/tvn
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvnmoviesdens.jpg" group-title="Cadangan",TVN Movies
 #EXTVLCOPT:http-referrer=http://dens.tv
