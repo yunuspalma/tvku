@@ -2,13 +2,14 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/11/film-levels-2024-lk21-d21.jpg.webp" group-title="2024",Levels
+https://stream.hownetwork.xyz/xxx/levels-2024-webdl_X_f5005815/26/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/11/film-war-blade-2024-lk21-d21.jpg.webp" group-title="2024",War Blade
+https://stream.hownetwork.xyz/xxx/war-blade-2024-webdl_X_2578ba2e/26/480.m3u8
 
-
-
-
-
-
+#EXTINF:-1 type="" group-title="2024" tvg-logo="https://image.tmdb.org/t/p/w185/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",Venom: The Last Dance
+#https://www.googleapis.com/drive/v3/files/1EnN-fpdXP3fdXLr4VW5n8DtgGaf6HIEr?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 #EXTINF:-1 type="" group-title="2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTlkNTktOTJlMC00MmYyLThkNzQtYmExOGZkZDE1ZjgwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",The Ministry Of Ungentlemanly Warfare
@@ -31,7 +32,8 @@ https://storage.dewanonton.online/hls/98c5dd8c-6cc9-4648-bf58-b2677c3d3c72.mp4/i
 https://storage.dewanonton.online/hls/7a29e5b6-33f2-4961-842e-fbe800453250.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/10/film-survive-survivre-2024-lk21-d21.jpg.webp" group-title="2024",Survive
 https://stream.hownetwork.xyz/xxx/survive-survivre-2024-webdl_X_9870d167/26/480.m3u8
-
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/images/arn.jpg" group-title="2024",ARN
+https://op-svod.dens.tv/02/MVCIN00009/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/images/hq720.jpg" group-title="2024",Elimination game
 https://op-svod.dens.tv/04/MVKIX00161/S4/mnf.m3u8
 
@@ -536,24 +538,6 @@ https://stream.hownetwork.xyz/xxx/parasyte-the-grey-season-1-episode-5-2024-webd
 https://stream.hownetwork.xyz/xxx/parasyte-the-grey-season-1-episode-6-2024-webdl_X_b1ac13bd/21/480.m3u8
 
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/images/shehulk.jpg"group-title="Serial",She-Hulk:ep.01
-https://www.googleapis.com/drive/v3/files/1BB9pKTWXKyYOtQhd-n8ZayXBOcpA2BRQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="http://yunus12.my.id/images/shehulk.jpg"group-title="Serial",She-Hulk:ep.02
-http://yunus12.my.id/8080/She-HulkEpisode2.ts
-#EXTINF:0 tvg-logo="http://yunus12.my.id/images/shehulk.jpg"group-title="Serial",She-Hulk:ep.03
-http://yunus12.my.id/8080/She-HulkEpisode3.ts
-#EXTINF:0 tvg-logo="http://yunus12.my.id/images/shehulk.jpg"group-title="Serial",She-Hulk:ep.04
-http://yunus12.my.id/8080/She-HulkEpisode4
-#EXTINF:0 tvg-logo="http://yunus12.my.id/images/shehulk.jpg"group-title="Serial",She-Hulk:ep.05
-http://yunus12.my.id/8080/She-HulkEpisode5
-#EXTINF:0 tvg-logo="http://yunus12.my.id/images/shehulk.jpg"group-title="Serial",She-Hulk:ep.06
-http://yunus12.my.id/8080/She-HulkEpisode6.ts
-#EXTINF:0 tvg-logo="http://yunus12.my.id/images/shehulk.jpg"group-title="Serial",She-Hulk:ep.07
-http://yunus12.my.id/8080/She-HulkEpisode7.ts
-#EXTINF:0 tvg-logo="http://yunus12.my.id/images/shehulk.jpg"group-title="Serial",She-Hulk:ep.08
-http://yunus12.my.id/8080/She-HulkEpisode8.ts
-#EXTINF:0 tvg-logo="http://yunus12.my.id/images/shehulk.jpg"group-title="Serial",She-Hulk:ep.09
-http://yunus12.my.id/8080/She-HulkEpisode9.ts
 
 
 
