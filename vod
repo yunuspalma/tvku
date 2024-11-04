@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/03/film-damsel-2024-lk21-d21.jpg.webp" group-title="2024",Damsel
+https://storage.dewanonton.online/hls/5c7b90d3-0fe4-46d8-8fc1-00b0ffb21903.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/11/film-levels-2024-lk21-d21.jpg.webp" group-title="2024",Levels
 https://stream.hownetwork.xyz/xxx/levels-2024-webdl_X_f5005815/26/480.m3u8
 
@@ -18,8 +19,7 @@ https://storage.dewanonton.online/hls/2c097775-5abf-46da-9132-7226c49c8409.mp4/i
 https://storage.dewanonton.online/hls/a7bb4387-837f-4aeb-a52d-49bd5a6f82f8.mp4/index.m3u8
 #EXTINF:-1 type="" group-title="2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhMTBlN2QtMWJmOS00OTliLWEwZTUtZjI3NWM2NjdmZjI3XkEyXkFqcGc@._V1_SX300.jpg",My Spy: The Eternal City
 https://storage.dewanonton.online/hls/829b79c8-b6c6-496d-9d58-2a695ea71756.mp4/index.m3u8
-#EXTINF:-1 type="" group-title="2024" tvg-logo="https://image.tmdb.org/t/p/original/o5RrjQMZS5G7YUyQ01Qc0eCgHoU.jpg",Damsel
-https://storage.dewanonton.online/hls/5c7b90d3-0fe4-46d8-8fc1-00b0ffb21903.mp4/index.m3u8
+
 #EXTINF:-1 type="" group-title="2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0YzI0OTctYjVhYy00MTVhLWE0NTgtYTRmYTBmOTE3YTViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",Kung Fu Panda 4
 https://storage.dewanonton.online/hls/aa5489f0-8b43-4ffb-8028-29b3a2414e8d.mp4/index.m3u8
 #EXTINF:-1 type="" group-title="2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNiMWNkMDQtMDFhOS00YWJlLWFiN2ItNDhmNzBlOWZhMWNmXkEyXkFqcGdeQXVyNjM2NzM0NTg@._V1_SX300.jpg",Kill Craft
