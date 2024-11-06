@@ -37,11 +37,9 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvri.jpg" group-title="Local",TVRI KalBar
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_1500000=10006-mp4a_96000_eng=20002.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvriindi.png" group-title="Local",TVRI
-https://streaming.indihometv.com/atm/hlsv3/TVRI/playlist.m3u8
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/TVRI.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/TVRI/manifest.mpd
 
 
@@ -50,8 +48,8 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w1627249822.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/logo/refs/heads/main/allplayindi.jpg" group-title="Local",All Play
-https://streaming.indihometv.com/atm/hlsv3/useeprime/playlist.m3u8
-http://cdnkbl3.indihometv.com/ateme/dash/useeprime/manifest.mpd
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/allplay.m3u8
+
 
 
 
@@ -135,14 +133,11 @@ https://cdn09jtedge.indihometv.com/joss/133/transtv1080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/trans7indihome.png" group-title="Local",Trans 7 HD
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/Trans7.m3u8
-https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8
-http://cdnkbl3.indihometv.com/ateme/dash/trans7/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/indosiarindihome.png" group-title="Local",Indosiar
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/Indosiar.m3u8
 https://streaming.indihometv.com/atm/hlsv3/indosiar/playlist.m3u8
-http://cdnkbl3.indihometv.com/ateme/dash/indosiar/manifest.mpd
 
 
 
@@ -154,11 +149,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltre
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/btvindi.png" group-title="Local",BTV
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/BTV.m3u8
-https://streaming.indihometv.com/atm/hlsv3/beritasatu/playlist.m3u8
-http://cdnkbl3.indihometv.com/ateme/dash/beritasatu/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/cnnindi.png" group-title="Local",CNN Indonesia
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/cnnindonesia.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w195038534_b384000_sleng.m3u8
 
 
@@ -176,8 +171,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/sindoindi.png" group-title="Local",Sindo News TV
-https://streaming.indihometv.com/atm/hlsv3/mncnews/playlist.m3u8
-http://cdnkbl3.indihometv.com/ateme/dash/mncnews/manifest.mpd
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/SindoNews.m3u8
 
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/garuda.jpg" group-title="Local",Garuda TV
 #https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
@@ -197,8 +191,7 @@ https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w156028470
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/jtvindi.png" group-title="Local",JTV
-https://streaming.indihometv.com/atm/hlsv3/jtv/playlist.m3u8
-http://cdnkbl3.indihometv.com/ateme/dash/jtv/manifest.mpd
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/jtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -207,8 +200,7 @@ http://cdnkbl3.indihometv.com/ateme/dash/jtv/manifest.mpd
 #https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/jaktvindi.png" group-title="Local",JAKTV
-https://streaming.indihometv.com/atm/hlsv3/JAK_TV/playlist.m3u8
-http://cdnkbl3.indihometv.com/ateme/dash/JAK_TV/manifest.mpd
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/JakTV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -274,8 +266,7 @@ https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tvoneindi.png" group-title="Local",TVOne
-https://streaming.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
-http://cdnkbl3.indihometv.com/ateme/dash/tvone/manifest.mpd
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/TVOne.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -658,7 +649,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
 #https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/idxindi.png" group-title="News",IDX Channel
-https://streaming.indihometv.com/atm/hlsv3/idx/playlist.m3u8
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/IDXChannel.m3u8
 http://cdnkbl3.indihometv.com/ateme/dash/idx/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/curiosindi.png" group-title="News",Curiosity Channel 
@@ -680,8 +671,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/ne
 http://cdnkbl3.indihometv.com/ateme/dash/BLOOMBERG/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/inewsindihome.png" group-title="News",iNews
-https://streaming.indihometv.com/atm/hlsv3/inews/playlist.m3u8
-http://cdnkbl3.indihometv.com/ateme/dash/inews/manifest.mpd
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/INews.m3u8
 
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/INEWS+.png" group-title="News",iNews 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -916,13 +906,13 @@ https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/muitv.jpg" group-title="Religion",MUI TV
-https://streaming.indihometv.com/atm/hlsv3/muitv/playlist.m3u8
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/muitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/mqtv.jpg" group-title="Religion",MQTV
-https://streaming.indihometv.com/atm/hlsv3/MQTV_HD/playlist.m3u8
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/mqtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/AlQuranKareem.jpg" group-title="Religion",AlQuran Kareem
-https://streaming.indihometv.com/atm/hlsv3/alquran/playlist.m3u8
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/AlQuranKareem.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/uchannelindi.png" group-title="Religion",U Channel
 https://streaming.indihometv.com/atm/hlsv3/uchannel/playlist.m3u8
@@ -1057,8 +1047,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/prambosindi.png" group-title="Music",Prambors Tv
-https://streaming.indihometv.com/atm/hlsv3/PRAMBORS_TV/playlist.m3u8
-http://cdnkbl3.indihometv.com/ateme/dash/PRAMBORS_TV/manifest.mpd
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/Prambors.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
