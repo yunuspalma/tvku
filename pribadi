@@ -160,7 +160,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w195038534_b3840
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/daaiindi.png" group-title="Local",DAAI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/daaiindi.png" group-title="Local",DAAI TV
 https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
@@ -176,7 +176,7 @@ https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/SindoNews
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/garuda.jpg" group-title="Local",Garuda TV
 #https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/vidiologo/insert.jpg" group-title="Local",Insert
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/insertindi.png" group-title="Local",Insert
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
 https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
