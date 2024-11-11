@@ -1,12 +1,15 @@
 #EXTM3U
 
-# (●) Last Update: 2024-11-08 13:37:00 GMT+7 "
+# (●) Last Update: 2024-11-11 22:37:00 GMT+7 "
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/11/film-black-2024-lk21-d21.jpg.webp" group-title="2024",Black
+https://stream.hownetwork.xyz/xxx/black-2024-webdl_X_c2be6fc3/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/08/film-shark-warning-2024-lk21-d21.jpg.webp" group-title="2024",Shark Warning
+https://stream.hownetwork.xyz/xxx/shark-warning-2024-webdl_X_c99cb584/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/11/film-anaconda-2024-lk21-d21.jpg.webp" group-title="2024",Anaconda
+https://stream.hownetwork.xyz/xxx/anaconda-2024-webdl_X_109b0e40/26/480.m3u8
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/11/film-bloodline-killer-2024-lk21-d21.jpg.webp" group-title="2024",Bloodline Killer
 https://stream.hownetwork.xyz/xxx/bloodline-killer-2024-webdl_X_6ef3ab40/26/480.m3u8
 
