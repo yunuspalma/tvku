@@ -120,8 +120,9 @@ https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 #https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/transindihome.png" group-title="Local",Trans TV HD
-https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/TransTV.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/transtv1080/index.m3u8
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/TransTV.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
