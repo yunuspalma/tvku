@@ -1,8 +1,14 @@
 #EXTM3U
 
-# (●) Last Update: 2024-11-11 22:37:00 GMT+7 "
+# (●) Last Update: 2024-11-19 10:37:00 GMT+7 "
 
 
+
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/09/film-a-place-called-silence-2024-lk21-d21.jpg.webp" group-title="2024",A Place Called Silence
+https://stream.hownetwork.xyz/xxx/a-place-called-silence-2024-bluray_X_90d90fba/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/11/film-get-fast-2024-lk21-d21.jpg.webp" group-title="2024",Get Fast
+https://stream.hownetwork.xyz/xxx/get-fast-2024-webdl_X_d72e12e8/26/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/11/film-black-2024-lk21-d21.jpg.webp" group-title="2024",Black
 https://stream.hownetwork.xyz/xxx/black-2024-webdl_X_c2be6fc3/26/480.m3u8
