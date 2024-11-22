@@ -1,9 +1,12 @@
 #EXTM3U
 
-# (●) Last Update: 2024-11-19 10:37:00 GMT+7 "
+# (●) Last Update: 2024-11-22 10:37:00 GMT+7 "
 
 
-
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/11/film-striking-rescue-2024-lk21-d21.jpg.webp" group-title="2024",Striking Rescue
+https://stream.hownetwork.xyz/xxx/striking-rescue-2024-webdl_X_5b468b1b/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/11/film-ma-da-the-drowning-spirit-2024-lk21-d21.jpg.webp" group-title="2024",Ma Da: The Drowning Spirit
+https://stream.hownetwork.xyz/xxx/ma-da-the-drowning-spirit-2024-webdl_X_5043fa9e/26/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/09/film-a-place-called-silence-2024-lk21-d21.jpg.webp" group-title="2024",A Place Called Silence
 https://stream.hownetwork.xyz/xxx/a-place-called-silence-2024-bluray_X_90d90fba/26/480.m3u8
