@@ -1,7 +1,23 @@
 #EXTM3U
 
-# (●) Last Update: 2024-11-22 10:37:00 GMT+7 "
+# (●) Last Update: 2024-11-26 10:37:00 GMT+7 "
 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/07/film-the-tomorrow-war-2021-lk21.jpg.webp" group-title="2024",The Tomorrow War
+https://stream.hownetwork.xyz/xxx/the-tomorrow-war-2021-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/11/film-conquer-lahad-datu-takluk-lahad-datu-2024-lk21-d21.jpg.webp" group-title="2024",Conquer: Lahad Datu
+https://stream.hownetwork.xyz/xxx/conquer-lahad-datu-takluk-lahad-datu-2024-webdl_X_2145001f/26/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/11/film-striking-rescue-2024-lk21-d21.jpg.webp" group-title="2024",Striking Rescue
 https://stream.hownetwork.xyz/xxx/striking-rescue-2024-webdl_X_5b468b1b/26/480.m3u8
