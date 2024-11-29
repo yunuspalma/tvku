@@ -1,6 +1,6 @@
 #EXTM3U
 
-# (●) Last Update: 2024-11-26 10:37:00 GMT+7 "
+# (●) Last Update: 2024-11-29 10:37:00 GMT+7 "
 
 
 
@@ -12,7 +12,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/11/film-martin-2024-lk21-d21.jpg.webp" group-title="2024",Martin
+https://stream.hownetwork.xyz/xxx/martin-2024-webdl_X_5f7974cc/26/480.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/07/film-the-tomorrow-war-2021-lk21.jpg.webp" group-title="2024",The Tomorrow War
 https://stream.hownetwork.xyz/xxx/the-tomorrow-war-2021-webdl/11/480.m3u8
 
@@ -378,7 +379,7 @@ https://www.googleapis.com/drive/v3/files/11Iy7168voA2bnNJBOPTADZTI4wCx5FI6?alt=
 https://www.googleapis.com/drive/v3/files/1oIeHGkNqaNUDhB4NU3Ow6xqaqC25f8WN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/images/BO.png"group-title="2024",Golden Kamuy
-https://www.googleapis.com/drive/v3/files/12yhiQ19_4oYl_XuRkr8dLyRd3avtd1P7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+https://stream.hownetwork.xyz/xxx/golden-kamuy-2024-bluray_X_1dea6a93/26/480.m3u8
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/images/BO.png"group-title="2024",Godzilla Minus One
 https://www.googleapis.com/drive/v3/files/1gcbSGai0ZghoZ5924wr_AmmE1loudayF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1778,7 +1779,6 @@ https://www.googleapis.com/drive/v3/files/1BCvW2LsaHSsZAMe55mxarBdVSloXTEhM?alt=
 
 #EXTINF:0 tvg-logo="https://virginsound.com.ng/wp-content/uploads/2021/03/Take-Back-2021-585x585.jpg" group-title="2021",Take Back
 https://www.googleapis.com/drive/v3/files/1tUh2T69BNyPes72uTQlTgObrhpKQ6Swy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/RcxMyF0/dinasti.jpg" group-title="2021",Dynasty Warriors
 https://www.googleapis.com/drive/v3/files/1UtMYGwBeO5mZXbVPrOviy3F5Dfe5egl6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
