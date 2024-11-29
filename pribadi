@@ -36,7 +36,7 @@
 
 #EXTM3U
 
-# (●) Last Update: 2024-11-21 10:26:00 GMT+7 "
+# (●) Last Update: 2024-11-29 10:26:00 GMT+7 "
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -1352,6 +1352,560 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEnt
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/fmnvision.png" group-title="Entertainment",FMN
 https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+//========================================================================
+//Collected by @Yunus Palma menampilkan playlist >>> Trial
+//========================================================================
+
+
+
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png",DAAI TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/21.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png",NET TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png",SCTV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",Trans TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",Trans 7
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png",Rajawali TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png",NET TV FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png",Bali TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/889.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png",Dunia Lain
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/910.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",Trans TV FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",Trans 7 FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/930.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png",SCTV HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png",Indosiar
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
+#EXTINF:-1 group-title="Trial",Antara TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32586.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://images.useetv.com/logo_tvone_big1.png",TV ONE
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png",Kompas TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png",TVRI
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png",CNN Indonesia
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/44.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png",Metro TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png",Aljazeera EN
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/89.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png",Berita Satu News
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/136.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png",BBC World News HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/789.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png",CNN Int
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1200.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png",CNBC Indonesia
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1512.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png",Metro TV HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1697.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png",Thrill
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/4.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png",Celestial Movies
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/5.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png",KIX HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png",AXN
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/9.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png",HITS
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png",Paramount Network
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png",Hits Movies HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png",HBO HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",Rock Entertainment HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/811.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png",LifeTime HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/866.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png",Bioskop Indonesia
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/908.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png",Hits Movie SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/957.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png",HITS HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1195.m3u8
+#EXTINF:-1 group-title="Trial",Hits Movies
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1478.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",HBO FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png",Warner TV ID HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1533.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png",Cinemax ID
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png",HBO Hits FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/11492.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png",HBO SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26595.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26596.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png",FLIK HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29592.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png",Galaxy Premium SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29603.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png",Galaxy SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29604.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png",ATV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29899.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30184.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png",Cinemax FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30185.m3u8
+#EXTINF:-1 group-title="Trial",IMC SD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35484.m3u8
+#EXTINF:-1 group-title="Trial",Celestial Classic Movies CCM
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36581.m3u8
+#EXTINF:-1 group-title="Trial",Discovery Channel HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/95.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png",TechStorm
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/455.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",History HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/718.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",History FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png",Lingua Channel
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14944.m3u8
+#EXTINF:-1 group-title="Trial",Da Vinci Learning
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36729.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png",Animax
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png",My Kidz
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/213.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png",Boomerang ID
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/305.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network ID HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/680.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png",Dunia Anak
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8
+#EXTINF:-1 group-title="Trial",My Kidz
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1483.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png",Indi Kids
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png",Horee
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14106.m3u8
+#EXTINF:-1 group-title="Trial",Dream Works HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png",Golf Channel FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/561.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg",BeIN Sport 1 ID
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg",BeIN Sport 2 ID
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/729.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png",Fight Sports
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/784.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png",NBA TV HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3099.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif",Fashion TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/280.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg",TLC HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/352.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png",HGTV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/537.m3u8
+#EXTINF:-1 group-title="Trial",AFN HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/807.m3u8
+#EXTINF:-1 group-title="Trial",Citra Drama
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/905.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",Rock Action HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1506.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.transvision.co.id/img/channel/insert.png",Insert
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1763.m3u8
+#EXTINF:-1 group-title="Trial",Eat & Go
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26979.m3u8
+#EXTINF:-1 group-title="Trial",.idku
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36730.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://www.bbcasia.com/brand/assets/images/channel-assets/bbc-lifestyle/about-logo-bbc-lifestyle.png",BBC Lifestyle HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36766.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0",K Plus
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/18.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0",Sony ONE
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/19.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png",TVN ID
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/767.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg",tVN Movies HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/927.m3u8
+#EXTINF:-1 group-title="Trial",KBS World HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/15057.m3u8
+#EXTINF:-1 group-title="Trial",Drama Korea LBS
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35769.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://2.bp.blogspot.com/-bqsxJ-eLvss/VxU5ap-tOwI/AAAAAAAABcM/hlkUmYXTa-4Y3IA_-fx0uuGHIwJrs0ekQCLcB/s1600/U35f_aGI.png",MTV Music
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/286.m3u8
+#EXTINF:-1 group-title="Trial",Prambors TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1157.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Oneafricasmall.png",ONE African TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1731.m3u8
+#EXTINF:-1 group-title="Trial",Citra Dangdut
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2207.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png",MTV LIVE HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/9110.m3u8
+#EXTINF:-1 group-title="Trial",i konser
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29594.m3u8
+#EXTINF:-1 group-title="Trial",MY - Love Nature
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37333.m3u8
+#EXTINF:-1 group-title="Trial",MY - ASTRO OASIS HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37334.m3u8
+#EXTINF:-1 group-title="Trial",MY - TV ALHIJRAH
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37337.m3u8
+#EXTINF:-1 group-title="Trial",MY - SPOTV 2
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37338.m3u8
+#EXTINF:-1 group-title="Trial",MY - W Sport
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37339.m3u8
+#EXTINF:-1 group-title="Trial",MY - ADITHYA
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37342.m3u8
+#EXTINF:-1 group-title="Trial",MY - STAR VIJAY HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37345.m3u8
+#EXTINF:-1 group-title="Trial",MY - COLORS TAMIL
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37346.m3u8
+#EXTINF:-1 group-title="Trial",MY - SUN TV HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37347.m3u8
+#EXTINF:-1 group-title="Trial",MY - Astro Premier
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37348.m3u8
+#EXTINF:-1 group-title="Trial",MY - iQIYI HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37349.m3u8
+#EXTINF:-1 group-title="Trial",MY - CELESTIAL HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37355.m3u8
+#EXTINF:-1 group-title="Trial",MY - CTI ASIA
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37358.m3u8
+#EXTINF:-1 group-title="Trial",MY - TVB E-NEWS
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37359.m3u8
+#EXTINF:-1 group-title="Trial",MY - TVB XING HE HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37360.m3u8
+#EXTINF:-1 group-title="Trial",MY - TVBS ASIA HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37361.m3u8
+#EXTINF:-1 group-title="Trial",MY - CCTV4 HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37364.m3u8
+#EXTINF:-1 group-title="Trial",MY - KBS World HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37369.m3u8
+#EXTINF:-1 group-title="Trial",MY - HITS MOVIES HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37373.m3u8
+#EXTINF:-1 group-title="Trial",MY - HBO HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37374.m3u8
+#EXTINF:-1 group-title="Trial",MY - CINEMAX HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37375.m3u8
+#EXTINF:-1 group-title="Trial",MY - tvN Movies
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37376.m3u8
+#EXTINF:-1 group-title="Trial",MY - ASTRO AWANI
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37377.m3u8
+#EXTINF:-1 group-title="Trial",MY - CGTN
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37379.m3u8
+#EXTINF:-1 group-title="Trial",MY - AL JAZEERA HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37382.m3u8
+#EXTINF:-1 group-title="Trial",MY - CNBC
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37385.m3u8
+#EXTINF:-1 group-title="Trial",MY - BLOOMBERG TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37386.m3u8
+#EXTINF:-1 group-title="Trial",MY - DISCOVERY HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37390.m3u8
+#EXTINF:-1 group-title="Trial",MY - DISCOVERY ASIA
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37391.m3u8
+#EXTINF:-1 group-title="Trial",MY - HISTORY HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37393.m3u8
+#EXTINF:-1 group-title="Trial",MY - ANIMAL PLANET HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37394.m3u8
+#EXTINF:-1 group-title="Trial",MY - CARTOON NTWK HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37403.m3u8
+#EXTINF:-1 group-title="Trial",MY - NICKELODEON HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37404.m3u8
+#EXTINF:-1 group-title="Trial",MY - NICK JR
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37405.m3u8
+#EXTINF:-1 group-title="Trial",MY - HITS HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37409.m3u8
+#EXTINF:-1 group-title="Trial",MY - TLC HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37410.m3u8
+#EXTINF:-1 group-title="Trial",MY - FOOD NTWK HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37411.m3u8
+#EXTINF:-1 group-title="Trial",MY - AFN HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37412.m3u8
+#EXTINF:-1 group-title="Trial",MY - NATGEO PEOPLE
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37413.m3u8
+#EXTINF:-1 group-title="Trial",MY - WARNER TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37414.m3u8
+#EXTINF:-1 group-title="Trial",MY - HGTV HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37416.m3u8
+#EXTINF:-1 group-title="Trial",MY - DMAX HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37417.m3u8
+#EXTINF:-1 group-title="Trial",MY - MTV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37419.m3u8
+#EXTINF:-1 group-title="Trial",MY - ASTRO ARENA HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37422.m3u8
+#EXTINF:-1 group-title="Trial",MY - Showcase Movies
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37428.m3u8
+#EXTINF:-1 group-title="Trial",MY - HBO Family
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37429.m3u8
+#EXTINF:-1 group-title="Trial",MY - Crime Investigation
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37430.m3u8
+#EXTINF:-1 group-title="Trial",MY - HBO Hits
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37431.m3u8
+#EXTINF:-1 group-title="Trial",MY - beIN SPORTS
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37432.m3u8
+#EXTINF:-1 group-title="Trial",MY - bEIN Sports 3
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37433.m3u8
+#EXTINF:-1 group-title="Trial",MY - EUROSPORT HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37434.m3u8
+#EXTINF:-1 group-title="Trial",MY - WWE NETWORK
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37435.m3u8
+#EXTINF:-1 group-title="Trial",MY - GOLF CHANNEL HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37436.m3u8
+#EXTINF:-1 group-title="Trial",MY - ANIPLUS HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37439.m3u8
+#EXTINF:-1 group-title="Trial",MY - Phoenix Info News HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37442.m3u8
+#EXTINF:-1 group-title="Trial",MY - SPOTV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37443.m3u8
+#EXTINF:-1 group-title="Trial",MY - LifeTime
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37444.m3u8
+#EXTINF:-1 group-title="Trial",MY - TA-DAA
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37445.m3u8
+#EXTINF:-1 group-title="Trial",MY - TV2
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37447.m3u8
+#EXTINF:-1 group-title="Trial",MY - BBC Earth HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37449.m3u8
+#EXTINF:-1 group-title="Trial",MY - BBC Lifestyle
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37450.m3u8
+#EXTINF:-1 group-title="Trial",MY - BOO
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.m3u8
+#EXTINF:-1 group-title="Trial",MY - PrimeTime
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37458.m3u8
+#EXTINF:-1 group-title="Trial",MY - Astro Rania HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37467.m3u8
+#EXTINF:-1 group-title="Trial",MY - Astro Aura HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37468.m3u8
+#EXTINF:-1 group-title="Trial",MY - CCM
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48091.m3u8
+#EXTINF:-1 group-title="Trial",MY - BBC News HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48094.m3u8
+#EXTINF:-1 group-title="Trial",MY - Sky News HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48095.m3u8
+#EXTINF:-1 group-title="Trial",MY - Bein Sports 2
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48099.m3u8
+#EXTINF:-1 group-title="Trial",MY - Phoenix Chinese Channel HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48104.m3u8
+#EXTINF:-1 group-title="Trial",MY - PRemier Sports
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48106.m3u8
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvalhijrah.png",MY ▎TV ALHIJRAH
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114395
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/abcaustralia.png",MY ▎ABC AUSTRALIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114403
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/nickjr.png",MY ▎NICK JR
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114432
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/mtvhd.png",MY ▎MTV ASIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114436
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/colorshd.png",MY ▎COLORS TAMIL
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114394
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/warnertv.png",MY ▎WARNERTV
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114397
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvn.png",MY ▎TVN
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114399
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvnmovies.png",MY ▎TVN MOVIES
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114400
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/dwtv.png",MY ▎ALJAZEERA ASIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114464
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/skynews.png",MY ▎SKY NEWS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114466
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tv2.png",MY ▎TV2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114441
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tv1.png",MY ▎TV1
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/114442
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/beinsportsafc.png",MY ▎BEIN SPORTS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656967
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/beinsportsafc.png",MY ▎BEIN SPORTS 2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656968
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/beinsportsafc.png",MY ▎BEIN SPORTS 3
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656969
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astrosupersport.png",MY ▎ASTRO SUPERSPORT 4
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656973
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/eurosport.png",MY ▎EUROSPORT
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656964
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/abcaustralia.png",MY ▎ABC AUSTRALIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656829
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/aditha.png",MY ▎ADITHYA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656831
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/aljazeera.png",MY ▎ALJAZEERA ASIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656833
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/animalplanet.png",MY ▎ANIMAL PLANET
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656834
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/aniplus.png",MY ▎HBO
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656836
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/aod351.png",MY ▎DREAMWORKS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656838
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/aod351.png",MY ▎GLOBAL TREKKER
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656839
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/aod351.png",MY ▎HGTV
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656840
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astrobirmingham2022.png",MY ▎KTV
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656843
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astrobirmingham2022.png",MY ▎SUN LIFE
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656844
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astrooasis.png",MY ▎ASTRO OASIS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656849
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astrobirmingham2022.png",MY ▎ASTRO PREMIER 1
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656850
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astrotutortv.png",MY ▎ASTRO TUTOR TV SMK
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656855
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astrotutortv.png",MY ▎WSPORT
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656857
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astrovellithirai.png",MY ▎ASTRO VELLITHIRAI
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656860
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astroxiaotaiyang.png",MY ▎CELESTIAL CLASSIC MOVIES
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656862
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astroawani.png",MY ▎ASTRO AWANI
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656959
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astroarena.png",MY ▎ASSP ADHOC 2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656961
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/astrocricket.png",MY ▎ASTRO CRICKET
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656962
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/axn.png",MY ▎AXN
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656863
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/bbcearth.png",MY ▎HBO SIGNATURE
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656865
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/bbclifestyle.png",MY ▎HITS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656866
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/bbcworldnews.png",MY ▎SPORTS SPO TV
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656867
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/bernama.png",MY ▎BERNAMA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656868
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/bloomberg.png",MY ▎BLOOMBERG TV
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656870
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/celestialmovies.png",MY ▎CELESTIAL MOVIES
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656876
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/cgtn.png",MY ▎CGTN
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656877
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/cinemax.png",MY ▎CINEMAX
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656879
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/cna.png",MY ▎CNA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656880
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/cnbc.png",MY ▎CNBC
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656963
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/colorsinfinity.png",MY ▎TVB S ASIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656882
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/crimeinvestigation.png",MY ▎CRIME INVESTIGATION
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656884
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/ctiasia.png",MY ▎CTI ASIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656885
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/discoveryworld.png",MY ▎DISCOVERY
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656886
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/discoverykids.png",MY ▎DISCOVERY ASIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656957
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/disneyjunior.png",MY ▎HITS NOW HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656888
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/dmaxhd.png",MY ▎DMAX
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656889
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/foodnetwork.png",MY ▎FOOD NETWORK
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656893
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/golfchannel.png",MY ▎ASTRO RANIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656956
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/hbo.png",MY ▎HBO FAMILY
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656900
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/hbo.png",MY ▎HBO HITS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656901
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/history.png",MY ▎HISTORY
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656903
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/hits.png",MY ▎HITS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656904
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/hitsmovies.png",MY ▎HITS MOVIES
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656905
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/iqiyi.png",MY ▎CHANNEL NEWS ASIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656907
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/kplus.png",MY ▎K+
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656965
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/lifetime.png",MY ▎LIFETIME
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656909
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/moonbug.png",MY ▎MOONBUG KIDS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656910
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/mtvlebanon.png",MY ▎MTV
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656911
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/nickjr.png",MY ▎NICK JR
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656914
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/nickelodeonhd.png",MY ▎NICKELODEON
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656915
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/ntv7.png",MY ▎NTV7
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656916
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/ohk.png",MY ▎SUN NEWS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656917
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/ONE.png",MY ▎ONE
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656918
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/paramountnetwork.png",MY ▎SKY NEWS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656920
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/phoenix.png",MY ▎NICK JR
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656954
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/rugbypass.png",MY ▎ASTRO CERIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656953
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/showcasemovies.png",MY ▎SHOWCASE MOVIES
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656923
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/skynews.png",MY ▎SKY NEWS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656924
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/sportsspotv.png",MY ▎SPOTV STADIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656925
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/spotv2.png",MY ▎SPOTV2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656927
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/starvijay.png",MY ▎STAR VIJAY
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656928
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/suntv.png",MY ▎SUN TV
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656929
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/sunmusic.png",MY ▎SUN MUSIC
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656930
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tlc.png",MY ▎TLC
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656932
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tv1.png",MY ▎TV1
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656933
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tv2norge.png",MY ▎TV2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656951
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tv3.png",MY ▎TV3
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656934
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tv9.png",MY ▎TV9
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656935
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvbs%20asia.png",MY ▎TVBS ASIA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656937
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvbclassic.png",MY ▎TVB CLASSIC
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656939
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvbenews.png",MY ▎TVB E-NEWS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656940
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvbjade.png",MY ▎TVB JADE
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656941
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvbxinghe.png",MY ▎TVB XING HE
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656942
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvnmovies.png",MY ▎TVN MOVIES
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656943
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvn.png",MY ▎TVN
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656950
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvs.png",MY ▎TVS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656944
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvalhijrah.png",MY ▎TV ALHIJRAH
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656945
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/tvokey.png",MY ▎TV OKEY
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656952
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/warnertv.png",MY ▎WARNER TV
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656948
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/wwenetwork.png",MY ▎WWE NETWORK
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656966
+#EXTINF:-1 group-title="Trial" tvg-logo="https://img.logo-cdn.cc/zeetamil.png",MY ▎ZEE TAMIL
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656949
+
+
+
 
 
 //========================================================================
