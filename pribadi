@@ -977,7 +977,7 @@ https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/okey.jpg" group-title="Malaysia",Okey
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", group-title="Malaysia",Dunia Sinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/DUNIASINEMA.jpg", group-title="Malaysia",Dunia Sinema
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSinema/index.m3u8
 
 
@@ -986,37 +986,23 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSin
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/tv2.jpg" group-title="Malaysia",TV2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV2.jpg" group-title="Malaysia",TV2
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/TV3.png" group-title="Malaysia",TV3
-#http://50.7.234.10:8278/TV3/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/TV3.png" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV3.jpg" group-title="Malaysia",TV3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/TV6.png" group-title="Malaysia",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-##EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/DIDIKTV.png" group-title="Malaysia",DidikTV
-#http://50.7.234.10:8278/NTV7/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/TV8.png" group-title="Malaysia",8TV
-#http://50.7.234.10:8278/TV8/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
 
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/TV8.png" group-title="Malaysia",8TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV8.jpg" group-title="Malaysia",8TV
 https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 
 
@@ -1027,7 +1013,7 @@ https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/TV9.png" group-title="Malaysia",TV9
 #http://50.7.234.10:8278/TV9/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/TV9.png" group-title="Malaysia",TV9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV9MALAYSIA.jpg" group-title="Malaysia",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
