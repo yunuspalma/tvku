@@ -1,16 +1,22 @@
 #EXTM3U
 
-# (●) Last Update: 2024-11-29 10:37:00 GMT+7 "
+# (●) Last Update: 2024-12-12 10:37:00 GMT+7 "
 
 
 
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/12/film-huntress-2024-lk21-d21.jpg.webp" group-title="2024",Huntress
+https://stream.hownetwork.xyz/xxx/huntress-2024-webdl_X_98fb1c01/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/12/film-sniper-2024-lk21-d21.jpg.webp" group-title="2024",Sniper
+https://stream.hownetwork.xyz/xxx/sniper-2024-webdl_X_317ac77a/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/12/film-hantu-telur-kampung-2024-lk21-d21.jpg.webp" group-title="2024",Hantu Telur Kampung
+https://stream.hownetwork.xyz/xxx/hantu-telur-kampung-2024-webdl_X_48b5f801/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/12/film-kanguva-2024-lk21-d21.jpg.webp" group-title="2024",Kanguva
+https://stream.hownetwork.xyz/xxx/kanguva-2024-webdl_X_0b9962fb/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/12/film-customs-frontline-2024-lk21-d21.jpg.webp" group-title="2024",Customs Frontline
+https://stream.hownetwork.xyz/xxx/customs-frontline-2024-bluray_X_27c3866c/26/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/11/film-martin-2024-lk21-d21.jpg.webp" group-title="2024",Martin
 https://stream.hownetwork.xyz/xxx/martin-2024-webdl_X_5f7974cc/26/480.m3u8
@@ -1779,6 +1785,7 @@ https://www.googleapis.com/drive/v3/files/1BCvW2LsaHSsZAMe55mxarBdVSloXTEhM?alt=
 
 #EXTINF:0 tvg-logo="https://virginsound.com.ng/wp-content/uploads/2021/03/Take-Back-2021-585x585.jpg" group-title="2021",Take Back
 https://www.googleapis.com/drive/v3/files/1tUh2T69BNyPes72uTQlTgObrhpKQ6Swy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/RcxMyF0/dinasti.jpg" group-title="2021",Dynasty Warriors
 https://www.googleapis.com/drive/v3/files/1UtMYGwBeO5mZXbVPrOviy3F5Dfe5egl6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
