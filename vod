@@ -6,11 +6,17 @@
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/01/film-don-dukun-2024-lk21-d21.jpg.webp" group-title="2025",Don Dukun
+https://stream.hownetwork.xyz/xxx/don-dukun-2024-webdl_X_9db2733f/28/480.m3u8
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-telekinesis-2024-lk21-d21.jpg.webp" group-title="2025",Telekinesis
+https://stream.hownetwork.xyz/xxx/telekinesis-2024-webdl_X_0da127d7/28/480.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/12/film-the-volunteers-the-battle-of-life-and-death-2024-lk21-d21.jpg.webp" group-title="2025",The Volunteers: The Battle of Life and Death
 https://stream.hownetwork.xyz/xxx/the-volunteers-the-battle-of-life-and-death-2024-webdl_X_5f1e843b/28/480.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/kang-mak.jpeg" group-title="2024",Kang Mak
+https://www.googleapis.com/drive/v3/files/13A1pFBzJDUDHhBDofpTa475Fn6ZZYagI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/12/film-roxana-2024-lk21-d21.jpg.webp" group-title="2024",Roxana
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/12/Roxana.2024.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-panda-plan-2024-lk21-d21.jpg.webp" group-title="2024",Panda Plan
@@ -528,12 +534,57 @@ https://www.googleapis.com/drive/v3/files/1SziCdewmHMOTxVULIodpKsH59lYfw1mM?alt=
 #EXTINF:0 tvg-logo="http://yunus12.my.id/images/Aquaman24.jpg"group-title="2024",Aquaman and the Lost Kingdom
 https://www.googleapis.com/drive/v3/files/1rJ7Q-1NiyuLIq6RhE25l11Yv2dHAryPh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+
+
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 1
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-1-2013-bluray_X_af6edc65/18/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 2
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-2-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 3
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-3-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 4
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-4-2013-bluray_X_c8863acb/18/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 5
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-5-2013-bluray_X_a3c0c7b5/18/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 6
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-6-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 7
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-7-2013-bluray/10/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 8
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-8-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 9
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-9-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 10
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-10-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 11
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-11-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 12
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-12-2013-bluray_X_65e7a5d7/18/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 13
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-13-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 14
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-14-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 15
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-15-2013-bluray_X_067d2a34/18/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 16
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-16-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 17
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-17-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 18
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-18-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 19
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-19-2013-bluray_X_b6b0eade/18/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 20
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-20-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 21
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-21-2013-bluray/13/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ag3.jpg"group-title="Agents of S.H.I.E.L.D Season 3",Ep 22
+https://stream.hownetwork.xyz/xxx/agents-of-s-h-i-e-l-d-season-3-episode-22-2013-bluray/13/480.m3u8
+
 #EXTINF:0 tvg-logo="http://yunus12.my.id/images/1oevXolQ.jpg"group-title="2023",The Day the Earth Stood Still
 https://www.googleapis.com/drive/v3/files/1oevXolQauIaAFE2yvRbr-qW8Lg7sphM5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-
-
 #EXTINF:0 tvg-logo="http://yunus12.my.id/images/malbatt.jpg"group-title="2023",Malbatt
 https://stream.hownetwork.xyz/xxx/malbatt-misi-bakara-2023-webdl_X_ccea65cf/19/480.m3u8
 
