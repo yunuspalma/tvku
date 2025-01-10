@@ -36,7 +36,7 @@
 
 #EXTM3U
 
-# (●) Last Update: 2024-11-29 10:26:00 GMT+7 "
+# (●) Last Update: 2025-01-02 10:26:00 GMT+7 "
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -633,21 +633,20 @@ https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 //========================================================================
 
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hboindo.jpg",HBO
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+http://iptv12k.com:35461/654321/123456/599
 
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbohitsindo.jpg",HBO Hits
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+http://iptv12k.com:35461/654321/123456/598
 
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbofamilyindo.jpg",HBO Family
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+http://iptv12k.com:35461/654321/123456/597
 
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbosignatureindo.jpg",HBO Signature
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+http://iptv12k.com:35461/654321/123456/596
 
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/cinemaxindo.jpg",Cinemax
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+http://iptv12k.com:35461/654321/123456/607
+http://iptv12k.com:35461/654321/123456/2114
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
