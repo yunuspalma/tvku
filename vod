@@ -1,11 +1,13 @@
 #EXTM3U
 
-# (●) Last Update: 2025-01-02 10:37:00 GMT+7 "
+# (●) Last Update: 2025-01-17 10:37:00 GMT+7 "
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/01/film-zim-zim-ala-kazim-2024-lk21-d21.jpg.webp" group-title="2025",Zim Zim Ala Kazim
+https://stream.hownetwork.xyz/xxx/zim-zim-ala-kazim-2024-webdl_X_0d80f98e/28/480.m3u8
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/03/film-sentinel-2024-lk21-d21.jpg.webp" group-title="2025",Sentinel
+https://stream.hownetwork.xyz/xxx/sentinel-2024-bluray_X_18993f95/28/480.m3u8
 #EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/01/film-don-dukun-2024-lk21-d21.jpg.webp" group-title="2025",Don Dukun
 https://stream.hownetwork.xyz/xxx/don-dukun-2024-webdl_X_9db2733f/28/480.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-telekinesis-2024-lk21-d21.jpg.webp" group-title="2025",Telekinesis
