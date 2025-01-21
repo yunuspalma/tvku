@@ -1,10 +1,12 @@
 #EXTM3U
 
-# (●) Last Update: 2025-01-17 10:37:00 GMT+7 "
+# (●) Last Update: 2025-01-21 10:37:00 GMT+7 "
 
 
-
-
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/01/film-prisons-2024-lk21-d21.jpg.webp" group-title="2025",(Pri)sons
+https://stream.hownetwork.xyz/xxx/prisons-2024-webdl_X_d184beaf/28/480.m3u8
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/01/film-kingdom-4-return-of-the-great-general-2024-lk21-d21.jpg.webp" group-title="2025",Kingdom4 Return of the Great General
+https://stream.hownetwork.xyz/xxx/kingdom-4-return-of-the-great-general-2024-webdl_X_b0b1a6f2/28/480.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-alarum-2025-lk21-d21.jpg.webp" group-title="2025",Alarum
 https://stream.hownetwork.xyz/xxx/alarum-2025-webdl_X_6c49d59c/28/480.m3u8
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/01/film-man-with-no-past-2025-lk21-d21.jpg.webp" group-title="2025",Man with No Past
