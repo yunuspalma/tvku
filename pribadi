@@ -83,37 +83,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg- group-title="Local" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="http://yunus12.my.id/logotv/rctiplus.png" group-title="Local",RCTI HD
 #https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg- group-title="Local" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/MNC%2B.png" group-title="Local",MNCTV Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO CPH1729 Build/N6F26Q) IPTV/7.1.6
-https://1s1.rctiplus.id/mnctv2023-avc1_3500000=8-mp4a_128000=2.m3u8
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg- group-title="Local" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/mnctvnew.jpg" group-title="Local",MNCTV
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg- group-title="Local" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/gtvnew.jpg" group-title="Local",GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg- group-title="Local" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/visionlogo/gtvnew.jpg" group-title="Local",GTV 2
-https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg- group-title="Local" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/antvindihome.png" group-title="Local",ANTV
@@ -543,13 +524,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF:-1 tvg- group-title="Film" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="http://yunus12.my.id/vidiologo/REM.jpg" group-title="Movies",Rock Entertainment
-https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+#https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg- group-title="Film" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="http://yunus12.my.id/vidiologo/REM.jpg" group-title="Movies",Rock Entertainment 2
-#https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/reindi.png" group-title="Movies",Rock Entertainment
 #http://cdnkbl3.indihometv.com/ateme/dash/rock_entertainment/manifest.mpd
@@ -583,16 +564,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg- group-title="Film" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/kixvision.png" group-title="Movies",KIX
-#https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg- group-title="Film" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/kixvision.png" group-title="Movies",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
-https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
 
 #EXTINF:-1 tvg- group-title="Film" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="http://yunus12.my.id/logotv/kixindi.jpg" group-title="Movies",KIX
@@ -729,10 +710,11 @@ https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/INews.m3u
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/inewsvisi.png" group-title="News",INews
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/inewsvisi.png" group-title="News",INews 2
 #https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
 
 
 
@@ -1058,19 +1040,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/mtv.jpg" group-title="Music",MTV Live
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/mtv.jpg" group-title="Music",MTV Live 2
-https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
-
-
 
 
 
@@ -1091,16 +1065,11 @@ https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/Prambors.
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/mmtv90vision.png" group-title="Music",MTV 90s
-#https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/mmtv90vision.png" group-title="Music",MTV 90s
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/NAGASDANGDUTT.png" group-title="Music",Nagaswara Dangdut
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
