@@ -672,7 +672,7 @@ https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hboindo.jpg",HBO
+#EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hboindo.jpg",HBO
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
