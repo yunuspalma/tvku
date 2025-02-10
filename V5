@@ -673,7 +673,7 @@ https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hboindo.jpg",HBO
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
 
@@ -685,7 +685,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbohitsindo.jpg",HBO Hits
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -696,7 +696,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbofamilyindo.jpg",HBO Family
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -707,7 +707,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbosignatureindo.jpg",HBO Signature
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -717,24 +717,24 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/cinemaxindo.jpg",Cinemax
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hboindo.jpg",HBO
-#http://iptv12k.com:35461/654321/123456/599
+http://iptv12k.com:35461/654321/123456/599
 
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbohitsindo.jpg",HBO Hits
-#http://iptv12k.com:35461/654321/123456/598
+http://iptv12k.com:35461/654321/123456/598
 
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbofamilyindo.jpg",HBO Family
-#http://iptv12k.com:35461/654321/123456/597
+http://iptv12k.com:35461/654321/123456/597
 
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbosignatureindo.jpg",HBO Signature
-#http://iptv12k.com:35461/654321/123456/596
+http://iptv12k.com:35461/654321/123456/596
 
 #EXTINF:-1 tvg- group-title="HBO Premium" group-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/folder.png" tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/cinemaxindo.jpg",Cinemax
-#http://iptv12k.com:35461/654321/123456/607
+http://iptv12k.com:35461/654321/123456/607
 #http://iptv12k.com:35461/654321/123456/2114
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
