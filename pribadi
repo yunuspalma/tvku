@@ -82,12 +82,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/rctiplus.png" group-title="Local",RCTI HD
-#https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
@@ -109,14 +103,6 @@ https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 https://raw.githubusercontent.com/yunuspalma/Trial/refs/heads/main/Antv.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/antv.jpg" group-title="Local",ANTV
-#https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/transindihome.png" group-title="Local",TransTV
-#https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/TransTV.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -158,7 +144,7 @@ https://streaming.indihometv.com/atm/hlsv3/indosiar/playlist.m3u8
 #https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/btvindi.png" group-title="Local",BTV
-https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/BTV.m3u8
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 
 
