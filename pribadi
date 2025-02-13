@@ -116,7 +116,7 @@ https://raw.githubusercontent.com/yunuspalma/Trial/refs/heads/main/Antv.m3u8
 #https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/transindihome.png" group-title="Local",TransTV
-https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/TransTV.m3u8
+#https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/TransTV.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
