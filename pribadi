@@ -101,8 +101,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/antvindihome.png" group-title="Local",ANTV
 https://raw.githubusercontent.com/yunuspalma/Trial/refs/heads/main/Antv.m3u8
-https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/ANTV.m3u8
-https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -111,7 +110,6 @@ https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 #https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/transindihome.png" group-title="Local",TransTV
-https://cdn09jtedge.indihometv.com/joss/133/transtv1080/index.m3u8
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/TransTV.m3u8
 
 
@@ -128,7 +126,7 @@ https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/TransTV.m
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/trans7.jpg" group-title="Local",Trans7
 #https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/trans7indihome.png" group-title="Local"Trans7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/trans7indihome.png" group-title="Local",Trans7
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/Trans7.m3u8
 https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8
 
