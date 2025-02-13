@@ -100,6 +100,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/antvindihome.png" group-title="Local",ANTV
+https://raw.githubusercontent.com/yunuspalma/Trial/refs/heads/main/Antv.m3u8
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/ANTV.m3u8
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 
