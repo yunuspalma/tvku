@@ -690,44 +690,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
 
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/bloom.png" group-title="News",Bloomberg TV Asia
-#https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
-
-
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> Sports
 //========================================================================
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/nbatvindi.png" group-title="Sports",NBA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/nbatvindi.png" group-title="Sports",NBA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
-
-#EXTINF:-1 tvg-logo=""http://yunus12.my.id/logotv/bein1indi.png" group-title="Sports",beIN Sports 1
-#https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/bein1indi.png" group-title="Sports",beIN Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/bein3indi.png" group-title="Sports",BeIn Sports 3
-#https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/bein3indi.png" group-title="Sports",BeIn Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
