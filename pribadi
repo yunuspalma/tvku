@@ -522,10 +522,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rocke
 
 
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/cmvision.png" group-title="Movies",Cinema World
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/cmindiworld.jpg" group-title="Movies",Cinema World
