@@ -306,7 +306,9 @@ https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/KPlus.m3u
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/maxsteamindi.png" group-title="Movies",Maxstream
-https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/Maxstream.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/warnerindihome.png" group-title="Movies",Warner
@@ -522,7 +524,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rocke
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/cmvision.png" group-title="Movies",Cinema World
-#https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/cmindiworld.jpg" group-title="Movies",Cinema World
@@ -710,7 +714,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/nbatvindi.png" group-title="Sports",NBA TV
-#https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo=""http://yunus12.my.id/logotv/bein1indi.png" group-title="Sports",beIN Sports 1
@@ -900,13 +906,17 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/muitv.jpg" group-title="Religion",MUI TV
-#https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/muitv.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/mqtv.jpg" group-title="Religion",MQTV
 #https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/mqtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/AlQuranKareem.jpg" group-title="Religion",AlQuran Kareem
-#https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/AlQuranKareem.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/uchannelindi.png" group-title="Religion",U Channel
 #https://streaming.indihometv.com/atm/hlsv3/uchannel/playlist.m3u8
@@ -928,7 +938,9 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tv9indi.png" group-title="Religion",Tv9 nu
-#https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1215,11 +1227,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/eatgiindi.png" group-title="Entertainment",EAT & GO
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
