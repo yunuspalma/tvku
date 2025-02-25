@@ -136,7 +136,6 @@ https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w156028470
 
 
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/jtvindi.png" group-title="Local",JTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
