@@ -110,7 +110,7 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/trans7.jpg" group-title="Local",Trans7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/trans7indihome.png" group-title="Local",Trans7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
