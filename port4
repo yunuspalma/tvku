@@ -1,6 +1,4 @@
-
-
-#EXTM3U billed-msg="Channel Premium Ini Milik YUNUS Jika ada channel yg tidak bisa di akses selama 1 hari,silahkan Hub Yunus, Terima Kasih.", url-tvg="https://ro-kesra.jatimprov.go.id/guides/indihometv.com.xml" refresh="3600"
+#EXTM3U url-tvg="https://ro-kesra.jatimprov.go.id/guides/indihometv.com.xml"
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/ALLPLAY.png" group-title="Local",AllPlay
 rtp://@239.1.1.252:9486
