@@ -534,9 +534,9 @@ rtp://@239.1.1.24:9517
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/mtvlive.png" group-title="Music",MTV Live
 rtp://@239.1.2.16:8070
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/ikonser.png" group-title="Music",i Konser
-rtp://@239.1.2.221:9250
+#rtp://@239.1.2.221:9250
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/seru_small.png" group-title="Music",Seru!
-rtp://@239.1.1.111:8624
+#rtp://@239.1.1.111:8624
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/musikindo_small.png" group-title="Music",Musik Indonesia
 rtp://@239.1.1.152:8626
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/prambors.png" group-title="Music",Prambors
