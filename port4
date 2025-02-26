@@ -198,7 +198,7 @@ rtp://@239.1.2.201:9174
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/cnnindonesia_ver1.png" group-title="HD",CNN Indonesia
 rtp://239.1.3.213:1234
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/cnninternational.png" group-title="HD",CNN International
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/cnninternational.png" group-title="HD",CNN International
 rtp://@239.1.1.246:9438
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/cnbcindonesia_ver1.png" group-title="HD",CNBC Indonesia
 rtp://@239.1.2.94:9448
@@ -214,9 +214,9 @@ rtp://@239.1.2.243:9360
 
 
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/fashiontv.png" group-title="HD",FashionTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/fashiontv.png" group-title="HD",FashionTV
 rtp://@239.1.2.237:9348
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/techstorm.png" group-title="HD",Tech Storm
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/techstorm.png" group-title="HD",Tech Storm
 rtp://@239.1.2.229:9330
 
 
