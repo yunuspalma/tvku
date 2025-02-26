@@ -1,6 +1,6 @@
 
 
-#EXTM3U billed-msg="Channel Premium Ini Milik YUNUS Jika ada channel yg tidak bisa di akses selama 1 hari,silahkan Hub Yunus, Terima Kasih.", url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz" refresh="3600"
+#EXTM3U billed-msg="Channel Premium Ini Milik YUNUS Jika ada channel yg tidak bisa di akses selama 1 hari,silahkan Hub Yunus, Terima Kasih.", url-tvg="https://ro-kesra.jatimprov.go.id/guides/indihometv.com.xml" refresh="3600"
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/ALLPLAY.png" group-title="Local",AllPlay
 rtp://@239.1.1.252:9486
@@ -403,7 +403,8 @@ rtp://@239.1.1.134:8778
 
 
 
-
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/ALLPLAYSPORTS.png" group-title="Sports",AllPlay Sports
+rtp://239.1.2.59:8209
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/useesports.png" group-title="Sports",Usee Sports
 #rtp://@239.1.2.203:9180
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/useesports2.png" group-title="Sports",Usee Sports 2
@@ -420,6 +421,13 @@ rtp://239.1.1.249:9496
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/fight.png" group-title="Sports",Fight Sports
 rtp://@239.1.2.209:9196
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/CHAMPION1.png" group-title="Sports",Champion tv 1
+rtp://@239.1.2.32:8190
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/CHAMPION2.png" group-title="Sports",Champion tv 2
+rtp://239.1.2.35:8181
 
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/useetvlogo/CHAMPION5.png" group-title="Sports",Champion tv 5
 rtp://@239.1.2.45:8193
