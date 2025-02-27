@@ -607,6 +607,8 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/okey.jpg" group-title="Malaysia",Okey
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/DUNIASINEMA.jpg", group-title="Malaysia",Dunia Sinema
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSinema/index.m3u8
 
@@ -643,6 +645,40 @@ https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROBOO.png" group-title="Malaysia",Astro Boo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Boo.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/DRAMASANGAT.png" group-title="Malaysia",Drama Sangat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROCITRA.png" group-title="Malaysia",Astro Citra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroCitra.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTRORIA.png" group-title="Malaysia",Astro Ria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRia.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROPRIMA.png" group-title="Malaysia",Astro Prima
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroPrima.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROAURA.png" group-title="Malaysia",Astro Aura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroAura.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTRORANIA.png" group-title="Malaysia",Astro Rania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRania.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROSENSASI.png" group-title="Malaysia",Astro Sensasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Sensasi.m3u8
+
+
 
 
 //========================================================================
