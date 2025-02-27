@@ -939,11 +939,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg" group-title="Bioskop 21",The Bayou
-https://zhmbaxrxbxd8.milocdn.com/hls2/01/03911/ya62yy7zobr7_n/master.m3u8?t=pIHeG3fK2Y_i0nbZZuGxCt6obAeyXGM3O6L4SIc3BzY&s=1740637199&e=129600&f=19558438&srv=c3r7vx1sxRdf&i=0.4&sp=500&p1=c3r7vx1sxRdf&p2=c3r7vx1sxRdf&asn=7713
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg" group-title="Bioskop 21",Valiant One
-https://jns7boykmf9t.milocdn.com/hls2/01/03875/qflk932rzudd_n/master.m3u8?t=TnSCnrirq2lVPl-m7eqKiBWOld58fBcPAmKyLkUEsC0&s=1740637419&e=129600&f=19379512&srv=wLNZwzCrjykTJ&i=0.4&sp=500&p1=wLNZwzCrjykTJ&p2=wLNZwzCrjykTJ&asn=7713
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg" group-title="Bioskop",The Bayou
+https://stream.hownetwork.xyz/xxx/the-bayou-2025-webdl_X_88a02e36/30/480.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg" group-title="Bioskop",Valiant One
+https://stream.hownetwork.xyz/xxx/valiant-one-2025-webdl_X_c1402f36/30/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/02/film-daaku-maharaaj-2025-lk21-d21.jpg.webp" group-title="Bioskop",Daaku Maharaa
+https://stream.hownetwork.xyz/xxx/daaku-maharaaj-2025-webdl_X_52420700/30/480.m3u8
 
 
