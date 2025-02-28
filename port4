@@ -402,7 +402,8 @@ rtp://@239.1.1.134:8778
 
 
 
-
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/ALLPLAYSPORTS.png" group-title="Sports",Allplay Sports
+rtp://@239.1.2.59:8209
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/useesports.png" group-title="Sports",Usee Sports
 #rtp://@239.1.2.203:9180
@@ -421,6 +422,14 @@ rtp://239.1.1.249:9496
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/fight.png" group-title="Sports",Fight Sports
 rtp://@239.1.2.209:9196
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/CHAMPION1.png" group-title="Sports",Champion tv 1
+rtp://@239.1.2.32:8190
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/CHAMPION2.png" group-title="Sports",Champion tv 2
+rtp://@239.1.2.35:8181
+
+
+
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/useetvlogo/CHAMPION5.png" group-title="Sports",Champion tv 5
 rtp://@239.1.2.45:8193
 
@@ -436,11 +445,7 @@ rtp://@239.1.2.43:8189
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/wsport.jpg" group-title="Sports",W-Sport
 rtp://@239.1.2.61:8207
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/MOLASPORT.jpg" group-title="Sports",Mola Sport
-rtp://@239.1.2.91:8236
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/MOLAGOLF.jpg" group-title="Sports",Mola Golf
-rtp://@239.1.2.99:8243
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/horizonsport.png" group-title="Sports",Horizon Sports
 rtp://@239.1.2.201:9174
