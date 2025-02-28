@@ -89,3 +89,76 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/SPTV.jpg" group-title="Sports",Sports TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/DUNIASINEMA.jpg", group-title="Malaysia",Dunia Sinema
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSinema/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/tv1.jpg" group-title="Malaysia",TV1
+#EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV2.jpg" group-title="Malaysia",TV2
+#EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV3.jpg" group-title="Malaysia",TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
+
+#EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/TV6.png" group-title="Malaysia",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+
+
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV8.jpg" group-title="Malaysia",8TV
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV9MALAYSIA.jpg" group-title="Malaysia",TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROBOO.png" group-title="Malaysia",Astro Boo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroBoo.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/DRAMASANGAT.png" group-title="Malaysia",Drama Sangat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROCITRA.png" group-title="Malaysia",Astro Citra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroCitra.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTRORIA.png" group-title="Malaysia",Astro Ria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroRia.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROPRIMA.png" group-title="Malaysia",Astro Prima
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroPrima.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROAURA.png" group-title="Malaysia",Astro Aura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroAura.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTRORANIA.png" group-title="Malaysia",Astro Rania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroRania.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ASTROSENSASI.png" group-title="Malaysia",Astro Sensasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Malaysia/AstroSensasi.m3u8
+
+#EXTM3U billed-msg="Channel ini hanya vision plus, Terima Kasih."
+
