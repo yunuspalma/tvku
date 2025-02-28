@@ -18,7 +18,7 @@
 ######                      JANGAN DIREBRANDING                                     ######
 ##########################################################################################
 
-#EXTM3U billed-msg="Channel ini aktif sampai 3 Agustus 2025, Terima Kasih.", url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz" refresh="3600"
+#EXTM3U billed-msg="Channel ini aktif sampai 3 Agustus 2025, Terima Kasih.", url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="3600"
 
 
 
