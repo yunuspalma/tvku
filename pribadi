@@ -1,18 +1,4 @@
-<meta charset="UTF-8" content="text/html"/>
-<meta name="viewport" content="width = device-width, initial-scale = 1"/>
-<meta name="robots" content="noindex, nofollow"/>
-<meta http-equiv="refresh" content="0; url = http://yunus12.my.id"/>
 
-<html>
-    <head>
-        <title>Yunus</title>
-    </head>
-    <body>
-        <p>Playlist Premium.</p>
-    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v55bfa2fee65d44688e90c00735ed189a1713218998793" integrity="sha512-FIKRFRxgD20moAo96hkZQy/5QojZDAbyx0mQ17jEGHCJc/vi0G2HXLtofwD7Q3NmivvP9at5EVgbRqOaOQb+Rg==" data-cf-beacon='{"rayId":"87c5ab41cdbd1069","r":1,"version":"2024.4.0","token":"6d37dd6e19154f3bbbeb77b0d16d949b"}' crossorigin="anonymous"></script>
-</body>
-    <div style="display:none;">
-</html>
 
 ##########################################################################################
 ######                      JANGAN DIREBRANDING                                     ######
@@ -24,7 +10,7 @@
 
 
 
-#EXTM3U url-tvg="https://ro-kesra.jatimprov.go.id/guides/indihometv.com.xml"
+#EXTM3U url-tvg="https://ro-kesra.jatimprov.go.id/guides/indihometv.com.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml"
 
 
