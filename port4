@@ -213,13 +213,9 @@ rtp://@239.1.2.229:9330
 
 
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/natgeo.png" group-title="Knowledge",Nat Geo
-#rtp://239.1.1.243:9432
-#rtp://239.1.1.169:8988
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/natgeowild.png" group-title="Knowledge",Nat Geo Wild
-#rtp://@239.1.1.207:9216
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/DISCOVERYASIA-OTT-135-BW.png" group-title="Knowledge",DISCOVERY ASIA
+
+#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png" group-title="Knowledge", DISCOVERY ASIA
 rtp://@239.1.1.118:8169
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/love2.png" group-title="Knowledge",lOVE Nature
@@ -239,14 +235,14 @@ rtp://@239.1.1.247:9440
 
 
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/MON.png" group-title="Kids",Moonbug Kids
+#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_moonbug_ver1.png" group-title="Kids",Moonbug Kids
 rtp://@239.1.1.235:8593
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_aniplus_big1.png" group-title="Kids",Aniplus
 rtp://@239.1.2.104:9526
 #rtp://@239.1.1.117:8676
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_animax_big.png" group-title="Kids",Animax
 rtp://@239.1.1.142:8967
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/mykids.png" group-title="Kids",My Kidz
+#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_mykids_ver1.png" group-title="Kids",My Kidz
 rtp://@239.1.1.52:8416
 rtp://@239.1.1.47:8416
 
@@ -263,7 +259,7 @@ rtp://@239.1.1.162:7983
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_cartoonnetwork_big.png" group-title="Kids",Cartoon Network
 rtp://@239.1.2.81:8083
 #rtp://@239.1.1.123:8712
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/CARTOONITO.png" group-title="Kids",Cartoonito
+#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/1705331415_CARTOONITO-88-HD-BW.png" group-title="Kids", Cartoonito
 rtp://@239.1.1.163:8084
 #rtp://@239.1.1.73:8412
 
@@ -283,7 +279,7 @@ rtp://@239.1.1.234:9222
 
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_eatgo_big1.png" group-title="Lifestyle",Eat N Go
 rtp://@239.1.1.229:9350
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_fashiontv_big1.png" group-title="Lifestyle",FashionTV
+#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_fashiontv_big1.png" group-title="Lifestyle", FashionTV
 rtp://@239.1.1.79:8448
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/atv.png" group-title="Lifestyle",ATV
 rtp://@239.1.2.88:8308
@@ -309,10 +305,10 @@ rtp://@239.1.1.165:8964
 
 
 
-#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/1705919539_NEWTVCOMPREHENSIVE-88-HD-BW.png" group-title="Entertainment",NEW TV COMPREHENSIVE
+#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/1705919539_NEWTVCOMPREHENSIVE-88-HD-BW.png" group-title="Entertainment", NEW TV COMPREHENSIVE
 rtp://@239.1.2.24:8174
 
-#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/1705920072_NEWTVFINANCE-88-HD-BW.png" group-title="Entertainment",New tv Finance
+#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/1705920072_NEWTVFINANCE-88-HD-BW.png" group-title="Entertainment", New tv Finance
 rtp://@239.1.2.28:8176
 
 #EXTINF:0 tvg-logo="https://images.indihometv.com/assets/1705925830_NEWTVVARIETY-88-HD-BW.png" group-title="Entertainment",New tv Variety
@@ -321,9 +317,9 @@ rtp://@239.1.2.30:8178
 
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/formosa.png" group-title="Entertainment",Formosa
-rtp://@239.1.3.253:1234
+#rtp://@239.1.3.253:1234
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/cti.png" group-title="Entertainment",CTI Asia
-rtp://@239.1.2.200:9168
+#rtp://@239.1.2.200:9168
 #EXTINF:0 tvg-logo="https://images.indihometv.com/logo_abcaustralia_big.png" group-title="Entertainment",ABC Australia
 rtp://@239.1.1.33:8172
 #EXTINF:0 tvg-logo="https://images.indihometv.com/logo_arirang_big.png" group-title="Entertainment",Arirang
@@ -345,7 +341,7 @@ rtp://@239.1.1.25:8124
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/hbo.png" group-title="SD Channel",HBO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/hbo.png" group-title="SD Channel", HBO
 rtp://@239.1.1.95:8544
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/hbohits.png" group-title="SD Channel",HBO Hits
 rtp://@239.1.1.91:8520
@@ -353,9 +349,9 @@ rtp://@239.1.1.91:8520
 rtp://@239.1.1.93:8532
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/hbofamily.png" group-title="SD Channel",HBO Family
 rtp://@239.1.1.89:8508
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/cinemax.png" group-title="SD Channel",CINEMAX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/cinemax.png" group-title="SD Channel", CINEMAX
 rtp://@239.1.1.87:8496
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/Maxstream.png" group-title="SD Channel",Maxstream
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/Maxstream.png" group-title="SD Channel", Maxstream
 rtp://@239.1.1.101:8580
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/thrill.png" group-title="SD Channel",Thrill
 rtp://@239.1.1.83:8472
@@ -373,9 +369,9 @@ rtp://@239.1.1.129:8748
 rtp://@239.1.1.184:8778
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/GalaxyPremiumHD.png" group-title="SD Channel",Galaxy Premium
 rtp://@239.1.2.240:9390
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/bioskopindonesia.png" group-title="SD Channel",Bioskop Indonesia
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/bioskopindonesia.png" group-title="SD Channel", Bioskop Indonesia
 rtp://@239.1.1.226:9332
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/flik.png" group-title="SD Channel",Flik
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/flik.png" group-title="SD Channel", Flik
 rtp://@239.1.1.239:9276
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/imc.png" group-title="SD Channel",IMC
 rtp://@239.1.2.20:8094
@@ -441,7 +437,7 @@ rtp://@239.1.2.47:8195
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/nba.png" group-title="Sports",NBA TV
 rtp://@239.1.1.49:8268
 
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/useetvlogo/VOLITV.png" group-title="Sports",Voli tv
+#EXTINF:-1 tvg-logo="https://www.indihometv.com/assets/images/channel/channel_temp.png" group-title="Sports",Voli tv
 rtp://@239.1.2.43:8189
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/wsport.jpg" group-title="Sports",W-Sport
@@ -471,13 +467,13 @@ rtp://@239.1.3.164:1234
 rtp://@239.1.1.50:8274
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/euronews.png" group-title="News",Euronews
 rtp://@239.1.1.193:9132
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/cnnindonesia_ver1.png" group-title="News",CNN Indonesia
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/cnnindonesia_ver1.png" group-title="News", CNN Indonesia
 rtp://@239.1.1.241:9362
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/cnninternational.png" group-title="News",CNN International
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/cnninternational.png" group-title="News", CNN International
 rtp://@239.1.1.105:8604
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_bloomberg_big1.png" group-title="News",Bloomberg
 rtp://@239.1.1.199:9168
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/cnbc.png" group-title="News",CNBC
+#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_cnbcasias_big.png" group-title="News",CNBC asia
 rtp://@239.1.1.155:8904
 EXTINF:0 tvg-logo="http://images.indihometv.com/logo_newsasia_big1.png" group-title="News",Channel News Asia
 rtp://@239.1.2.23:8112
@@ -516,7 +512,7 @@ rtp://@239.1.1.170:8994
 rtp://@239.1.2.236:9366
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_tvmui_big1.png" group-title="Religi",MUI TV
 rtp://@239.1.2.52:8286
-#EXTINF:0 tvg-logo="https://i.ibb.co/tmKfKCs/hope.png" group-title="Religi",Hope
+#EXTINF:0 tvg-logo="https://i.ibb.co/tmKfKCs/hope.png" group-title="Religi", Hope
 rtp://@239.1.1.78:8442
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_uchannel_big1.png" group-title="Religi",U Channel
 rtp://@239.1.1.220:9522
@@ -537,7 +533,7 @@ rtp://@239.1.2.16:8070
 #rtp://@239.1.2.221:9250
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/seru_small.png" group-title="Music",Seru!
 #rtp://@239.1.1.111:8624
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/musikindonesia.png" group-title="Music",Musik Indonesia
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/musikindonesia.png" group-title="Music", Musik Indonesia
 rtp://@239.1.1.152:8626
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/pramborstv.png" group-title="Music",Prambors
 rtp://@239.1.1.254:8019
