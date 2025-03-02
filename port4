@@ -385,13 +385,13 @@ rtp://@239.1.1.189:9108
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/rockentertainment.png" group-title="SD Channel",Rock Entertainment
 rtp://@239.1.1.141:8820
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/rockaction.png" group-title="SD Channel",Rock Action
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/rockaction.png" group-title="SD Channel",Rock Acti0n
 rtp://@239.1.1.134:8778
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/transtv.png" group-title="SD Channel",TransTV
 rtp://@239.1.1.27:8136
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/trans7.png" group-title="SD Channel",Trans7
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/trans7.png" group-title="SD Channel",Trans  7
 rtp://@239.1.1.29:8184
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/sctv.png" group-title="SD Channel",SCTV
 rtp://239.1.1.21:8100
@@ -399,9 +399,9 @@ rtp://239.1.1.21:8100
 rtp://@239.1.1.15:8064
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/indosiar.png" group-title="Local",Indosiar
 rtp://@239.1.1.17:8076
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/tvone.png" group-title="SD Channel",TV One
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/tvone.png" group-title="SD Channel",TVOne
 rtp://@239.1.1.31:8160
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/MDTV.png" group-title="Local",MDTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/MDTV.png" group-title="SD Channel",MDTV
 rtp://@239.1.1.119:8688
 
 
