@@ -35,7 +35,7 @@ rtp://@239.1.2.2:7986
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/kompastv.png" group-title="Local",Kompas TV
 rtp://@239.1.1.240:8017
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/MOJI.png" group-title="Local",MOJI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/MOJI.png" group-title="Local", MOJI
 rtp://@239.1.1.10:9513
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/BTV.png" group-title="Local",BTV
 rtp://@239.1.1.114:9512
