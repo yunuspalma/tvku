@@ -65,12 +65,20 @@ https://stream.hownetwork.xyz/xxx/the-volunteers-the-battle-of-life-and-death-20
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/kang-mak.jpeg" group-title="2024",Kang Mak
 https://www.googleapis.com/drive/v3/files/13A1pFBzJDUDHhBDofpTa475Fn6ZZYagI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="2024",Ganibal 1-2
-https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal1dan2.m3u8
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="2024",Ganibal 3-4
-https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal3dan4.m3u8
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="2024",Ganibal 5-6-7
-https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal567.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal ep.1
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal1.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal ep.2
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal2.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal ep.3
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal3.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal ep.4
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal4.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal ep.5
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal5.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal ep.6
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal6.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 7 end
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal7.m3u8
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/12/film-roxana-2024-lk21-d21.jpg" group-title="2024",Roxana
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/12/Roxana.2024.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-panda-plan-2024-lk21-d21.jpg" group-title="2024",Panda Plan
