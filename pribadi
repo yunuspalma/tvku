@@ -933,12 +933,20 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 1-2
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 1
 https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal1dan2.m3u8
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 3-4
-https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal3dan4.m3u8
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 5-6-7
-https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal567.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 2
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal2.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 3
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal3.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 4
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal4.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 5
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal5.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 6
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal6.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/01/film-gannibal-2022-lk21-d21.jpg.webp" group-title="Bioskop",Ganibal 7 end
+https://raw.githubusercontent.com/yunuspalma/film/refs/heads/main/gannibal7.m3u8
 
 
 
