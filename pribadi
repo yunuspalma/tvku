@@ -147,9 +147,11 @@ https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/netindi.png" group-title="Local",Net.
-http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
-https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/mdtv.jpg" group-title="Local",MDTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/nusantaratvindi.png" group-title="Local",Nusantara Tv
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
