@@ -92,9 +92,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/Transtv.jpg" group-title="Local",Trans TV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/Transtv.jpg" group-title="Local",Trans TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/trans7.jpg" group-title="Local",Trans7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/trans7.jpg" group-title="Local",Trans 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/indosiar.jpg" group-title="Local",Indosiar
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
@@ -102,7 +111,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/indosiar.jpg" group-title="Local",Indosiar Bola
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/indosiar.jpg" group-title="Local",Indosiar 2
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/btvindi.png" group-title="Local",BTV
@@ -145,9 +154,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/kompastvindi.png" group-title="Local",KOMPAS TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/KOMPASTV.jpg" group-title="Local",KOMPAS TV
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/KOMPASTV.jpg" group-title="Local",KOMPAS TV 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
+https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/metroindi.png" group-title="Local",METRO TV
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
