@@ -114,10 +114,10 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/indosiar.jpg" group-title="Local",Indosiar 2
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/btvindi.png" group-title="Local",BTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Khorizil/logo/refs/heads/main/BTV.jpg" group-title="Local",BTV
 https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/cnnindi.png" group-title="Local",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/CNNINDO.jpg?raw=true" group-title="Local",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/cnnindonesia.m3u8
 
