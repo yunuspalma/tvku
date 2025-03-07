@@ -121,17 +121,17 @@ https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/cnnindonesia.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/daaiindi.png" group-title="Local",DAAI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/DAAITV.jpg" group-title="Local",DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/sindoindi.png" group-title="Local",Sindo News TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/SINDO.jpg" group-title="Local",Sindo News TV
 https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/insertindi.png" group-title="Local",Insert
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/INSERT.jpg" group-title="Local",Insert
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
 https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
@@ -139,7 +139,7 @@ https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w156028470
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/jtvindi.png" group-title="Local",JTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/JTV.jpg" group-title="Local",JTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
@@ -147,7 +147,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/jaktvindi.png" group-title="Local",JAKTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/assets/refs/heads/main/JAKTV.jpg" group-title="Local",JAKTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
