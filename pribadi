@@ -225,7 +225,7 @@ https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/kplus.jpg?raw=true" group-title="Movies",Kplus
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/kplus.jpg?raw=true" group-title="Movies",Kplus
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
@@ -326,13 +326,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ZEE.png?raw=true" group-title="Movies",Zee Bioskop
 https://streaming.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/hits.jpg?raw=true" group-title="Movies",Hits
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/HITS.png?raw=true" group-title="Movies",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
 https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/hitsmovies.jpg?raw=true" group-title="Movies",HIts Movies
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/HITSMOVIE.png?raw=true" group-title="Movies",HIts Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
@@ -349,19 +349,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/TVN.jpg?raw=true" group-title="Movies",tvN
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVN.png?raw=true" group-title="Movies",tvN
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/tvnmovies.jpg?raw=true" group-title="Movies",TVN Movies
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVNMOVIE.png?raw=true" group-title="Movies",TVN Movies
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/rockaction.jpg?raw=true" group-title="Movies",Rock Action
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ROCKACT.png?raw=true" group-title="Movies",Rock Action
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 
@@ -370,13 +370,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/ROCKENTER.jpg?raw=true" group-title="Movies", Rock Entertainment
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ROCKENT.png?raw=true" group-title="Movies", Rock Entertainment
 https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/ROCKENTER.jpg?raw=true" group-title="Movies",Rock Entertainment
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ROCKENT.png?raw=true" group-title="Movies",Rock Entertainment
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/CINEMAWORLD.jpg?raw=true" group-title="Movies",Cinema World
@@ -387,16 +387,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/THRILL.jpg?raw=true" group-title="Movies",Thrill
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/THRILL.png?raw=true" group-title="Movies",Thrill
 https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/THRILL.jpg?raw=true" group-title="Movies", Thrill
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/THRILL.png?raw=true" group-title="Movies", Thrill
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/one.jpg?raw=true" group-title="Movies",One
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ONE.png?raw=true" group-title="Movies",One
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
@@ -405,7 +405,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/ccmvision.png" group-title="Movies",CCM 
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CCM.png?raw=true" group-title="Movies",CCM 
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 
@@ -413,7 +413,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/kix.jpg?raw=true" group-title="Movies",KIX
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/KIX.png?raw=true" group-title="Movies",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
@@ -425,11 +425,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/vision.jpg?raw=true" group-title="Movies",Vision Prime
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/VISIONPRIME.png?raw=true" group-title="Movies",Vision Prime
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/original.jpg?raw=true" group-title="Movies",Cinemachi
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/OORIGINAL.png?raw=true" group-title="Movies",Cinemachi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
@@ -440,7 +440,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/cineedge.jpg?raw=true" group-title="Movies",Cineedge
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CINEEDGE.png?raw=true" group-title="Movies",Cineedge
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 
@@ -448,13 +448,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinema
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/superrix.jpg?raw=true" group-title="Movies",Superrix
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SUPERRIX.png?raw=true" group-title="Movies",Superrix
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/uniques.jpg?raw=true" group-title="Movies",Uniques
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/UNIQUES.png?raw=true" group-title="Movies",Uniques
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 
