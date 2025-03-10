@@ -225,7 +225,7 @@ https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/kplusindi.png" group-title="Movies",Kplus
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/kplus.jpg?raw=true" group-title="Movies",Kplus
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
@@ -615,9 +615,6 @@ https://ddh2new.iosplayer.ru/ddh2/premium575/mono.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/logotv/SPTV.jpg" group-title="Sports",Sports TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
 
 
 
@@ -644,11 +641,6 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> Malaysia
 //========================================================================
-
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/okey.jpg" group-title="Malaysia",Okey
-#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/DUNIASINEMA.jpg", group-title="Malaysia",Dunia Sinema
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSinema/index.m3u8
@@ -815,7 +807,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="http://yunus12.my.id/logotv/aniplusvision.jpg" group-title="kids",ANIPLUS
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="https://github.com/Khorizil/lg/blob/main/aniplus.jpg?raw=true" group-title="kids",ANIPLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
 
 
@@ -823,7 +815,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=l
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/nickvisionjr.png" group-title="kids",Nick Jr Asia
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/nickjr.jpg?raw=true" group-title="kids",Nick Jr Asia
 https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 
@@ -962,7 +954,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfo
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
-#EXTINF:-1 tvg-logo="http://yunus12.my.id/logotv/entvision.png" group-title="Entertainment",Ent
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/ent.jpg?raw=true" group-title="Entertainment",Ent
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 
