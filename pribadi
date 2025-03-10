@@ -209,7 +209,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 //========================================================================
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/CITRABIOSKOP.jpg?raw=true" group-title="Movies",Citra Bioskop 
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/citra%20bioskop.jpg?raw=true" group-title="Movies",Citra Bioskop 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
@@ -219,7 +219,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/citadramaindi.png" group-title="Movies",Citra Drama
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/citradrama.jpg?raw=true" group-title="Movies",Citra Drama
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
 
@@ -232,7 +232,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/KPlus.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/maxstream.jpg?raw=true" group-title="Movies",Maxstream
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/maxstream.jpg?raw=true" group-title="Movies",Maxstream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
@@ -289,12 +289,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/galaxy.jpg?raw=true" group-title="Movies",Galaxy
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/galaxy.jpg?raw=true" group-title="Movies",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/galaxypremium.jpg?raw=true" group-title="Movies",Galaxy Premium
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/GSP.jpg?raw=true" group-title="Movies",Galaxy Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
@@ -303,7 +303,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/flik.jpg?raw=true" group-title="Movies",Flik
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/FLIK.jpg?raw=true" group-title="Movies",Flik
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
@@ -311,11 +311,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/imc.jpg?raw=true" group-title="Movies",IMC
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/IMC.jpg?raw=true" group-title="Movies",IMC
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/bioskopindo.jpg?raw=true" group-title="Movies",Bioskop Indonesia
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/BI.jpg?raw=true" group-title="Movies",Bioskop Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -379,7 +379,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Roc
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/ROCKENTER.jpg?raw=true" group-title="Movies",Rock Entertainment
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/cinemaworld.jpg?raw=true" group-title="Movies",Cinema World
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/CINEMAWORLD.jpg?raw=true" group-title="Movies",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
@@ -387,7 +387,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/thrill.jpg?raw=true" group-title="Movies",Thrill
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/THRILL.jpg?raw=true" group-title="Movies",Thrill
 https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/logo/blob/main/thrill.jpg?raw=true" group-title="Movies", Thrill
