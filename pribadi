@@ -117,7 +117,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/lg/blob/main/btv.jpg?raw=true" group-title="Local",BTV
 https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
-#EXTINF:-1 tvg-logo=https://github.com/Khorizil/lg/blob/main/cnnindo.jpg?raw=true" group-title="Local",CNN Indonesia
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/Khorizil/lg/refs/heads/main/cnnindo.jpg" group-title="Local",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/cnnindonesia.m3u8
 
@@ -199,7 +199,7 @@ https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/TVOne.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 tvg-logo=https://github.com/Khorizil/lg/blob/main/moji.jpg?raw=true" group-title="Local",MOJI
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/Khorizil/lg/refs/heads/main/moji.jpg" group-title="Local",MOJI
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
