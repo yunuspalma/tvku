@@ -117,6 +117,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/BTV.png?raw=true" group-title="Local",BTV
 https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/GARUDATV.jpg?raw=true" group-title="Local",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CNNINDO.jpg?raw=true" group-title="Local",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/cnnindonesia.m3u8
