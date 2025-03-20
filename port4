@@ -19,7 +19,7 @@ rtp://239.1.3.143:1234
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/transtv.png" group-title="Local",TransTV
 rtp://@239.1.1.194:9138
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/trans7.png" group-title="Local",Trans  7
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/trans7.png" group-title="Local", Trans 7
 rtp://@239.1.1.222:9306
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/tvone.png" group-title="Local",TVOne
 rtp://@239.1.3.31:1234
@@ -387,7 +387,7 @@ rtp://@239.1.1.134:8778
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/transtv.png" group-title="SD Channel",TransTV
 rtp://@239.1.1.27:8136
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/trans7.png" group-title="SD Channel",Trans  7
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/trans7.png" group-title="SD Channel",Trans 7
 rtp://@239.1.1.29:8184
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/sctv.png" group-title="SD Channel", SCTV
 rtp://239.1.1.21:8100
