@@ -235,7 +235,7 @@ rtp://@239.1.1.247:9440
 
 
 
-#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_moonbug_ver1.png" group-title="Kids",Moonbug Kids
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/MOONBUGKIDS.png?raw=true" group-title="Kids",Moonbug Kids
 rtp://@239.1.1.235:8593
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_aniplus_big1.png" group-title="Kids",Aniplus
 rtp://@239.1.2.104:9526
@@ -437,7 +437,7 @@ rtp://@239.1.2.47:8195
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/nba.png" group-title="Sports",NBA TV
 rtp://@239.1.1.49:8268
 
-#EXTINF:-1 tvg-logo="https://www.indihometv.com/assets/images/channel/channel_temp.png" group-title="Sports",Voli tv
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/VOLI.png?raw=true" group-title="Sports",Voli tv
 rtp://@239.1.2.43:8189
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/wsport.jpg" group-title="Sports",W-Sport
