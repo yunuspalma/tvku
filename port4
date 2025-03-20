@@ -511,7 +511,7 @@ rtp://@239.1.1.170:8994
 rtp://@239.1.2.236:9366
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_tvmui_big1.png" group-title="Religi",MUI TV
 rtp://@239.1.2.52:8286
-#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/hope.png?raw=true" group-title="Religi",Hope
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/hope.png?raw=true" group-title="Religi", Hope Channel
 rtp://@239.1.1.78:8442
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_uchannel_big1.png" group-title="Religi",U Channel
 rtp://@239.1.1.220:9522
