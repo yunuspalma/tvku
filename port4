@@ -256,10 +256,10 @@ rtp://@239.1.1.14:7982
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_nickjr_big.png" group-title="Kids",Nick Jr
 rtp://@239.1.1.162:7983
 #rtp://@239.1.1.159:8928
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_cartoonnetwork_big.png" group-title="Kids",Cartoon Network
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/CartoonNetwork.png?raw=true" group-title="Kids",Cartoon Network
 rtp://@239.1.2.81:8083
 #rtp://@239.1.1.123:8712
-#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/1705331415_CARTOONITO-88-HD-BW.png" group-title="Kids", Cartoonito
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/Cartoonito.png?raw=true" group-title="Kids", Cartoonito
 rtp://@239.1.1.163:8084
 #rtp://@239.1.1.73:8412
 
