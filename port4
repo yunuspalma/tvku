@@ -496,12 +496,11 @@ rtp://@239.1.2.3:7992
 
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_alquran_big1.png" group-title="Religi",Al Quran Al Kareem
 rtp://@239.1.1.185:9084
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_khazanah_big1.png" group-title="Religi",Khazanah
-rtp://@239.1.1.230:9356
+
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_rodjatv_big1.png" group-title="Religi",Rodja TV
 rtp://@239.1.1.224:9320
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_mtatv_big1.png" group-title="Religi",MTATV
-rtp://@239.1.2.234:9374
+rtp://@239.1.2.39:8186
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_mqtv_big1.png" group-title="Religi",MQTV
 rtp://@239.1.1.213:9252
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_tv9_big1.png" group-title="Religi",TV9 NU
@@ -512,7 +511,7 @@ rtp://@239.1.1.170:8994
 rtp://@239.1.2.236:9366
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_tvmui_big1.png" group-title="Religi",MUI TV
 rtp://@239.1.2.52:8286
-#EXTINF:0 tvg-logo="https://i.ibb.co/tmKfKCs/hope.png" group-title="Religi", Hope
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/hope.png?raw=true" group-title="Religi",Hope
 rtp://@239.1.1.78:8442
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_uchannel_big1.png" group-title="Religi",U Channel
 rtp://@239.1.1.220:9522
