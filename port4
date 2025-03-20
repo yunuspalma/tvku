@@ -526,7 +526,7 @@ rtp://@239.1.1.24:9517
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/mtvlive.png" group-title="Music",MTV Live HD
 #rtp://@239.1.1.254:8019
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/mtvlive.png" group-title="Music",MTV Live
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/MTVLive.png?raw=true" group-title="Music",MTV Live
 rtp://@239.1.2.16:8070
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/ikonser.png" group-title="Music",i Konser
 #rtp://@239.1.2.221:9250
@@ -534,6 +534,6 @@ rtp://@239.1.2.16:8070
 #rtp://@239.1.1.111:8624
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/musikindonesia.png" group-title="Music", Musik Indonesia
 rtp://@239.1.1.152:8626
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/pramborstv.png" group-title="Music",Prambors
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/Prambors.png?raw=true" group-title="Music",Prambors
 rtp://@239.1.1.254:8019
 
