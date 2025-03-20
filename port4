@@ -227,7 +227,7 @@ rtp://@239.1.1.59:8328
 rtp://@239.1.2.4:7998
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/history.png" group-title="Knowledge",History
 rtp://@239.1.1.23:8112
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/DISCOVERYASIA.png" group-title="Knowledge",Discovery Channel
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/Discovery.png?raw=true" group-title="Knowledge",Discovery Channel
 rtp://@239.1.1.247:9440
 #rtp://@239.1.2.78:7984
 
@@ -393,7 +393,7 @@ rtp://@239.1.1.29:8184
 rtp://239.1.1.21:8100
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/antv.png" group-title="SD Channel",ANTV
 rtp://@239.1.1.15:8064
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/indosiar.png" group-title="Local",Indosiar
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/Indosiar.png?raw=true" group-title="SD Channel", Indosiar
 rtp://@239.1.1.17:8076
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/tvone.png" group-title="SD Channel", TVOne
 rtp://@239.1.1.31:8160
