@@ -9,7 +9,7 @@ rtp://@239.1.1.252:9486
 rtp://@239.1.1.238:8016
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/indosiar.png" group-title="Local",Indosiar
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/Indosiar.png?raw=true" group-title="Local", Indosiar
 rtp://@239.1.1.214:8010
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/IDTV.png" group-title="Local",IDTV
