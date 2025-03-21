@@ -91,7 +91,7 @@ rtp://@239.1.1.112:8646
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ROCKENTERTAINMENT.png?raw=true" group-title="Movies HD",Rock Entertainment
 rtp://@239.1.2.76:9310
 
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/AXN.png?raw=true" group-title="Movies HD",AXN
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/AXN.png?raw=true" group-title="Movies HD", AXN
 rtp://@239.1.1.245:9436
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/WARNER.png?raw=true" group-title="Movies HD",Warner
@@ -105,7 +105,7 @@ rtp://239.1.2.21:8100
 rtp://@239.1.1.136:8790
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/GALAXYPREMIUM.png?raw=true" group-title="Movies HD",Galaxy Premium
 rtp://239.1.2.100:9518
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CINEMAWORLD.png?raw=true" group-title="Movies HD",Cinema World
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CINEMAWORLD.png?raw=true" group-title="Movies HD", Cinema World
 rtp://@239.1.3.51:1234
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/FLIK.png?raw=true" group-title="Movies HD", FLIK
@@ -361,7 +361,7 @@ rtp://@239.1.1.184:8778
 rtp://@239.1.2.240:9390
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/bioskopindonesia.png" group-title="SD Channel", Bioskop Indonesia
 rtp://@239.1.1.226:9332
-#EXTINF:0 tvg-logo=""https://github.com/Khorizil/intv/blob/main/FLIK.png?raw=true" group-title="SD Channel", Flik
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/FLIK.png?raw=true" group-title="SD Channel", Flik
 rtp://@239.1.1.239:9276
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/IMC.png?raw=true" group-title="SD Channel",IMC
 rtp://@239.1.2.20:8094
@@ -452,7 +452,7 @@ rtp://@239.1.2.201:9174
 rtp://@239.1.1.75:8624
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/intv/blob/main/SEATODAY.png?raw=true" group-title="News",Sea Today
 rtp://@239.1.2.70:8396
-#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png" group-title="News",MNC News
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/SINDONEWSTV.png?raw=true" group-title="News",Sindo News TV
 rtp://@239.1.3.164:1234
 rtp://@239.1.1.50:8274
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/EURONEWS.png?raw=true" group-title="News",Euronews
