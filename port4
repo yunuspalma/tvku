@@ -123,7 +123,7 @@ rtp://@239.1.1.200:8164
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/HITSNOW.png?raw=true" group-title="Movies HD",HITS NOW
 rtp://@239.1.1.219:8535
 
-#EXTINF:0 tvg-logo=https://github.com/Khorizil/intv/blob/main/HITS.png?raw=true" group-title="Movies HD",HITS HD
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/HITS.png?raw=true" group-title="Movies HD",HITS HD
 rtp://@239.1.1.209:9228
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/HITSMOVIES.png?raw=true" group-title="Movies HD",HITS MOVIES HD
 rtp://@239.1.1.190:9116
@@ -277,7 +277,7 @@ rtp://@239.1.1.229:9350
 rtp://@239.1.1.79:8448
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ATV.png?raw=true" group-title="Lifestyle",ATV
 rtp://@239.1.2.88:8308
-#EXTINF:0 tvg-logo="hhttps://github.com/Khorizil/intv/blob/main/HGTV.png?raw=true" group-title="Lifestyle",HGTV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/HGTV.png?raw=true" group-title="Lifestyle",HGTV
 rtp://@239.1.2.34:8178
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/AFN.png?raw=true" group-title="Lifestyle",Asian Food Network
 rtp://@239.1.2.13:8052
