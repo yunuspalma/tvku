@@ -2,64 +2,63 @@
 
 #EXTM3U billed-msg="Channel Premium Ini Milik YUNUS Jika ada channel yg tidak bisa di akses selama 1 hari,silahkan Hub Yunus, Terima Kasih."
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/ALLPLAY.png" group-title="Local",AllPlay
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ALLPLAYENT.png?raw=true" group-title="Local",AllPlay
 rtp://@239.1.1.252:9486
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/tvri.png" group-title="Local",TVRI
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/TVRI.png?raw=true" group-title="Local",TVRI
 rtp://@239.1.1.238:8016
 
 
-#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/Indosiar.png?raw=true" group-title="Local", Indosiar
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/INDOSIAR.png?raw=true" group-title="Local", Indosiar
 rtp://@239.1.1.214:8010
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/IDTV.png" group-title="Local",IDTV
 rtp://@239.1.2.5:8168
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/sctv.png" group-title="Local", SCTV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/SCTV.png?raw=true" group-title="Local", SCTV
 rtp://239.1.3.143:1234
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/transtv.png" group-title="Local",TransTV
+#EXTINF:0 tvg-logo=https://github.com/Khorizil/intv/blob/main/TRANSTV.png?raw=true" group-title="Local",TransTV
 rtp://@239.1.1.194:9138
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/trans7.png" group-title="Local", Trans 7
+#EXTINF:0 tvg-logo=https://github.com/Khorizil/intv/blob/main/TRANS7.png?raw=true" group-title="Local", Trans 7
 rtp://@239.1.1.222:9306
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/tvone.png" group-title="Local", TVOne
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/TVONE.png?raw=true" group-title="Local", TVOne
 rtp://@239.1.3.31:1234
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/antv.png" group-title="Local",ANTV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ANTV.png?raw=true" group-title="Local",ANTV
 rtp://@239.1.1.153:8627
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/SINDONEWSTV.png" group-title="Local",SindoNews TV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/SINDONEWSTV.png?raw=true" group-title="Local",SindoNews TV
 rtp://@239.1.1.146:7985
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/MDTV.png" group-title="Local",MDTV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MDTV.png?raw=true" group-title="Local",MDTV
 rtp://@239.1.1.158:8922
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/metrotv.png" group-title="Local",Metro TV
+#EXTINF:0 tvg-logo=https://github.com/Khorizil/intv/blob/main/METROTV.png?raw=true" group-title="Local",Metro TV
 rtp://@239.1.2.2:7986
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/kompastv.png" group-title="Local",Kompas TV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/KOMPASTV.png?raw=true" group-title="Local",Kompas TV
 rtp://@239.1.1.240:8017
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/MOJI.png" group-title="Local", MOJI
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MOJI.png?raw=true" group-title="Local", MOJI
 rtp://@239.1.1.10:9513
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/BTV.png" group-title="Local",BTV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/BTV.png?raw=true" group-title="Local",BTV
 rtp://@239.1.1.114:9512
 #rtp://@239.1.1.183:9072
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/dunialain.png" group-title="Local",Dunia Lain
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/DUNIALAIN.png?raw=true" group-title="Local",Dunia Lain
 rtp://@239.1.2.148:8026
 #rtp://@239.1.1.149:8868
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/insert.png" group-title="Local",Insert
 rtp://@239.1.1.113:8652
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/jaktv.png" group-title="Local",JakTV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/JAKTV.png?raw=true" group-title="Local",JakTV
 rtp://@239.1.1.107:8616
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/rtv.png" group-title="Local",RTV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/RTV.png?raw=true" group-title="Local",RTV
 rtp://@239.1.1.253:8018
 #rtp://@239.1.1.69:8388
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/daaitv.png" group-title="Local",DAAI TV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/DAAITV.png?raw=true" group-title="Local",DAAI TV
 rtp://@239.1.1.188:8015
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/tvedukasi.png" group-title="Local",TV Edukasi
-#rtp://@239.1.1.39:8208
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/balitv.png" group-title="Local",Bali TV
+
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/BALI-TV.png?raw=true" group-title="Local",Bali TV
 rtp://@239.1.1.72:8406
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/jtv.png" group-title="Local",JTV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/JTV.png?raw=true" group-title="Local",JTV
 rtp://@239.1.1.6:8010
-#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_antara_big1.png" group-title="Local",Antara
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ANTARATV.png?raw=true" group-title="Local",Antara
 rtp://@239.1.1.128:9218
 
 
@@ -83,57 +82,57 @@ rtp://@239.1.3.62:1234
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/cinemax.png" group-title="Movies HD", Cinemax HD
 rtp://239.1.3.86:1234
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/STUDIOUNIVERSALWARNA.png" group-title="Movies HD",Studio Universal
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/STUDIOUNIVERSAL.png?raw=true" group-title="Movies HD",Studio Universal
 rtp://239.1.2.67:8221
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/rockaction.png" group-title="Movies HD", Rock Action
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ROCKACTION.png?raw=true" group-title="Movies HD", Rock Action
 rtp://@239.1.1.112:8646
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/rockentertainment.png" group-title="Movies HD",Rock Entertainment
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ROCKENTERTAINMENT.png?raw=true" group-title="Movies HD",Rock Entertainment
 rtp://@239.1.2.76:9310
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/axn_ver2.png" group-title="Movies HD",AXN
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/AXN.png?raw=true" group-title="Movies HD",AXN
 rtp://@239.1.1.245:9436
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/warner.png" group-title="Movies HD",Warner
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/WARNER.png?raw=true" group-title="Movies HD",Warner
 rtp://@239.1.2.244:9078
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/ONE.png" group-title="Movies HD",ONE
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ONE.png?raw=true" group-title="Movies HD",ONE
 rtp://239.1.2.21:8100
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/STUDIOUNIVERSALWARNA.png" group-title="Movies HD",Studio Universal
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/STUDIOUNIVERSAL.png?raw=true" group-title="Movies HD",Studio Universal
 #rtp://@239.1.3.145:1234
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/galaxyHD.png" group-title="Movies HD",Galaxy
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/GALAXY.png?raw=true" group-title="Movies HD",Galaxy
 rtp://@239.1.1.136:8790
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/GalaxyPremiumHD.png" group-title="Movies HD",Galaxy Premium
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/GALAXYPREMIUM.png?raw=true" group-title="Movies HD",Galaxy Premium
 rtp://239.1.2.100:9518
-#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/cinemaworld.png?raw=true" group-title="Movies HD",Cinema World
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CINEMAWORLD.png?raw=true" group-title="Movies HD",Cinema World
 rtp://@239.1.3.51:1234
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/flik.png" group-title="Movies HD", FLIK
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/FLIK.png?raw=true" group-title="Movies HD", FLIK
 rtp://@239.1.1.239:9276
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/imc.png" group-title="Movies HD",IMC
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/IMC.png?raw=true" group-title="Movies HD",IMC
 rtp://@239.1.3.146:1234
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/bioskopindonesia.png" group-title="Movies HD", Bioskop Indonesia
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/BIOSKOPINDONESIA.png?raw=true" group-title="Movies HD", Bioskop Indonesia
 rtp://@239.1.1.226:9332
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/Maxstream.png" group-title="Movies HD", Maxstream
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MAXSTREAM.png?raw=true" group-title="Movies HD", Maxstream
 rtp://@239.1.1.200:8164
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/hitsnow.png" group-title="Movies HD",HITS NOW
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/HITSNOW.png?raw=true" group-title="Movies HD",HITS NOW
 rtp://@239.1.1.219:8535
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/hits.png" group-title="Movies HD",HITS HD
+#EXTINF:0 tvg-logo=https://github.com/Khorizil/intv/blob/main/HITS.png?raw=true" group-title="Movies HD",HITS HD
 rtp://@239.1.1.209:9228
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/hitsmovie.png" group-title="Movies HD",HITS MOVIES HD
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/HITSMOVIES.png?raw=true" group-title="Movies HD",HITS MOVIES HD
 rtp://@239.1.1.190:9116
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/celestialmovie.png" group-title="Movies HD",Celestial Movie
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CELESTIALMOVIES.png?raw=true" group-title="Movies HD",Celestial Movie
 rtp://@239.1.1.232:8014
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/kplus_hd.png" group-title="Movies HD",KPlus
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/KPLUS.png?raw=true" group-title="Movies HD",KPlus
 rtp://@239.1.1.202:9186
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/tvn.png" group-title="Movies HD",TVN
