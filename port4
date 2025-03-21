@@ -484,24 +484,24 @@ rtp://@239.1.2.3:7992
 
 
 
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_alquran_big1.png" group-title="Religi",Al Quran Al Kareem
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ALQURANALKAREEM.png?raw=true" group-title="Religi",Al Quran Al Kareem
 rtp://@239.1.1.185:9084
 
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_rodjatv_big1.png" group-title="Religi",Rodja TV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/RODJATV.png?raw=true" group-title="Religi",Rodja TV
 rtp://@239.1.1.224:9320
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_mtatv_big1.png" group-title="Religi",MTATV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MTATV.png?raw=true" group-title="Religi",MTATV
 rtp://@239.1.2.39:8186
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_mqtv_big1.png" group-title="Religi",MQTV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MQTV.png?raw=true" group-title="Religi",MQTV
 rtp://@239.1.1.213:9252
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_tv9_big1.png" group-title="Religi",TV9 NU
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/TV9.png?raw=true" group-title="Religi",TV9 NU
 rtp://@239.1.1.150:8874
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_muhammadiyahtv_big1.png" group-title="Religi",tvMu
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/TVMU.png?raw=true" group-title="Religi",tvMu
 rtp://@239.1.1.170:8994
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_tawaftv_big.png" group-title="Religi",Tawaf TV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/Tawaf.png?raw=true" group-title="Religi",Tawaf TV
 rtp://@239.1.2.236:9366
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_tvmui_big1.png" group-title="Religi",MUI TV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MUI.png?raw=true" group-title="Religi",MUI TV
 rtp://@239.1.2.52:8286
-#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/hope.png?raw=true" group-title="Religi", Hope Channel
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/hope.png?raw=true" group-title="Religi", Hope Channel
 rtp://@239.1.1.78:8442
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/UCHANNEL.png?raw=true" group-title="Religi",U Channel
 rtp://@239.1.1.220:9522
@@ -518,10 +518,7 @@ rtp://@239.1.1.24:9517
 #rtp://@239.1.1.254:8019
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MTVLIVE.png?raw=true" group-title="Music",MTV Live
 rtp://@239.1.2.16:8070
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/ikonser.png" group-title="Music",i Konser
-#rtp://@239.1.2.221:9250
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/seru_small.png" group-title="Music",Seru!
-#rtp://@239.1.1.111:8624
+
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MUSIKINDONESIA.png?raw=true" group-title="Music", Musik Indonesia
 rtp://@239.1.1.152:8626
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/PRAMBORS.png?raw=true" group-title="Music",Prambors
