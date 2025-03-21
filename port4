@@ -151,7 +151,7 @@ rtp://@239.1.2.207:9190
 rtp://@239.1.1.83:8472
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/paramount.png" group-title="Movies HD",PARAMOUNT
 #rtp://@239.1.1.211:9240
-#EXTINF:0 tvg-logo=https://github.com/Khorizil/intv/blob/main/ZEEBIOSKOP.png?raw=true" group-title="Movies HD",Zee Bioskop
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ZEEBIOSKOP.png?raw=true" group-title="Movies HD",Zee Bioskop
 rtp://@239.1.1.129:8748
 
 
@@ -465,7 +465,7 @@ rtp://@239.1.1.105:8604
 rtp://@239.1.1.199:9168
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNBCASIA.png?raw=true" group-title="News",CNBC asia
 rtp://@239.1.1.155:8904
-EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNA.png?raw=true" group-title="News",Channel News Asia
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNA.png?raw=true" group-title="News",Channel News Asia
 rtp://@239.1.2.23:8112
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ALJAZEERA.png?raw=true" group-title="News",Al Jazeera
 rtp://@239.1.1.195:9144
