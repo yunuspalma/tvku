@@ -642,7 +642,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-name="" tvg-id="1" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="Sports",Sportstar 4
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SPORTSTARS4.png?raw=true" group-title="Sports",SportStars 4
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
