@@ -3,6 +3,16 @@
 # (●) Last Update: 2025-03-22 10:37:00 GMT+7 "
 
 
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="2025",Bid'ah (5)
+https://cloud.hownetwork.xyz/xxx/a53cc8211d0c1fc0589021f946159a5b/24/480.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="2025",Bid'ah (4)
+https://cloud.hownetwork.xyz/xxx/c169a228140a9cf3f8ec3bd2b7076f25/30/480.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="2025",Bid'ah (3)
+https://cloud.hownetwork.xyz/xxx/327a7a9a0a65506fe18c2b07c280dff9/24/480.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="2025",Bid'ah (2)
+https://cloud.hownetwork.xyz/xxx/addded9a5efcba9169a8003864488d9a/24/480.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/bidaah.jpg?raw=true" group-title="2025",Bid'ah (1)
+https://cloud.hownetwork.xyz/xxx/b8393c5bf96f5f09dddfbb133a420c8b/24/480.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-g20-2025-lk21-d21.jpg.webp" group-title="2025",G20
 https://cloud.hownetwork.xyz/xxx/136af2febe914252832a4e85aafbf7ef/31/480.m3u8
 
