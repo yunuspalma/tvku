@@ -98,7 +98,7 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANSTV.png?raw=true" group-title="Local",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANS7.png?raw=true" group-title="Local",Trans7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
