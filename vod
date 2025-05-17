@@ -156,7 +156,8 @@ https://cloud.hownetwork.xyz/xxx/0a10938074468cb0d608d68d38acdbf1/26/480.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/12/film-the-volunteers-the-battle-of-life-and-death-2024-lk21-d21.jpg" group-title="2025",The Volunteers: The Battle of Life and Death
 https://cloud.hownetwork.xyz/xxx/0b0c184e76d0981aabcfe60664b3c067/26/480.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/05/film-invasion-2024-lk21-d21.jpg.webp" group-title="2024",Invasion
+https://cloud.hownetwork.xyz/xxx/KxY_LzYQGC9vY0d-dx0hPSAcJREdJhV1czdFKHII/32/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/kang-mak.jpeg" group-title="2024",Kang Mak
 https://www.googleapis.com/drive/v3/files/13A1pFBzJDUDHhBDofpTa475Fn6ZZYagI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
