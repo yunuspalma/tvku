@@ -68,10 +68,14 @@ https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/RCTI.png?raw=true" group-title="Local",RCTI
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/RCTI.png?raw=true" group-title="Local", RCTI
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
 
@@ -80,10 +84,14 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/MNCTV.png?raw=true" group-title="Local",MNCTV
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=2 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/MNCTV.png?raw=true" group-title="Local", MNCTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 
 #EXTVLCOPT:http-user-agent=android-R+
@@ -92,10 +100,14 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=3 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/GTV.png?raw=true" group-title="Local", GTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 
 
@@ -104,18 +116,28 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=6
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANSTV.png?raw=true" group-title="Local",Trans TV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANS7.png?raw=true" group-title="Local",Trans7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=7 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANS7.png?raw=true" group-title="Local",Trans 7
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/indosiar.jpg?raw=true" group-title="Local",Indosiar
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
@@ -128,11 +150,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/BTV.png?raw=true" group-title="Local",BTV
 https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/GARUDATV.jpg?raw=true" group-title="Local",Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CNNINDO.jpg?raw=true" group-title="Local",CNN Indonesia
@@ -208,10 +225,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local",TV One
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=12 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local",TVOne
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 
 
@@ -309,10 +330,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/GALAXY.jpg?raw=true" group-title="Movies", Galaxy
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/GALAXYPRE.jpg?raw=true" group-title="Movies",Galaxy Premium
@@ -320,10 +341,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/GALAXYPRE.jpg?raw=true" group-title="Movies", Galaxy Premium
-https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
+http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 
 
@@ -377,7 +398,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid
 
 #EXTVLCOPT:http-referrer=https://visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVN.png?raw=true" group-title="Movies", tvN HD
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVN.png?raw=true" group-title="Movies", tvN
 https://dsgtq5sngxkde.cloudfront.net/live/eds/tvN/sa_dash/tvN.mpd
 
 
@@ -388,26 +409,34 @@ http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid
 
 #EXTVLCOPT:http-referrer=https://visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVNMOVIE.png?raw=true" group-title="Movies", TVN Movies HD
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVNMOVIE.png?raw=true" group-title="Movies", TVN Movies
 https://dsgtq5sngxkde.cloudfront.net/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ROCKACT.png?raw=true" group-title="Movies",Rock Action
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=52 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ROCKACT.png?raw=true" group-title="Movies", Rock Action
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockaction/sa_dash/Rockaction.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/797ea46c6d3c4d8cac25f69cb1bc3d5c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ROCKENT.png?raw=true" group-title="Movies",Rock Entertainment
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
 
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=92 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ROCKENT.png?raw=true" group-title="Movies", Rock Entertainment
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/cinemaworld.jpg?raw=true" group-title="Movies",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
