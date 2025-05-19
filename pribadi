@@ -292,7 +292,7 @@ http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/flik.jpg?raw=true" group-title="Movies",Flik
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/flik%202.m3u8
+http://nonton.site:8888/live/DZqjznfyyn/3Q9O2vucT6/29592.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/imc.jpg?raw=true" group-title="Movies",IMC
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/imc.m3u8
@@ -440,15 +440,15 @@ http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/HboID.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hboindo.jpg" group-title="HBO Premium", HBO
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbohitsindo.jpg" group-title="HBO Premium",HBO Hits
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbohits.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
 
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbofamilyindo.jpg" group-title="HBO Premium",HBO Family
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbofam.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/30184.m3u8
 
 
 
