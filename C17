@@ -1,30 +1,17 @@
 
 #EXTM3U billed-msg="Channel ini hanya vision plus, Terima Kasih.
 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/RCTI.png?raw=true" group-title="Local",RCTI
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
 
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/MNCTV.png?raw=true" group-title="Local",MNCTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 
-
-
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/GTV.png?raw=true" group-title="Local",GTV 
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 
 
