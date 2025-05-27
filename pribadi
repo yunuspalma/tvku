@@ -200,8 +200,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local",TVOne
-#http://202.147.193.244/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local", TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 
 
