@@ -163,9 +163,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 #https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
 #https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w1627249822.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/sctv.jpg?raw=true" group-title="Local",SCTV
-https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -174,10 +171,6 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/sctv.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ANTV.png?raw=true" group-title="Local",ANTV
-https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
-https://raw.githubusercontent.com/yunuspalma/Trial/refs/heads/main/Antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ANTV.png?raw=true" group-title="Local", ANTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -219,33 +212,20 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANSTV.png?raw=true" group-title="Local",TransTV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANSTV.png?raw=true" group-title="Local",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2048714342_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANS7.png?raw=true" group-title="Local",Trans7
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANS7.png?raw=true" group-title="Local",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w365876275_b744100_sleng.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/indosiar.jpg?raw=true" group-title="Local",Indosiar
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/indosiar.jpg?raw=true" group-title="Local", Indosiar
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/BTV.png?raw=true" group-title="Local",BTV
-https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CNNINDO.jpg?raw=true" group-title="Local",CNN Indonesia
@@ -258,14 +238,10 @@ https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/cnnindone
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SINDO.png?raw=true" group-title="Local",Sindo News TV
-https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/insert.png?raw=true" group-title="Local",Insert
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
-https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
 https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w1560284703_b54400_sleng.m3u8
 
 
@@ -284,19 +260,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/KOMPAS.png?raw=true" group-title="Local", KOMPAS TV
-https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/KOMPAS.png?raw=true" group-title="Local",KOMPAS TV 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/METRO.png?raw=true" group-title="Local",METRO TV
-https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/METRO.png?raw=true" group-title="Local", METRO TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -317,20 +286,9 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/RTV.png?raw=true" group-title="Local",RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local",TV One
-https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-
-
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local", TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/moji.jpg?raw=true" group-title="Local",MOJI
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/moji.jpg?raw=true" group-title="Local", MOJI
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -366,27 +324,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid
 https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/KPlus.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/max.jpg?raw=true" group-title="Movies",Maxstream
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/studiouni.jpg?raw=true" group-title="Movies",Studio Universal
-https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/warner.jpg?raw=true" group-title="Movies",Warner
-https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/AXN.png?raw=true" group-title="Movies",AXN
-https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/AXN.png?raw=true" group-title="Movies", AXN
@@ -417,17 +354,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
 
-
-
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CELESTIAL.png?raw=true" group-title="Movies",Celestial Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
-
-
-
-
+https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -452,17 +383,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/imc2.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/imc.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/biokopindo.jpg?raw=true" group-title="Movies",Bioskop Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ZEE.png?raw=true" group-title="Movies",Zee Bioskop
-https://streaming.indihometv.com/atm/DASH/zbioskop/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ZEE.png?raw=true" group-title="Movies", Zee Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -481,16 +401,6 @@ https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hitsnowindi.png" group-title="Movies",Hits Now
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/dunialainindi.png" group-title="Movies",Dunia Lain
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVN.png?raw=true" group-title="Movies",tvN
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -514,13 +424,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/cinemaworld.jpg?raw=true" group-title="Movies",Cinema World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/THRILL.png?raw=true" group-title="Movies", Thrill
