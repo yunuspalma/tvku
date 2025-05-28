@@ -493,12 +493,12 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/HboID.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hboindo.jpg" group-title="HBO Premium", HBO
 #EXTVLCOPT:http-user-agent=xplayer168
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/hbo.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbohitsindo.jpg" group-title="HBO Premium",HBO Hits
 #EXTVLCOPT:http-user-agent=xplayer168
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbohits.m3u8
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/hbohits.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hbohitsindo.jpg" group-title="HBO Premium", HBO Hits
 #EXTVLCOPT:http-user-agent=xplayer168
