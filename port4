@@ -12,11 +12,11 @@ rtp://@239.1.1.238:8016
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MNCTV.png?raw=true" group-title="Local", MNCTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200743.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/GTV.png?raw=true" group-title="Local", GTV
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200746.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200746.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/INDOSIAR.png?raw=true" group-title="Local", Indosiar
 rtp://@239.1.1.214:8010
