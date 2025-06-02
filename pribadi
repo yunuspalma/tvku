@@ -374,7 +374,8 @@ https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.m
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/flik.jpg?raw=true" group-title="Movies",Flik
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302244.m3u8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Flik-HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/imc.jpg?raw=true" group-title="Movies",IMC
