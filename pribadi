@@ -685,7 +685,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SOCCER.png?raw=true" group-title="Sports",Soccer Channel
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45019.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/skydportsf1.jpg?raw=true" group-title="Sports",Sky Sports F1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
