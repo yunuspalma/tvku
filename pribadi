@@ -685,6 +685,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SOCCER.png?raw=true" group-title="Sports",Soccer Channel
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45019.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/skymotogp.png?raw=true" group-title="Sports",MotoGp
+https://raw.githubusercontent.com/B-inalm3u-Custom/Macam-Olahraga/B-inal22/MotoGP1.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/skydportsf1.jpg?raw=true" group-title="Sports",Sky Sports F1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
 
