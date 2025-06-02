@@ -16,7 +16,7 @@ https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/GTV.png?raw=true" group-title="Local", GTV
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://github.com/zackwod/thuran9/raw/refs/heads/main/gtv.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/INDOSIAR.png?raw=true" group-title="Local", Indosiar
 rtp://@239.1.1.214:8010
