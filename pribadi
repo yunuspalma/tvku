@@ -391,10 +391,10 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 http://filex.tv:8080/live/shakeelmirza/4110440/302244.ts
 
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/imc.jpg?raw=true" group-title="Movies",IMC
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://github.com/zackwod/thuran9/raw/refs/heads/main/imc.m3u8
+https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ZEE.png?raw=true" group-title="Movies", Zee Bioskop
@@ -706,12 +706,15 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 //========================================================================
 
 
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TAWAF.png?raw=true" group-title="Religion",Tawaf TV
-http://202.147.193.244/live/eds/TawafTV/sa_dash/TawafTV.mpd
+https://av-ch-cdn.mncnow.id/live/eds/TawafTV/sa_dash/TawafTV.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/MUSLIMTV.png?raw=true" group-title="Religion",Muslim TV
-http://202.147.193.244/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
+https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
