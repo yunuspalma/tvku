@@ -670,6 +670,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/skymotogp.png?raw=true" group-title="Sports",MotoGp
 https://raw.githubusercontent.com/B-inalm3u-Custom/Macam-Olahraga/B-inal22/MotoGP1.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ssc2.png?raw=true" group-title="Sports",SSC 2 MOTO GP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/skydportsf1.jpg?raw=true" group-title="Sports",Sky Sports F1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
 
