@@ -1,9 +1,17 @@
 
 
-# (●) Last Update: 2025-05-25 10:37:00 GMT+7 "
+# (●) Last Update: 2025-06-02 22:45:00 GMT+7 "
 
 
 #EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/06/film-shadow-force-2025-lk21-d21.jpg.webp" group-title="2025",Shadow Force
+https://cloud.hownetwork.xyz/xxx/MRAoKioOWictIxQpbgJmandVPisnHRseGg5PfXoENzx1Gg/32/480.m3u8
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/05/film-tin-soldier-2025-lk21-d21.jpg.webp" group-title="2025",Tin Soldier
+https://cloud.hownetwork.xyz/xxx/NhEnYzYWGyUrNAVhcQBkbW8PLCwhFSgZHWZBfiUBN2En/32/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/05/film-mma-cop-2025-lk21-d21.jpg.webp" group-title="2025",MMA Cop
 https://cloud.hownetwork.xyz/xxx/LxUoYyYWB2xwYUV5bkczOiYUFhYaShYkcWkWeCY/32/480.m3u8
@@ -27616,7 +27624,4 @@ https://www.googleapis.com/drive/v3/files/1K-208xXtc5LxICG1O2mcejzaah1PaKi-?alt=
 https://stream.hownetwork.xyz/xxx/splash-splash-love-season-1-episode-1-2015-hdtv/12/480.m3u8
 #EXTINF:0 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2022/07/film-splash-splash-love-2015-lk21-d21.jpg" group-title="Old",Splash Splash Love 2
 https://stream.hownetwork.xyz/xxx/splash-splash-love-season-1-episode-2-2015-hdtv/12/480.m3u8
-
-
-
 
