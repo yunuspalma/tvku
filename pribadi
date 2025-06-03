@@ -55,7 +55,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SINDO.png?raw=true" group-title="IndiHometv",Sindo News TV
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SINDO.png?raw=true" group-title="IndiHometv",SindoNews TV
 https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
@@ -75,7 +75,7 @@ https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
 
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="IndiHometv",TV One
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="IndiHometv",TVOne
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
@@ -1120,7 +1120,7 @@ https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/tvri.m3u8
 https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/kompastv.m3u8
 
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/COBA.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Percobaan",TV One
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Percobaan",TVOne
 https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/tvone.m3u8
 
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/COBA.png?raw=true"
