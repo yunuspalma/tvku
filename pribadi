@@ -1110,6 +1110,11 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.m
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/COBA.png?raw=true"
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVRI.png?raw=true" group-title="Percobaan",TVRI Nasional
+https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/tvri.m3u8
+
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/COBA.png?raw=true"
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/KOMPAS.png?raw=true" group-title="Percobaan",KOMPAS TV
 https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/kompastv.m3u8
@@ -1125,5 +1130,27 @@ https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/inews.m3u8
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/COBA.png?raw=true"
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/METRO.png?raw=true" group-title="Percobaan",METRO TV
 https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/metrotv.m3u8
+
+#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/COBA.png?raw=true"
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/sctv.jpg?raw=true" group-title="Percobaan",SCTV
+https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/sctv.m3u8
+
+#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/COBA.png?raw=true"
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SINDO.png?raw=true" group-title="Percobaan",SindoNews TV
+https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/sindonews.m3u8
+
+#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/COBA.png?raw=true"
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/MDTV.png?raw=true" group-title="Percobaan",MDTV
+https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/mdtv.m3u8
+
+#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/COBA.png?raw=true"
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/idx.jpg?raw=true" group-title="Percobaan",IDX Channel
+https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/idx.m3u8
+
+#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/COBA.png?raw=true"
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/tv-derana.jpg" group-title="Percobaan",TV Derana
+https://raw.githubusercontent.com/yunuspalma/live2/refs/heads/main/tvderana.m3u8
+
+
 
 
