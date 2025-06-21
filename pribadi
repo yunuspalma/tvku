@@ -1120,7 +1120,10 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.m
 
 
 
-
+#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/livetv.jpg?raw=true",
+#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/livetv.jpg?raw=true" group-title="Iran",live
+https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
 
