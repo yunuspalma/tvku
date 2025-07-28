@@ -25,58 +25,6 @@
 # (â—) Last Update: 2025-01-02 10:26:00 GMT+7 "
 
 
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true",
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/sctv.jpg?raw=true" group-title="IndiHometv",SCTV
-https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true",
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ANTV.png?raw=true" group-title="IndiHometv",ANTV
-https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
-https://raw.githubusercontent.com/yunuspalma/Trial/refs/heads/main/Antv.m3u8
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true",
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANSTV.png?raw=true" group-title="IndiHometv",TransTV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true",
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANS7.png?raw=true" group-title="IndiHometv",Trans7
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true",
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/indosiar.jpg?raw=true" group-title="IndiHometv",Indosiar
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true",
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/BTV.png?raw=true" group-title="IndiHometv",BTV
-https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SINDO.png?raw=true" group-title="IndiHometv",SindoNews TV
-https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/insert.png?raw=true" group-title="IndiHometv",Insert
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
-https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
-https://live.insertlive.com/insertlive/smil:insertlive.smil/chunklist_w1560284703_b54400_sleng.m3u8
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/KOMPAS.png?raw=true" group-title="IndiHometv", KOMPAS TV
-https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/METRO.png?raw=true" group-title="IndiHometv",METRO TV
-https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
-
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="IndiHometv",TVOne
-https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/moji.jpg?raw=true" group-title="IndiHometv",MOJI
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -98,13 +46,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/studiouni.jpg?raw=true" group-title="IndiHometv",Studio Universal
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/warner.jpg?raw=true" group-title="IndiHometv",Warner
-https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/AXN.png?raw=true" group-title="IndiHometv",AXN
-https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CELESTIAL.png?raw=true" group-title="IndiHometv",Celestial Movies
@@ -120,9 +61,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ZEE.png?raw=true" group-title="IndiHometv",Zee Bioskop
-https://streaming.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/hitsnowindi.png" group-title="IndiHometv", Hits Now
@@ -397,7 +335,7 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://filex.tv:8080/live/shakeelmirza/4110440/302244.ts
+#http://filex.tv:8080/live/shakeelmirza/4110440/302244.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
