@@ -30,6 +30,10 @@
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ANTV.png?raw=true" group-title="IndiHometv", ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
 #EXTINF:-1 group-logo="https://github.com/yunuspalma/ott/blob/main/Indihometv.png?raw=true"
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/max.jpg?raw=true" group-title="IndiHometv",Maxstream
