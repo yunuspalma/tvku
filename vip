@@ -184,7 +184,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/indosiar.jpg?raw=true" group-title="Local",Indosiar Digital
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 12; cjf10x) ExoPlayerLib/2.15.1
-http://103.180.118.5:9981/stream/channelid/290871490?profile=pass
+#http://103.180.118.5:9981/stream/channelid/290871490?profile=pass
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CNNINDO.jpg?raw=true" group-title="Local",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
