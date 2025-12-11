@@ -8,6 +8,12 @@ rtp://@239.1.1.252:9486
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/TVRI.png?raw=true" group-title="Local", TVRI
 rtp://@239.1.1.238:8016
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/RCTI.png" group-title="Local",Rcti
+rtp://@239.1.2.45:8193
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/GTV.png" group-title="Local",Gtv
+rtp://@239.1.2.47:8195
+
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/RCTI2.png?raw=true" group-title="Local", RCTI
 #https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
@@ -425,13 +431,6 @@ rtp://@239.1.2.32:8190
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/CHAMPION2.png" group-title="Sports",Champion tv 2
 rtp://@239.1.2.35:8181
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/CHAMPION5.png" group-title="Sports",Champion tv 5
-rtp://@239.1.2.45:8193
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/CHAMPION6.png" group-title="Sports",Champion tv6
-rtp://@239.1.2.47:8195
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/NBATV.png?raw=true" group-title="Sports",NBA TV
 rtp://@239.1.1.49:8268
