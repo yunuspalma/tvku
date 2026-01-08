@@ -1,18 +1,27 @@
 #EXTM3U
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-gladiator-undergound-2025-lk21.jpg" group-title="2025",Gladiator Undergound
 https://cloud.hownetwork.xyz/xxx/JRQoKiwYAy4wfAIiJ1UkPy0NJypoS0dzd3wgCQF0GgcaJyp-dhoVIidj/38/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-shoguns-ninja-2025-lk21.jpg" group-title="2025",Shogun's Ninja
 https://cloud.hownetwork.xyz/xxx/MRAmKTAXBGwsOBkmIh1kaHBNZBkAOzMNHQkofnQBNW9yGSw/38/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-baahubali-epic-2025-lk21.jpg" group-title="2025",Baahubali: The Epic
 https://cloud.hownetwork.xyz/xxx/IBkoJjAbFi0rfBI8KlN7anJKfGMSPDUFDg4vE3FWYGt3TXB4/38/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-unseen-enemy-2025-lk21.jpg" group-title="2025",Unseen Enemy
 https://cloud.hownetwork.xyz/xxx/NxY6KyAXWiQsNBo1bgJmandVHgsHPTseGg4TLnQCYGogGw/38/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-predator-badlands-2025-lk21.jpg" group-title="2025",Predator: Badlands
 https://cloud.hownetwork.xyz/xxx/MgosKiQNGDNvMxYoL1E4PDFVe353TFoWBxMzABxoCT5zQC96I04T/38/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-120-bahadur-2025-lk21.jpg" group-title="2025",120 Bahadur
 https://cloud.hownetwork.xyz/xxx/c0p5YycYHyAmJAVhcQBkbW8vDAwBNSgZHWJAKHIEY2l0/38/480.m3u8
+
