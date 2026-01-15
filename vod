@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-akhanda-2-2025-lk21.jpg" group-title="2025",Akhanda 2
+https://drive.usercontent.google.com/download?id=1w9Fq_fJ_FRCZNzRQUInbfTICepbukgix&export=download&authuser=0&confirm=t&uuid=21b22333-32c7-4f21-ba35-9a03e9db6b5d&at=ANTm3czXqdJBRnMS7wB6UgqoTS_z%3A1768449358103
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-gladiator-undergound-2025-lk21.jpg" group-title="2025",Gladiator Undergound
 https://cloud.hownetwork.xyz/xxx/JRQoKiwYAy4wfAIiJ1UkPy0NJypoS0dzd3wgCQF0GgcaJyp-dhoVIidj/38/480.m3u8
@@ -28,5 +31,6 @@ https://cloud.hownetwork.xyz/xxx/MgosKiQNGDNvMxYoL1E4PDFVe353TFoWBxMzABxoCT5zQC9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-120-bahadur-2025-lk21.jpg" group-title="2025",120 Bahadur
 https://cloud.hownetwork.xyz/xxx/c0p5YycYHyAmJAVhcQBkbW8vDAwBNSgZHWJAKHIEY2l0/38/480.m3u8
+
 
 
