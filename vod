@@ -1,22 +1,23 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-akhanda-2-2025-lk21.jpg" group-title="2025",Akhanda 2
-https://drive.usercontent.google.com/download?id=1w9Fq_fJ_FRCZNzRQUInbfTICepbukgix&export=download&authuser=0&confirm=t&uuid=21b22333-32c7-4f21-ba35-9a03e9db6b5d&at=ANTm3czXqdJBRnMS7wB6UgqoTS_z%3A1768449358103
+https://www.googleapis.com/drive/v3/files/1w9Fq_fJ_FRCZNzRQUInbfTICepbukgix?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-gladiator-undergound-2025-lk21.jpg" group-title="2025",Gladiator Undergound
-https://drive.usercontent.google.com/download?id=19v4JCmf7K87wMgEAIUFh9FoE4NsRvbLg&export=download&authuser=0&confirm=t&uuid=f79c662e-8a88-46e5-a5aa-f3b6e90e7d3d&at=ANTm3cxXT0cLIupVJUBPpzYSFzWe%3A1768450194371
+https://www.googleapis.com/drive/v3/files/19v4JCmf7K87wMgEAIUFh9FoE4NsRvbLg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-shoguns-ninja-2025-lk21.jpg" group-title="2025",Shogun's Ninja
-https://drive.usercontent.google.com/download?id=1fiVvdndkcPVk1e82fj-IMPqkCxL57doG&export=download&authuser=0&confirm=t&uuid=aa121bc1-c9c0-45bf-bd9f-0851f12e69f1&at=ANTm3cxvfuD0reJGWSPMyg_r6oSk%3A1768450130223
+https://www.googleapis.com/drive/v3/files/1fiVvdndkcPVk1e82fj-IMPqkCxL57doG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-baahubali-epic-2025-lk21.jpg" group-title="2025",Baahubali: The Epic
-https://drive.usercontent.google.com/download?id=1tWrV_iOmC1fsBlI8cWFPQy4zX31ChTjE&export=download&authuser=0&confirm=t&uuid=562166c8-6f31-49fd-a8b4-ab1122046c5f&at=ANTm3cxX3fs3ubOfPGfAhp85INfl%3A1768450047461
+https://www.googleapis.com/drive/v3/files/1tWrV_iOmC1fsBlI8cWFPQy4zX31ChTjE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-unseen-enemy-2025-lk21.jpg" group-title="2025",Unseen Enemy
-https://drive.usercontent.google.com/download?id=15lMFvTe8qjHyvgx68iwNF2Bq4u8S_kn9&export=download&authuser=0&confirm=t&uuid=0e7501e6-d375-4fde-993b-2b3d49d5c511&at=ANTm3czsaIjWOweeTid-SSkAc_QP%3A1768450264999
+https://www.googleapis.com/drive/v3/files/15lMFvTe8qjHyvgx68iwNF2Bq4u8S_kn9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-120-bahadur-2025-lk21.jpg" group-title="2025",120 Bahadur
-https://drive.usercontent.google.com/download?id=1zoEptIMGO39eoelO4NAnD5MzGz3931t3&export=download&authuser=0&confirm=t&uuid=e69412fe-9523-46fa-b157-974f365a426e&at=ANTm3cw_FpyCzLKiuu54RkGGPXBx%3A1768450358860
+https://www.googleapis.com/drive/v3/files/1zoEptIMGO39eoelO4NAnD5MzGz3931t3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 
@@ -30,5 +31,6 @@ https://storage.dewanonton.online/hls/2206052b-6003-4280-a818-0c39051001c8.mp4/i
 https://storage.dewanonton.online/hls/0151ed89-1f79-40a1-b925-ef117d606293.mp4/index.m3u8
 #EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhMTBlN2QtMWJmOS00OTliLWEwZTUtZjI3NWM2NjdmZjI3XkEyXkFqcGc@._V1_SX300.jpg",My Spy: The Eternal City (Peter Segal) (2024)
 https://storage.dewanonton.online/hls/829b79c8-b6c6-496d-9d58-2a695ea71756.mp4/index.m3u8
+
 
 
