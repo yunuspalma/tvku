@@ -682,6 +682,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SOCCER.png?raw=true" group-title="Sports",Soccer Channel
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45019.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/05/logo-motogp1.jpg?quality=60" group-title="Sports",Live Moto GP
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/skymotogp.png?raw=true" group-title="Sports",MotoGp
 https://raw.githubusercontent.com/B-inalm3u-Custom/Macam-Olahraga/B-inal22/MotoGP1.m3u8
 
@@ -2267,8 +2274,19 @@ http://159.69.45.173:9999/smt.php?id=mtvhd_twn
 http://159.69.45.173:9999/smt.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="nhkworld_japan" tvg-name="NHK World" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6071521dd57ca_NLaz.png" group-title="United Kingdom",NHK World
 http://159.69.45.173:9999/smt.php?id=nhkworld_japan
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.abr_throughput_algorithm=classic
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=0
+#KODIPROP:inputstream.adaptive.use_secure_decoder=true
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png" group-title="United Kingdom",Warner TV
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 http://159.69.45.173:9999/smt.php?id=WarnerTV
+
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a44bfe16_FwQ7.png" group-title="United Kingdom",Thrill
 http://159.69.45.173:9999/smt.php?id=Thrill
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6230103f0133e_OdSA.png" group-title="United Kingdom",HGTV
