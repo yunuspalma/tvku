@@ -1,6 +1,18 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/12/film-tunnel-2025-lk21.jpg" group-title="2025",Tunnel
+https://www.googleapis.com/drive/v3/files/18NdqcN4cDI38UX4rbN2-Hw1-RqfHz8tJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-harimau-merah-resolusi-2025-lk21.jpg" group-title="2025",Harimau Merah
+https://www.googleapis.com/drive/v3/files/1R8edmTuSO4OV1TKMKCtWpDTXG4ivhFRa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-red-plague-2025-lk21-1.jpg" group-title="2025",Red Plague
+https://www.googleapis.com/drive/v3/files/1KKjghO44elTkFXykXdJszkElqL1DAvkX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-relentless-2025-lk21.jpg" group-title="2025",Relentless
+https://www.googleapis.com/drive/v3/files/1-q2xzqXPX6Lbf6rekWC5moj_qhQjb1Oz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-siccin-8-2025-lk21.jpg" group-title="2025",Nonton Siccin 8
 https://www.googleapis.com/drive/v3/files/13qwXB12ZyY-L67PrnrtlAhLW3WO_4mgX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -34,6 +46,7 @@ https://www.googleapis.com/drive/v3/files/15lMFvTe8qjHyvgx68iwNF2Bq4u8S_kn9?alt=
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/01/film-120-bahadur-2025-lk21.jpg" group-title="2025",120 Bahadur
 https://www.googleapis.com/drive/v3/files/1zoEptIMGO39eoelO4NAnD5MzGz3931t3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 
 
