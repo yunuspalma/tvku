@@ -8,7 +8,7 @@ rtp://@239.1.1.252:9486
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/TVRI.png?raw=true" group-title="Local", TVRI
 rtp://@239.1.1.238:8016
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/RCTI.png" group-title="Local",Rcti
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/RCTI.png" group-title="Local", Rcti
 rtp://@239.1.2.45:8193
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/GTV.png" group-title="Local",Gtv
