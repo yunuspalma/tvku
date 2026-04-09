@@ -339,13 +339,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 http://iptvtree.net:8080/live/F28312/cc1dc138/165095.ts
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/movies.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/flik.jpg?raw=true" group-title="Movies",Flik
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/movies.png"
@@ -384,13 +377,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/movies.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/HITSMOVIE.png?raw=true" group-title="Movies",HIts Movies
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=42
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://fta4-cdn-flr.visionplus.id/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/movies.png"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
