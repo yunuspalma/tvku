@@ -4,12 +4,12 @@
 ######                      JANGAN DIREBRANDING                                     ######
 ##########################################################################################
 
-#EXTM3U billed-msg="Channel ini masa aktif telah habis.No Komplain, Terima Kasih.", url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="3600"
+#EXTM3U billed-msg="Channel ini masa aktif telah habis.No Komplain, Terima Kasih.", url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml" refresh="3600"
 
 
 
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="3600"
 
 
 
