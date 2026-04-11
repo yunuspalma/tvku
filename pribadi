@@ -80,6 +80,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/b642f32e396042f981d83fbb5f472272/index
 #https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w1627249822.m3u8
 
 
+
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/sctv.jpg?raw=true" group-title="Local",SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -221,7 +222,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/RTV.png?raw=true" group-title="Local",RTV
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg" group-title="Local",BTV
+https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local", TVOne
@@ -985,13 +993,18 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 #https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/music.png"
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTINF:0 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423538_tvchannels_v1.jpg" group-title="Music",Dance TV
+https://op-group1-swiftservesd-1.dens.tv/s/s21/S4/mnf.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/music.png"
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/81/blob/main/MTV90S.png?raw=true" group-title="Music",MTV 90s
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 
 
