@@ -137,12 +137,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CNNINDO.jpg?raw=true" group-title="Local",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/DAAI.png?raw=true" group-title="Local",DAAI TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-#https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
+
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -215,7 +210,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local", TVOne
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local",TVOne
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -224,7 +219,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/moji.jpg?raw=true" group-title="Local", MOJI
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/moji.jpg?raw=true" group-title="Local",MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> Movies
@@ -809,6 +804,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> Religi
 //========================================================================
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/religi.png"
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg" group-title="Religion",DAAI TV
+https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/religi.png"
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
