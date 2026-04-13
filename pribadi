@@ -61,8 +61,6 @@
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVRI.png?raw=true" group-title="Local",TVRI KalBar
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
-
-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -70,8 +68,16 @@ https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=16
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVRI.png?raw=true" group-title="Local",TVRI
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg" group-title="Local",TVRI
 https://fta1-cdn-flr.visionplus.id/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="Local",TVRI Sport
+https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/pontv.jpg" group-title="Local",PonTv
@@ -183,7 +189,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/JAKTV.png?raw=true" group-title="Local",JAKTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="Local",JAKTV
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mp
 
@@ -196,26 +202,26 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mp
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/METRO.png?raw=true" group-title="Local", METRO TV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" group-title="Local",METRO TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/MDTV.png?raw=true" group-title="Local",MDTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg" group-title="Local",MDTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET.
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/NUSANTARA.jpg?raw=true" group-title="Local",Nusantara Tv
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="Local",Nusantara Tv
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/RTV.png?raw=true" group-title="Local",RTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg" group-title="Local",RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
@@ -230,6 +236,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg" group-title="Local",BTV
 https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687939_tvchannels_v1.jpeg" group-title="Local",Berita Satu
+https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local", TVOne
@@ -493,11 +505,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/movies.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/KIX.png?raw=true" group-title="Movies",KIX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
-https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mediampd/KIXHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/KIX.png?raw=true" group-title="Movies",KIX
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/movies.png"
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/VISIONPRIME.png?raw=true" group-title="Movies",Vision Prime
@@ -622,7 +636,7 @@ https://atemeshield1-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/aljazera.png" group-title="News",Aljazeera
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1755135969_tvchannels_v1.jpg" group-title="News",Aljazeera
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/news.png"
@@ -846,7 +860,7 @@ http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/religi.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/rodja.jpg?raw=true" group-title="Religion",Rodja TV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg" group-title="Religion",Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
@@ -1214,7 +1228,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/knowledge.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CGTNNETWORK.png?raw=true" group-title="Knowledge",CGTN Documentary
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504951_tvchannels_v1.jpg" group-title="Knowledge",CGTN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
@@ -1244,25 +1258,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/indilogo/blob/main/bioskop.png?raw=true"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/qvpLC/NgY36zYQxW2LOeEvQ.jpeg" group-title="VOD TRIAL",Jurassic World Rebirth
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2f153371-fbcf-43f9-b4d1-2621049230e6
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2f153371-fbcf-43f9-b4d1-2621049230e6&sub=t2
 
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/indilogo/blob/main/bioskop.png?raw=true"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/yT9ao/UiMgQvxtPpzJSb__w.jpeg" group-title="VOD TRIAL",M3GAN 2.0
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2addc96b-2fb5-44d1-9521-a7922103980a
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2addc96b-2fb5-44d1-9521-a7922103980a&sub=t2
-
-#EXTINF:-1 group-logo="https://github.com/yunuspalma/indilogo/blob/main/bioskop.png?raw=true"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/nplXV/oQT0AxPjCG31mSOSQ.jpeg" group-title="VOD TRIAL",Wifelike
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ce79d007-6a30-4c82-8c09-cbee79db30b7
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ce79d007-6a30-4c82-8c09-cbee79db30b7&sub=t2
 
 
 
