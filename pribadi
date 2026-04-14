@@ -77,7 +77,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/RCTI.png?raw=true" group-title="Local",RCTI
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0f2I5boA9LShVN7cMKGpHG7T9gQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg" group-title="Local",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
@@ -85,7 +85,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/MNCTV.png?raw=true" group-title="Local",MNCTV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" group-title="Local",MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
@@ -93,7 +93,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/GTV.png?raw=true" group-title="Local",GTV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LDg7wQmlx1J5_2AkdOGtXtMEJmk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="Local",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -111,7 +111,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TRANSTV.png?raw=true" group-title="Local",Trans TV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XSpSRDs94R38OpBmssaBVngAr2Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="Local",Trans TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
@@ -128,7 +128,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/indosiar.jpg?raw=true" group-title="Local",Indosiar
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Local",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
@@ -164,11 +164,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mp
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/KOMPAS.png?raw=true" group-title="Local",KOMPAS TV 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="Local",KOMPAS TV 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" group-title="Local",METRO TV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="Local",METRO TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
@@ -210,7 +210,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVONE.png?raw=true" group-title="Local",TVOne
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="Local",TVOne
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -219,7 +219,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/local.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/moji.jpg?raw=true" group-title="Local",MOJI
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="Local",MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> Movies
@@ -381,7 +381,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesH
 #KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVN.png?raw=true" group-title="Movies",tvN
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="Movies",tvN
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
@@ -417,7 +417,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ROCKACT.png?raw=true" group-title="Movies",Rock Action
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" group-title="Movies",Rock Action
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
@@ -628,7 +628,7 @@ https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/o
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/news.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/INEWS.png?raw=true" group-title="News",INews
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="News",INews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
@@ -665,7 +665,7 @@ https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/sport.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/B1.png?raw=true" group-title="Sports",beIN Sports 1 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dBMf_WAWW0JVeB5hVsaXQbYSxv4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg" group-title="Sports",beIN Sports 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -674,7 +674,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/sport.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/B2.png?raw=true" group-title="Sports",beIN Sports 2 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ISNhueISzA_MA5mdtCYkQxVYE3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg" group-title="Sports",beIN Sports 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -683,7 +683,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/sport.png"
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/B3.png?raw=true" group-title="Sports",beIN Sports 3
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/57EvfUwIGo03MdOsFiN6ff6Jczw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg" group-title="Sports",beIN Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -710,7 +710,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SPOTV.png?raw=true" group-title="Sports",SPOTV 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1cUTXlCSzstGfFXuRkOqCajuaV8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg" group-title="Sports",SPOTV 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/sport.png"
@@ -718,7 +718,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/SPOTV2.png?raw=true" group-title="Sports",SPOTV2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" group-title="Sports",SPOTV2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
@@ -1018,7 +1018,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s21/S4/mnf.m3u8
 //========================================================================
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/kids.png"
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/mentaritvindi.png" group-title="kids",Mentari
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/NtYMeVNZhPNyxZukYP38ohlF988=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg" group-title="kids",Mentari
 https://spmid.net:443/play/MyEoo-x6p53nRakGbj5NBh5dWTd_lq48vH8_gJXkwQ4
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/kids.png"
@@ -1151,7 +1151,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/NHKJAPAN.png?raw=true" group-title="Entertainment",NHK World Japan
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dqu2d5vovPKc448pBIc6ihswPTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg" group-title="Entertainment",NHK World Japan
 #https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
 #https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/NHKWorldJapan.m3u8
 
@@ -1159,7 +1159,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/arirang.jpg?raw=true" group-title="Entertainment",Arirang
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="Entertainment",Arirang
 https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
