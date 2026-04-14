@@ -249,14 +249,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-#EXTINF:-1 tvg-logo="https://github.com/yunuspalma/ott/blob/main/hitsnow.png?raw=true" group-title="Film",Hits Now
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/hitsnow.png" group-title="Film",Hits Now
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/kplus.jpg?raw=true" group-title="Film",Kplus
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/k-plus.png" group-title="Film",Kplus
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 
@@ -264,7 +264,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/AXN.png?raw=true" group-title="Film",AXN
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/axn.jpeg" group-title="Film",AXN
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
@@ -307,7 +307,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
-#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f124427a-931e-47d1-ab50-1b29a7a3e406.jpg" group-title="Film",Celestial Movies
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/celestial-movies-sd.jpeg" group-title="Film",Celestial Movies
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 
@@ -363,13 +363,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/HITS.png?raw=true" group-title="Film",Hits
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/hits.jpeg" group-title="Film",Hits
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/HITSMOVIE.png?raw=true" group-title="Film",HIts Movies
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/hitsmovie2.jpeg" group-title="Film",HIts Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
@@ -381,7 +381,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesH
 #KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="Film",tvN
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/tvn.jpg" group-title="Film",tvN
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
@@ -392,7 +392,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/1371ddca-87d4-4f9e-8cf7-c6e8ca9a444b.png" group-title="Film",TVN Movies
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/tvn-movies.png" group-title="Film",TVN Movies
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
@@ -454,7 +454,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/1b5b6dab-c6e7-4109-8813-273c05910c53.jpg" group-title="Film",One
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/onehd.jpeg" group-title="Film",One
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
@@ -469,7 +469,7 @@ http://103.66.62.83:8000/play/a03z/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CCM.png?raw=true" group-title="Film",CCM 
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/ccm.jpeg" group-title="Film",CCM 
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
 
@@ -598,7 +598,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/LIFETIME.png?raw=true" group-title="News",Lifetime
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/lifetime.png" group-title="News",Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
@@ -624,7 +624,7 @@ https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/o
 #KODIPROP:inputstream.adaptive.license_key=e0d67e9e2641468d9daf3182c25bd40c:84663ccbdeba441f88c63d8573269fa1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/blomberg.jpg?raw=true" group-title="News",Bloomberg TV Asia
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/bloomberg.jpeg.webp" group-title="News",Bloomberg TV Asia
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
 
 
@@ -833,12 +833,13 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 #https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/ALJAZERA.png?raw=true" group-title="Religi",Al Jazeera
-#https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mpd/AlJazeeraIntHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
+
+
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1135,7 +1136,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/ind
 //========================================================================
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/afn.jpg" group-title="Hiburan",AFN
+#EXTINF:0 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/06/afn.png" group-title="Hiburan",AFN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1171,7 +1172,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/CRIME.png?raw=true" group-title="Hiburan",Crime Investigation
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/crime-investigation.jpg" group-title="Hiburan",Crime Investigation
 https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/CrimeInvestigationHD.mpd
 
 
@@ -1197,7 +1198,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/HISTORY.png?raw=true" group-title="Hiburan",HISTORY
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/history.png" group-title="Hiburan",HISTORY
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
 
