@@ -93,7 +93,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LDg7wQmlx1J5_2AkdOGtXtMEJmk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="Lokal",GTV
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" group-title="Lokal",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -594,11 +594,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/idx.jpg?raw=true" group-title="News",IDX Channel
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/idx.jpg?raw=true" group-title="Berita",IDX Channel
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/lifetime.png" group-title="News",Lifetime
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/lifetime.png" group-title="Berita",Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
@@ -608,11 +608,11 @@ https://atemeshield1-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1755135969_tvchannels_v1.jpg" group-title="News",Aljazeera
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1755135969_tvchannels_v1.jpg" group-title="Berita",Aljazeera
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/curiosity.jpg?raw=true" group-title="News",Curiosity Channel 
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/curiosity.jpg?raw=true" group-title="Berita",Curiosity Channel 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -624,11 +624,11 @@ https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/o
 #KODIPROP:inputstream.adaptive.license_key=e0d67e9e2641468d9daf3182c25bd40c:84663ccbdeba441f88c63d8573269fa1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/bloomberg.jpeg.webp" group-title="News",Bloomberg TV Asia
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/bloomberg.jpeg.webp" group-title="Berita",Bloomberg TV Asia
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="News",INews
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="Berita",INews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
@@ -638,7 +638,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/INEWS.png?raw=true" group-title="News",INews
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/INEWS.png?raw=true" group-title="Berita",INews
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 
@@ -995,7 +995,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 #https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 #EXTINF:0 tvg-logo="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" group-title="Musik",MIC Indo
 https://mic.siar.us/mic/live/mic_720p.m3u8
 
