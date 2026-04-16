@@ -1219,7 +1219,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/Cri
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/243/437243-SNAPSHOT-l.png" group-title="Hiburan",Hanacaraka TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWXuUgLoQV_SanhK7W3rgZnUJfS-RdMtl8g&s" group-title="Hiburan",Hanacaraka TV
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 
