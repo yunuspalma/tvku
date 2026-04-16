@@ -29,7 +29,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/TVRI.png?raw=true" group-title="Lokal",TVRI KalBar
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg group-title="Lokal",TVRI KalBar
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
 
@@ -864,7 +864,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 //========================================================================
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/DUNIASINEMA.jpg" group-title="Malaysia",Dunia Sinema
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310" group-title="Malaysia",Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -876,17 +876,17 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/tv1.jpg" group-title="Malaysia",TV1
+#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/a/af/TV1_%28Malaysia%2C_2017%2C_2%29.png/534px-TV1_%28Malaysia%2C_2017%2C_2%29.png" group-title="Malaysia",TV1
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV2.jpg" group-title="Malaysia",TV2
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_1029_IVP_LAND_917x516.jpg" group-title="Malaysia",TV2
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV3.jpg" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFtw16EJOmvbbQRDqkQ2beb3LIUbQMfBjOGxXVcxy6LCUIVIB-kAWGYQ20nxoVshhZFxRhfIbhr9K4dsBE3QaKSbApEYBEm5eaeT4xze-S_-7Wj8kjiPwA2GgGvWN-OVJYo_8reGQG0mHiGnvmNxLiJyZY98bzpyPaUkmDQGcMwhGb2LMSv01Qtis_cKE/w320-h200/tv3my.jpg" group-title="Malaysia",TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 
@@ -971,6 +971,14 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 //Collected by @Yunus Palma menampilkan playlist >>> Musik
 //========================================================================
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGNvDieCAmknLUfCspLBqUWzAlF-UE3L32DsgIkhVWMPxNAKBoSiMX5K4BfoopMqO4JdfpA3eYoIKl-J1dL8RUSamiTRYVPmdC9x_JZQubP5Oe2m1I8mVrupp0d-_vs7pzc4wiEJ1QxLBUE-oYQS707EI8J7CfKEns7eQI51guOAZOcR9EqLM9i7wPeZ4/s700/20251207_001445.jpg" group-title="Musik",Kpop Play
+https://live.24hrkpop.com/hls/3/stream.m3u8
+
+#EXTINF:-1   tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDau0c1rzt6Cibo8JhcKpjPLFnYsn2n8y0Av0J1jSmVv15V6yQZOf0UcnzsYHyOaG8KLeaho0a-gYdIR6UWtEAApYX4R9MNpe6gk33T6KBpBZFb2PjLWn-NfOFqAqKTDrjqB9j1thusFLSr_YheajEDHPJRt9y1q0M-dSVqO3GMsPmoIaWIwuaV4uA3Q/s700/20251207_001416.jpg" group-title="Musik",Play Music 
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+
+#EXTINF:-1 group-title="Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzeVlMxH27YZItvBD98dwfC7qhE6RHj-Qpr_BpuwAAiGfcwhIqlFCnTpin3bWNn_ZoqmtQO7ghJ8z0a1RUhj82uGMa5Ib5-UulLhyv1h91HzPbU7QFDrEkrHuZZI3upkSeaOowfPBPG7aXgoNnZcSaG1e7_3uv0DwNS1Gb8Ae4_NOq0aqG4b953EhXe9S9/s700/MIC%20TV.png", Mic TV
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
 #EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/nowrock.png?raw=true" group-title="Musik",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -1228,8 +1236,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 #KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mpd/CGTN.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyGa59QzxXZV-2KoHHPqB7PJitYDC54dshAS8CdgManEgm0jikLf3Y2LdIztSZ4eHodqSahYx29N08xLC1mv1hB5KETubqZyzjjYH-KHCZp0edLjg7d5oZvVJN8cqc3Ct6mVnvf52Xkbzd-pp7fRxDy4KmN2D82lgr6XtCSmV4I5rWIJMUQrLGCEl_2K3G/s700/NATIONAL%20GEOGRAPHIC.png" group-title="Pengetahuan",National Geographic
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/animalplanet.jpg?raw=true" group-title="Pengetahuan",Animal Planet
+#EXTINF:-1 group-title="Pengetahuan" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBonGjUCzL-ZOHd-HPGhw4mL9kMMVZfkbMLt3sP41Sa5fTp_hWRiUXg0qm9kJU3HG9QQiTPPAyFCrU23DQEhvjns4YczJMVQ8dHKCE2CLlulSpdQe11KnE2nSwdodznJw40E44N2RQmqIRHAS_lrAGgxVgTki7z4M2EpR1DWvLdOYQ4-IlwC24JASKYd0/s700/NAT%20GEO%20WILD.png",Nat Geo Wild
+http://84.17.50.102/natgeowild/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaKDrUV-rE7KkBo7zVPpO4felyJwl-06uCXfisVJ_vAqV5MJeOjDR2R3Jqt2MGDApB-eZZP9xpizZ4m9QykeIz8OcJp6Kl_k5o1Fhtv-2PUhWJ0WGYW5FKn-hP5IgEnCNaOUw8v7iSu3Pvq7EuMoG3K93fn7tMQBlZvfm9nloiM6R2TASwBDnjx-eAkOXd/s700/ANIMAL%20PLANET.png" group-title="Pengetahuan",Animal Planet
 http://202.169.224.202:8800/udp/239.9.1.7:1234
 
 
@@ -1243,7 +1257,7 @@ http://202.169.224.202:8800/udp/239.9.1.3:1234
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/LOVENATURE.png?raw=true" group-title="Pengetahuan",Love Nature
+#EXTINF:-1 tvg-logo="https://images-cdn3.welcomesoftware.com/assets/love+nature.jpg/Zz0xOWEyODJkMGExZjQxMWVmODhlMzVlNDNmOWQ0ZDAzMg==?width=800&height=448" group-title="Pengetahuan",Love Nature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1257,12 +1271,17 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWrx4PVxZuM2bUu4mbPIU2jdcW9Ldq8A_033GCiynWKxgR9liCwFN8-v8d_458T9-D9gPM-WbjKZdkpRXiWg9fkv8JAcuO0wCRP2NCZlYevDBqhAUwhP6RmOaiZExNxFgNtv1X3rHSggSni6Rv3hppFE-4LYhiRuTU_pyI2_0lfgSEbklkW-NbHYALHjcp/s700/ALLPLAY%20ENT.png" group-title="Indihome TV",AllPlay Ent
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK0a80bu433_Ww4u1zeoQDm2PZYn69uoeKrZO2GxaGyO7zxwYLlwbrEnaZrsMRALjLkZBgkBypsHfBeCp_w4edNX8J0zRB_Pit3lCMAwcXad78G8fZte1UDSuIc2ARj-N765MEgiOx6cZoS0E1t63xfNFragaUbkoGY-z_erenO9otffSaThJKnarUTHk/s700/MaxReels.png" group-title="Indihome TV",Max Reels
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1fKaOepEpqR_E-56pimzEjBj8vH0Xfa7MDkIphFS9XIxRLDCPAjPX3q87Foy_jPAmFIEl7cze-LmLPivh8Q8oyvp1Bte2c5hOEwUzvQl9LeYS_i7eW5eUeA2ANJdUx918Obpj4bX38gGy-h3VE6J4RIvPNEfoPl_ua0FnVXeFrsUJu9xw2ujMtX4Hokp/s700/MAXSTREAM.jpeg" group-title="Indihome TV",Maxstream
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="--" group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png",SCTV
@@ -1293,6 +1312,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-id="--" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhKnblUwnmtlvIr8-cLV1uBtuHEw5cUKB_Guw67OwKD8bIm6efIXyBsgwWZ-nw77c5qMVMcJtWT4Jv9CC_4HFWY7Cof-Lup9E_tOUbf3EGdNGzfF1-T4cz_EUjC5TI16GbzUvG2PkZFwhfXQEL3-kXmOyRGUiGNX9SOsTo2I1dM8RHr025abYkhbF2Mqhq/s700/JTV.png" group-title="Indihome TV",JTV 
 https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK0a80bu433_Ww4u1zeoQDm2PZYn69uoeKrZO2GxaGyO7zxwYLlwbrEnaZrsMRALjLkZBgkBypsHfBeCp_w4edNX8J0zRB_Pit3lCMAwcXad78G8fZte1UDSuIc2ARj-N765MEgiOx6cZoS0E1t63xfNFragaUbkoGY-z_erenO9otffSaThJKnarUTHk/s700/MaxReels.png" group-title="Indihome TV",Max Reels
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrRhC4mViYyqJ8L0Qn66qoKegVeXN48AS94bgGzsbXUBx_5SKYY2uO9QH46ml1blZm-rUYEmJ8Da7PxeLAQ5Rmfv98WK9YK3De0acFF3GgZYvzdHH6r8FhIW6rcIDXf5yM15jZLwHW27V51K5eZtAN35wh2_X4lTOTUFE4JMP2XWOZI1u8RH_BZ-MpZzY/s700/MaxKids.jpg",Max Kids
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
