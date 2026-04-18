@@ -203,8 +203,7 @@ rtp://239.1.3.213:1234
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNN.png?raw=true" group-title="HD", CNN International
 rtp://@239.1.1.246:9438
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNBCINDO.png?raw=true" group-title="HD",CNBC Indonesia
-rtp://@239.1.2.94:9448
+
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNA.png?raw=true" group-title="HD",Channel News Asia
 rtp://@239.1.2.23:8112
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ALJAZEERA.png?raw=true" group-title="HD",Al Jazeera
@@ -456,35 +455,37 @@ rtp://@239.1.2.201:9174
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/intv/blob/main/INEWS.png?raw=true" group-title="News",INews
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/intv/blob/main/INEWS.png?raw=true" group-title="Berita",INews
 rtp://@239.1.1.75:8624
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/intv/blob/main/SEATODAY.png?raw=true" group-title="News",Sea Today
+#EXTINF:-1 tvg-logo="https://github.com/Khorizil/intv/blob/main/SEATODAY.png?raw=true" group-title="Berita",Sea Today
 rtp://@239.1.2.70:8396
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/SINDONEWSTV.png?raw=true" group-title="News",Sindo News TV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/SINDONEWSTV.png?raw=true" group-title="Berita",Sindo News TV
 rtp://@239.1.3.164:1234
 rtp://@239.1.1.50:8274
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/EURONEWS.png?raw=true" group-title="News",Euronews
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/EURONEWS.png?raw=true" group-title="Berita",Euronews
 rtp://@239.1.1.193:9132
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNNINDO.png?raw=true" group-title="News", CNN Indonesia
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNNINDO.png?raw=true" group-title="Berita", CNN Indonesia
 rtp://@239.1.1.241:9362
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNN.png?raw=true" group-title="News", CNN International
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNBCINDO.png?raw=true" group-title="HD",CNBC Indonesia
+rtp://@239.1.2.94:9448
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNN.png?raw=true" group-title="Berita", CNN International
 rtp://@239.1.1.105:8604
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/BLOOMBERG.png?raw=true" group-title="News",Bloomberg
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/BLOOMBERG.png?raw=true" group-title="Berita",Bloomberg
 rtp://@239.1.1.199:9168
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNBCASIA.png?raw=true" group-title="News",CNBC asia
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNBCASIA.png?raw=true" group-title="Berita",CNBC asia
 rtp://@239.1.1.155:8904
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNA.png?raw=true" group-title="News",Channel News Asia
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/CNA.png?raw=true" group-title="Berita",Channel News Asia
 rtp://@239.1.2.23:8112
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ALJAZEERA.png?raw=true" group-title="News",Al Jazeera
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ALJAZEERA.png?raw=true" group-title="Berita",Al Jazeera
 rtp://@239.1.1.195:9144
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/FRANCE24.png?raw=true" group-title="News",France 24
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/FRANCE24.png?raw=true" group-title="Berita",France 24
 rtp://@239.1.1.191:9120
 
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/DWTV.png?raw=true" group-title="News",DWTV
+#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/DWTV.png?raw=true" group-title="Berita",DWTV
 rtp://@239.1.2.243:9360
-#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_idx_big.png" group-title="News",IDX Channel
+#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_idx_big.png" group-title="Berita",IDX Channel
 rtp://@239.1.2.248:9398
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/lejelhome.png" group-title="News",Lejel Home Shopping
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/lejelhome.png" group-title="Berita",Lejel Home Shopping
 rtp://@239.1.2.3:7992
 
 
@@ -525,7 +526,7 @@ rtp://@239.1.1.24:9517
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MTVLIVE.png?raw=true" group-title="Music",MTV Live HD
 #rtp://@239.1.1.254:8019
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MTVLIVE.png?raw=true" group-title="Music",MTV Live
-rtp://@239.1.2.16:8070
+#rtp://@239.1.2.16:8070
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MUSIKINDONESIA.png?raw=true" group-title="Music", Musik Indonesia
 rtp://@239.1.1.152:8626
