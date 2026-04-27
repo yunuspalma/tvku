@@ -600,11 +600,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/idx-channel-id.png" group-title="Berita",IDX Channel
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_rfc1zphz/landscape_carousel_hdpi.webp" group-title="Berita",IDX Channel
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2025/01/486-s-300x169.webp" group-title="Berita",Lifetime
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_b65cebi2/landscape_carousel_hdpi.webp" group-title="Berita",Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
@@ -614,7 +614,7 @@ https://atemeshield1-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1755135969_tvchannels_v1.jpg" group-title="Berita",Aljazeera
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ss6ehuur/landscape_carousel_hdpi.webp" group-title="Berita",Aljazeera
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
 
 
@@ -630,7 +630,7 @@ https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/o
 #KODIPROP:inputstream.adaptive.license_key=e0d67e9e2641468d9daf3182c25bd40c:84663ccbdeba441f88c63d8573269fa1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2025/12/640-s-300x169.webp" group-title="Berita",Bloomberg TV Asia
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ayq5nxva/landscape_carousel_hdpi.webp" group-title="Berita",Bloomberg TV Asia
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
 
 
@@ -841,7 +841,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg" group-title="Religi",DAAI TV
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_wfgm77pv/landscape_carousel_hdpi.webp" group-title="Religi",DAAI TV
 https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 
 
@@ -1189,7 +1189,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2026/04/arirang-live-stream-hd-300x169.webp" group-title="Hiburan",Arirang
+#EXTINF:-1 tvg-logo="hhttps://images.maxstream.tv/sites/default/files/entry/0_wd3w16vp/landscape_carousel_hdpi.webp" group-title="Hiburan",Arirang
 https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
@@ -1297,38 +1297,39 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1fKaOepEpqR_E-56pimzEjBj8vH0Xfa7MDkIphFS9XIxRLDCPAjPX3q87Foy_jPAmFIEl7cze-LmLPivh8Q8oyvp1Bte2c5hOEwUzvQl9LeYS_i7eW5eUeA2ANJdUx918Obpj4bX38gGy-h3VE6J4RIvPNEfoPl_ua0FnVXeFrsUJu9xw2ujMtX4Hokp/s700/MAXSTREAM.jpeg" group-title="Indihome TV",Maxstream
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ixad1kw8/landscape_carousel_hdpi.webp" group-title="Indihome TV",Maxstream
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="--" group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png",SCTV
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_xgmdprq0/landscape_carousel_hdpi.webp" group-title="Indihome TV",SCTV
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOswYxSurFYD6yBWgqPA2FszUp8JYFH0VTxzEFzB4OF_mhSZgZpi6IpMZ_BsQvkrlWcVUskAyP-oMBdiqjFhmLnPVOrGfAb32-nwI0fmudX4Wnr3vgfpjtvif1OlJaSnLEvr_5E8F9nORtUPcn7L4tcnBuNQh6LxGxGbdRM-oyJL_K49UT7HLolzRAVC4/s700/RCTI.png" group-title="Indihome TV",RCTI
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_nwsd3m5r/landscape_carousel_hdpi.webp" group-title="Indihome TV",RCTI
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png" group-title="Indihome TV",MNCTV
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3k1552mp/landscape_carousel_hdpi.webp" group-title="Indihome TV",MNCTV
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG423TfMUEmFr8MTpAxkjq6o6z-swkvVB5wXpTMEQUoZ5OMCrK6hVk4bxISqvgSY2JtbTl4_HZSIKgkbW3xrd2ju991KAoZuMxBYvW6WqO33w2Bnn7IzH6hC9peNW2PXHvipFVM53hxU7aTnzbGitFiR8XOTk1Xa24NOciExoFNPmogs-Y1TqCcUlZ9QU/s750/GTV.png" group-title="Indihome TV",GTV
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_p7vlqu2a/landscape_carousel_hdpi.webp" group-title="Indihome TV",GTV
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVapQVSVsIweoWpfpUcwU1od2hb8PtzQa0kV24Rpg_6wV45523L3QSaeXmAgDKlLSaVv15BnXvjP9nj6OggMpQpnPUnOTqsDE28BopevlSXrFY-v4R2l1hElLZNidZbdGnTlV_WfMkVIxIvyStXztCDROscV6WYj3ugO1q9pREWJp1ekgnnLItS102EyMH/s700/RTV.png" group-title="Indihome TV",RTV
+#EXTINF:-1 tvg-id="10" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_hii9fpgx/landscape_carousel_hdpi.webp" group-title="Indihome TV",RTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06UwMiLyI74sEEDwf0-rwndLGrLvQi7tp1QHv82q1wkKhIARAAOwOkKOmvQgBdjKnA4wd8Sl2QEPkY4VJA2MlneSwgdaa1tEVPQtOBhkT-kssOTkcJFcEgRTpq3i8QhyphenhyphenKuzPey326K70RzIjhHBc3O3OAeMqHavxuSq6LwqEgsC4SJWy7L-MINH38Vbt4/s700/MENTARI%20TV.png",Mentari TV
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_0hjh536t/landscape_carousel_hdpi.webp" group-title="Indihome TV",Mentari TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d96a81a887fd46f1b18e1fd48c2eeb81:fb8947a8804c874cc0f0b71bdb609ca0
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqu3uVWEYZpgNsRFjsIns7W4IJoco3hqCoJR6PhJXA4wBlKPukSG4a1qPJblt0aELWfuvhwGZWcIZMhxltraI4C2onG9vRiJWwW4i8a04apMc-MfpIQ4ptrOhcAQkXyVPKHeylwbVZAKuS3JxtoJugGvp7Fpr8yL-goijBHOUpPA2BXnztqR4kg961UI9o/s700/INEWS.png" group-title="Indihome TV",iNews
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_fn0qos3d/landscape_carousel_hdpi.webp" group-title="Indihome TV",iNews
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhKnblUwnmtlvIr8-cLV1uBtuHEw5cUKB_Guw67OwKD8bIm6efIXyBsgwWZ-nw77c5qMVMcJtWT4Jv9CC_4HFWY7Cof-Lup9E_tOUbf3EGdNGzfF1-T4cz_EUjC5TI16GbzUvG2PkZFwhfXQEL3-kXmOyRGUiGNX9SOsTo2I1dM8RHr025abYkhbF2Mqhq/s700/JTV.png" group-title="Indihome TV",JTV 
+#EXTINF:-1 tvg-id="--" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_qesewoxv/landscape_carousel_hdpi.webp" group-title="Indihome TV",JTV 
 https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1347,15 +1348,15 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_hdpi.webp" group-title="Indihome TV",Max Streak
 https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 
-#EXTINF:-1 group-title="Indihome TV"  tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_hdpi.webp",Max Sports
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_hdpi.webp" group-title="Indihome TV",",Max Sports
 https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXrwEUvG3G4NpQ1XCJdZcZTAciP6pkk1yq2GAs5mdf17RLyrV2jAywp1C1Aotj74KFy-2AU5jpqOmJ0ibzM_Y8sqKKdqK_ZRpFWJGaUWXL0iPI_gKZYJjX9eN0peqqxkHzg_dTQ5bdbUm7Q3rpIWPLpxX-5dWnmBl9QmUAZOwsQIrfPLSh1MkyZl9kzNC/s700/HITS%20MOVIES.png",HITS Movies
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_zrs82szk/landscape_carousel_hdpi.webp" group-title="Indihome TV",",HITS Movies
 https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZKAOeO_VOcxCoGjszU72zWNvWkGzUbFziKUL4erGhNjmvmXlgoLjdZZqfuKufckduNqlQ3ETiXHY9oPGu5AdAFcd4fXyqxY7Vre2ww7heR1yFD02Mo8GqvQaD30dQ_atNrUrdYAHfqkKvjwLmx4doV117ty1idq_NhJF4ssi7J1ajnIVIQrceEWElyrei/s700/JAWA%20POS%20TV.png" group-title="Indihome TV",Jawapost TV
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_lrp6fabo/landscape_carousel_hdpi.webp" group-title="Indihome TV",Jawapost TV
 https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1372,7 +1373,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_k6etp5l6/landscape_carousel_hdpi.webp" group-title="Indihome TV",Zee Bioskop
 https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL-HL8z9zbvdX3i_39v0K9qKvDPVZs6Lq63rV6bVZb5GrCwwcpf3MNxSljGlzWRFkwteC4nFmL4grYi2rghYhsOs756SOtP76U9WrX1y12kR_LB0GA6AZprwuuDw9TLPdYLI7ZbUtnkxe3nWnv0yC7FHwUv_ZNMdTKj7F2Q1LBmPlRxbmGeXvkXUYpzKM5/s700/THRILL.png" group-title="Indihome TV",Thrill
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_wiy2wbmv/landscape_carousel_hdpi.webp" group-title="Indihome TV",Thrill
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #EXTINF:-1 tvg-id="6" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qCnQZ6qCThZlWHZS_G01oE3uCL4APKVA4Ch0Z2hItWvGtmZe0WM2PyIjOM1MZ-QVPXpjwWdvyMue-Ez3A3Nu9JllRnDlrur7RvV-IHpRJNwGN-KUAibOnaBLSolqdCA6cEBdpcYBnuAWIoQvX2H43uUYMLUD5pyZMrRKl_e75w6A6YtFOM_D0-OpPG0R/s700/WARNER%20TV.png" group-title="Indihome TV",Warner TV
@@ -1380,62 +1381,62 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoBKZaHdMqWB22-WfzdExEB4a4XBsp5jzQcO2eXqERhN9dYFYURgfyFWEEgNSeRiBgBfQQPLjRSfuJ1XbEPzljmiGRj8kEZ2QzqSrYav37pxgJyEj5BxTQamEUFX4Sql6kdPtyxcM7B-wMBBoW9opegy_doRpXkPcuIPfhZtn5tEDQrMkWznr9kCKcMBSM/s700/ROCK%20ACTION.png" group-title="Indihome TV",Rock Action
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1gshn4os/landscape_carousel_hdpi.webp" group-title="Indihome TV",Rock Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihsKHdqD3a0NaPimwL5lf-IP28vy8ZFsXQXVhCSLMeydln2BUl1NA7pOaVQnGRhdkPXHEcV2kW0dhTQudxVqrDAoepRrVdNf0oXuEh-FC1fLv2yUCrGMsxeuCibvEtZnrxko0-I6zoZyGiZlzhfvHuX9s2bxwS4E6o9fJIfgvsq0741NkgYkhflBAgzOWY/s700/ROCK%20ENTERTAINMENT.png" group-title="Indihome TV",Rock Entertainment
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_a98kaoda/landscape_carousel_hdpi.webp" group-title="Indihome TV",Rock Entertainment
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXRBB66jZrLRK8j2w2X6JNYjdhHwrHa3afN-f__RCIDKA62s4rrOhyPo0_W7-waa3Ykw6a2BnAMsn04v7LBnMu8uYrRxuAHwMfKNud0FasDLnJ6iKS_zyAZSsQeq-v_oXIdZtFwQIEp2L92zb6MdVXTzCpzxt7O9XtSuEUhF8AOYqn5WpY6yogbGdql0Z/s700/ARIRANG.png",Arirang
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_wd3w16vp/landscape_carousel_hdpi.webp" group-title="Indihome TV",Arirang
 https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPGEqVF3rZXTGTZRZ-lb33AjtvfXMWTxL6kh5VeqQNz9bccId3__qi2tOw0lZ6VVkn8cO9SmrvfVVzKOIhq2qFQ8dMiQUgTjnd4kY7IJOfN2mqKj-5Q5yXTFU7Fo4qHCIJJm2weaofeQiBI1O-LhvsPKSBuK4_8sJZrhlri6L-jApSjsHtD-Fm3nj3T7Po/s700/K-PLUS.png" group-title="Indihome TV",K-Plus
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_8ijijzlz/landscape_carousel_hdpi.webp" group-title="Indihome TV",K-Plus
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMBOocFuESu6S13QMoV2ARjAbZ-PClEag3vSRqmgnn0Ouuz4lYg2O_JmGDdMdTPTY0dDOrcgchL_s8NMRZBVe50ha6Yd06F9NhXlArpu5-JvIcgKrTycMFad5hDea5Fy2XPYrCCkKzEWvavq2pJ-OYFyMpP8H4aWZqI3pBnVicZfICaIgH9w0SkAxYJ-Ju/s700/CGTN%20DOCUMENTARY.png",CGTN Documentary
+#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ypi11pce/landscape_carousel_hdpi.webp",CGTN Documentary
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2cDp5r0DOMsOvutBF3_ni_jGKooDEcctbkxdZSGD3dhFIQECtwXwUtlCUxYjSu3I586ZLCfR3bJ4LOAse1yVuUqXT_jzjBAr30Uvwja6Lbf-zVXv86cfoYn8nziMbqIZZbs4aH1dDMnCsxuCD1e09aZi5UQ5U6u-xnSP2Ey05GLbJIVreE1g44WUdCIR/s700/KIX.png" group-title="Indihome TV",Kix
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_jqlzd1wf/landscape_carousel_hdpi.webp" group-title="Indihome TV",Kix
 https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_mTOfH6I9E4LtinZiQ25AYRrHsIwosUD4FQO0tG2AnOZQkPBsoJyBzspwZHolRXiVbP5ILd2TVQk0TT5SzCBWEQmX5aMs0gt0wtDbp_vwrkWiTO6IcwYNNt39OLpUwRKYzP6N31fO61T0klkTcY-1N_CbquPn1_EbcLrIz8G2YafOIUcfmS7C1GsUCiuz/s700/NHK%20WORLD%20JAPAN.png" group-title="Indihome TV",NHK World Japan
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_mgr46jjf/landscape_carousel_hdpi.webp" group-title="Indihome TV",NHK World Japan
 https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaKDrUV-rE7KkBo7zVPpO4felyJwl-06uCXfisVJ_vAqV5MJeOjDR2R3Jqt2MGDApB-eZZP9xpizZ4m9QykeIz8OcJp6Kl_k5o1Fhtv-2PUhWJ0WGYW5FKn-hP5IgEnCNaOUw8v7iSu3Pvq7EuMoG3K93fn7tMQBlZvfm9nloiM6R2TASwBDnjx-eAkOXd/s700/ANIMAL%20PLANET.png" group-title="Indihome TV",Animal Planet
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_oyquzepi/landscape_carousel_hdpi.webp" group-title="Indihome TV",Animal Planet
 #https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI6L_cbGTTZwb3DVTIcCJRHGDp70zflqThSpDpRbAt9IHD99JP59Q0xOr2X-4X0hUUzJivjvT5XW8uSlb8ZDUpHJI-BCCLVZtwpu01JKAoHbG9A3pRSM60bETCqD9IZJOEKGOlZgSdWp5HcesKu0zjZgiQX5MUQ-VmvhfjlU8L4WYpsX_2gbCAGS1kYMyz/s700/DISCOVERY%20CHANNEL.png",Discovery Channel
+#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_efpv3846/landscape_carousel_hdpi.webp",Discovery Channel
 https://cdn10jtedge.indihometv.com/atm/DASH/disco/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyA_Oy7v8xjdoZUQXo2uPWyY0M-tLI_N4U_sEKoCgqXw3G93kG1EUYl5Y68xtvHIXqbgMQ1K7Td5Cz-D4kZGbcEE1KrJHwo-UmWwkRPgreY8guhSzhbThdALIP-q0Usqj5R4dk37NmpmMnKz_zYNBorQ-2jCudOTlIum7_uGJ3v1yVDqZq428mt_d7gN5N/s700/DISCOVERY%20ASIA.png" group-title="Indihome TV",Discovery Asia
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_nhmzmt8u/landscape_carousel_hdpi.webp" group-title="Indihome TV",Discovery Asia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHHEwcUcCBzA7uXvhQ4jKDhcveysu725Dn0b1jESaw-sGKvLWlh3udspdNqdClD8blzW-rEOtB3hmbSll9d_DzDMPJkMTgiR_H2BwGLIQf8h2uVFkSEFXRZMSWUBfG3rRG0DM-v2d2mOG6gPaBsqXZWDXKO0niiah4osR9Mx6rfVZyi27IKK0xACnufadS/s700/FIGHT%20SPORTS.png",Fight Sports
+#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_chy9zuqn/landscape_carousel_hdpi.webp",Fight Sports
 https://cdn10jtedge.indihometv.com/atm/DASH/fightsport/manifest.mpd
 
 
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGv1OY74-3sTht2LwE597uodHsPrJyDZK2F-Raf6wvI_wCKuAPv1-dZgMualjIdCg-DymO7rNXZqZ7FVq5z7VSjBj7CRxPJl1uMMUWn1t7xRhGbV5zoWHbtnXSMZ4LuPwHUdT06h2mrHi1_iYbEshOfRHozGnk8KfmrgNf_QBKptJ5NAVxq-EBx4P3wnPg/s700/AL%20JAZEERA%20ENGLISH.png",Al Jazeera English
+#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ss6ehuur/landscape_carousel_hdpi.webp",Al Jazeera English
 https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbT_qtAyxs92om8OPan-3VrSoo-4RlILNouN8XlIqqIqSKsGwB36-JktYDrg2RSnEuF_qPi-Ebw0QnjXAJn-O_7a6ci3s9adHap0jfmfA_69DmcV3a97tEY7Unm9V_QokHUCDxADRG6ct4IMbFlha-evux6I7dc8kFbWvKGrCtTACAaTh1WGjcUINEERby/s700/BBC%20WORLD%20NEWS.png",BBC News
+#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_14pjqs63/landscape_carousel_hdpi.webp",BBC News
 https://cdn10jtedge.indihometv.com/atm/DASH/bbcnews/manifest.mpd
 
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhImZRDZAUk6kKajjMZgQQVaCTuZAxaMmBFGN831QMtely5_YLlDDU6TSKKMiyfzyKrK22_-XoP8eTIKupA6xyeL84iaV6eeCmskhcWEpFF9zasFAMlkV6k7E8OrPMw5xXykoEZQ-y39fDrSKboo4wPbzegIDgisieoBJiLggqqcQMEhkUrwNE5jnpEZiTR/s700/BLOOMBERG.png",Bloomberg
+#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ayq5nxva/landscape_carousel_hdpi.webp",Bloomberg
 https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG_AT/manifest.mpd
 
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwplWB_T6jTauJij8vL_XkEiogRFTYQnBSi8lHAW7P7jCfNEYNoKtSfBhMErkjGRgFrgxeSyJ2SDhBCtKQsQDgkt6RsO0qUGFcwfEUHrnj8zPr6NvjdZsqQq_QkfeSEAWxnmLXFZZgrDGGsv1YtfbuW5j7yPurjuhJJFPODgsiRLcn_8B0duZ_KMPlJggK/s700/CNA.png",Channel News Asia
+#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_xi5ysa4r/landscape_carousel_hdpi.webp",Channel News Asia
 https://cdn10jtedge.indihometv.com/atm/DASH/newsasia/manifest.mpd
 
-#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQfeA8CmMxnS9UTBU7OD_g5kjgtWEraw5uJsyxqej8chRcrMWQadOZJOEcc98tGMRmRsrjUcC9CwAmgbEP39_dirT80ZVVHEi_32KIHMjHhCdBXUKQtwFYrwOoektw09ThsFErpXhuGnuu2opLjajxe8NEdOxl-EK4ZuLnJH3av8drGiw7aSXvl5gHipVI/s700/DW%20NEWS.png",DW English
+#EXTINF:-1 group-title="Indihome TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_urjthrku/landscape_carousel_hdpi.webp",DW English
 https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 
 #EXTINF:-1 group-title="Indihome TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8vIAI2qnErrKYygzCy4OFTBIa5aVzZCVdAqpEiTfg5Bhh7A1tstzpBgAF61k6nKzQm3kxvd6BQTaqxsiayVpnJgIoT9JZyIsXpn6VWfrmwr1yHWN0NbcVjW0iauTs76qcv5jcGEMx9A4GhHfvSPNwZAJl1vbFNtCmZL8aaW7gc8sVto6nGBvCuH7RQApU/s700/RT%20DOCUMENTARY.png",Russia Today
 https://cdn10jtedge.indihometv.com/atm/DASH/rusiatv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuSnBpTGSfMBR7wZMAueKtHv-bKgDX0w06BrOE3WcK9LAUrRDfBvXGRYs_RDXgsQSYdjHlSjfet16LZKaqdIMAgTuO0l6WBgeB9J5wa9zLpLABC9psc0sydyaJqQvCCtgg3qj2YKGb0BrQKIXYWteVrpOyG9h1QY-Sf6jXSiB3xyie0sCqBfpiNPbJpUr/s700/ANIPLUS.png" group-title="Indihome TV",Aniplus
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_bidjh24z/landscape_carousel_hdpi.webp" group-title="Indihome TV",Aniplus
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2f4c7790660c4a0ea82f38ca1998da13":"9186a4ec6c2c2af731de820bf517e4e0","4271dec5b6794650872dc915fe10fdeb":"0e64ddadd1cbd079f98c597fc01c06bf","61666330303030303030303030303030":"e6f0c3fa2a6adb104a0163a5ef0bdd79","636974726164616e6764757430303030":"65232737d3a5e4e14dbfd3d96805d30b","64756e6961616e616b30303030303030":"40d96782fdd3ff05e7c0bf9aa7af8ce5","64756e69616c61696e30303030303030":"d742218958e10ca989be6a63f2db9b6d","68697473303030303030303030303030":"605f9a17b3fe63477eeee636af6f3890","686974736d6f76696530303030303030":"31e5ce898eb4639119f21f55671d407d","686f7265653030303030303030303030":"fe3d39b39bd26f0ee274f60c397bf61a","686f72697a6f6e73706f727430303030":"1ea22d4728acb704f4a1dd78ca5c59a5","69646b755f3130303030303030303030":"e4a2359b05563399f1d9adfce641724a","6e69636b6a7230303030303030303030":"5130a6e0a492e1cc152783c490679bc5","736f6e65303030303030303030303030":"824784864e5ad3d72820d58823ed4dda","746c6330303030303030303030303030":"80719b8d1cdc6ed01aa555663db7fc96","79698301a95740009531b1d53e3ad5fe":"7240a4a29a54e6089b108fbcb95cb265","834ec3cbface4fe992e995a32d35f587":"e0a97198d9f2dfcb0a0483cd4b04414b","f2c313fce55344e5a52389741d1f53f8":"bae1e47db562b66895beb8fccdf2ad8a"}
