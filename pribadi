@@ -494,7 +494,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0V8988by/VISIONPRIME.png" group-title="Film",Vision Prime
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOQOlTCm20UrWzs6oRetBHHBCZCM751I93iW2sbtBdyqm3hOA5OPc12VLEyr_owL4PY7Hc9i_qIPcRuiIA2k_Lg5T-0GEj2o3BLEv6U2ppD71l8fCnaFNCo2cK5ft22MX3gDItQV2YF7C2rRQJ7yEKYf4mIjPACNNDP-9MGM9mXe14PMXmLu9lI8Ws2MT/s432/VISIONPRIME.png" group-title="Film",Vision Prime
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1481,8 +1481,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #EXTINF:-1 group-logo="https://imgur.com/a/sCLBcZw",VOD TRIAL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/04/film-rise-conqueror-2026-lk21.jpg.webp" group-title="Bioskop Online",Rise of the Conqueror
-https://www.googleapis.com/drive/v3/files/1Ha4JmxxC-74j_fDKrNRRz-42UyZk3ED1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVlOWNmMDQtOGYwNy00NjhkLWI2NDUtMmRjYmYxMWJjZDg2XkEyXkFqcGc@._V1_.jpg" group-title="Bioskop Online",Rise of the Conqueror
+https://drive.usercontent.google.com/download?id=1315lDSg8l5BmZASi6VZCRG9VhRKkdftW&export=download&authuser=0&confirm=t&uuid=3d1bec1e-5257-48b5-8ebd-452297ad8dfc&at=ALBwUgngMb09SYaj3mkHVHr-69Mo%3A1777559816113
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/qvpLC/NgY36zYQxW2LOeEvQ.jpeg" group-title="Bioskop Online", 976-Jurassic World Rebirth
 #KODIPROP:inputstream.adaptive.license_type=widevine
