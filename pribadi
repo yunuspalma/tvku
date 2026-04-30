@@ -1472,7 +1472,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
 #EXTINF:-1 group-logo="https://imgur.com/a/sCLBcZw",VOD TRIAL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.lk21.party/wp-content/uploads/2026/04/film-rise-conqueror-2026-lk21.jpg.webp" group-title="Bioskop Online",Rise of the Conqueror
+https://www.googleapis.com/drive/v3/files/1Ha4JmxxC-74j_fDKrNRRz-42UyZk3ED1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/qvpLC/NgY36zYQxW2LOeEvQ.jpeg" group-title="Bioskop Online", 976-Jurassic World Rebirth
 #KODIPROP:inputstream.adaptive.license_type=widevine
