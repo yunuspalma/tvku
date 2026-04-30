@@ -407,7 +407,7 @@ http://203.77.246.58:4500/udp/239.1.3.62:5000
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png" group-title="Film",Warner TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeAOwd91LdVNYReevVF9q5yjrGjrIjS4xCw&s" group-title="Film",Warner TV
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
@@ -990,6 +990,18 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> Musik
 //========================================================================
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_qe3k01sq/landscape_carousel_hdpi.webp" group-title="Musik",MUSIK INDONESIA
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_e59etfmm/landscape_carousel_hdpi.webp" group-title="Musik",PRAMBORS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/264761
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGNvDieCAmknLUfCspLBqUWzAlF-UE3L32DsgIkhVWMPxNAKBoSiMX5K4BfoopMqO4JdfpA3eYoIKl-J1dL8RUSamiTRYVPmdC9x_JZQubP5Oe2m1I8mVrupp0d-_vs7pzc4wiEJ1QxLBUE-oYQS707EI8J7CfKEns7eQI51guOAZOcR9EqLM9i7wPeZ4/s700/20251207_001445.jpg" group-title="Musik",Kpop Play
 https://live.24hrkpop.com/hls/3/stream.m3u8
@@ -1004,17 +1016,20 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/MUSICTV.png?raw=true" group-title="Musik",Music Tv
-#https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2025/01/431-s-300x169.webp" group-title="Musik",Citra Dangdut
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-#https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_n1y6rlt4/landscape_carousel_hdpi.webp" group-title="Musik",Citra Dangdut
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
+http://202.169.224.202:8800/udp/239.9.1.13:1234
 
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/81/blob/main/MTVLIVE.png?raw=true" group-title="Musik",MTV Live
