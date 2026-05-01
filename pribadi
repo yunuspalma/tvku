@@ -314,7 +314,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_vq7m2eeg/landscape_carousel_hdpi.webp" group-title="Film",Celestial Movies
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFkhL0vW1VG-dwMvcn4PT3k20ytICby25S0ZV0PxbHArKea8YUCAvfXwczaJnpcTSvX7WnUFNsFMPFvXmafmyRlkB40EtB8t6AGD8trZbxVJAOMqV7GKMBUyIN7PKXySX3IbYTCQlMxwfnk4iIuFK4MPvPi9ER4kDRS6BsPtXINnjHtnkKTWmr1S8gnwOq/s320/CELESTIAL.jpg" group-title="Film",Celestial Movies
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 
@@ -415,7 +415,7 @@ http://203.77.246.58:4500/udp/239.1.3.62:5000
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeAOwd91LdVNYReevVF9q5yjrGjrIjS4xCw&s" group-title="Film",Warner TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsFYEgOixoJB66-jrEK6kdjZlrErt_1sgGk4LUH_PgIpog1bAbtkfZhpU9spUQyNusDZ3cjHBK8B_uRWlvALrN04B9CPlIvFNjhpCE8Y-O-W2PGpfpAVQDJTk9xK_HrQ1Xndgccr8ftRMmoEuTY-KZ5tbrdHOz0uaT6f3Z4gplR1f93KLVgyqqOFtArsq4/s320/WARNER.jpg" group-title="Film",Warner TV
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
@@ -547,7 +547,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_xgdr0qbd/landscape_carousel_hdpi.webp" group-title="HBO Premium",HBO
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhymujyAECHfcuKP56qnRXI5pq9JI6qTRZMeZULLKw1HH5fZ9yD2Jtmu8tHL2WLLQ__20MXaaAV5vMAHgGpW1zi6o0pSHFlErb4GBr0i5TS5en4qAUmrcBpO-NNA3Ec79ZuPwgAYKDvh7HI35d9Ld63zCGYH8tXLflFWikOWgqfxXRPuHIAcVZo9_rDHYw_/s320/hbo.jpg" group-title="HBO Premium",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 
@@ -556,7 +556,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_k7eh4erk/landscape_carousel_hdpi.webp" group-title="HBO Premium",HBO Hits
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHHpq7_E-p6wu7ScmI4Kij6yc2QxWHNiUeYtZzQyosSEjchTHBbWCLd31j2xyO_5LJ4-8BJGXjcOJcmK2WY8GNIIBCWHUTvgeFCwH1qC0x5JSXjyw3AWZeXl1oVb-nkHOkVB1mfLFshdMjjOALBquxvNDJ7_IIXq1nOvh-E-PpnnQvDCz1zZMwq7ydJ-IC/s320/hboHITS.jpg" group-title="HBO Premium",HBO Hits
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 
@@ -565,7 +565,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_qqui53si/landscape_carousel_hdpi.webp" group-title="HBO Premium",HBO Family
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCdwbenGKKSeSG-a8oywMy9uI6ZCF0yvyI4ij7uToQKBuLqhYpdFm1jAjzhX2wdZ5iAK_J4w-p8kS0rybfmETzr1MHDc3C8MgT2j9dUOcMQNhPc-SgksZhH_v0wjfUwTRk4QDc8jvs7oD_knDfZQ7Zwf1XmHDwXXhLE2uTbE5J2-m0ixh94ix2CnU8YHXL/s320/hboF.jpg" group-title="HBO Premium",HBO Family
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 
@@ -574,7 +574,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_s6bo567h/landscape_carousel_hdpi.webp" group-title="HBO Premium",HBO Signature
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKYtMCoOwPTYAmHIX7EOAoRB1fld1Y9Um7Add_Upv4Z40Ve0PN72fdcatWMAnoSYYFo7b_LcXK36ydKEDWV2jpXX10b6v_iZuQEA7TDf9MVjM07w2Qq-yNyrdRbjaOeWWGgyNdzZp1-Z1UUOku8_0aUv_9IUxUSpu2_aBTMkPq7hAVVFa2O16508y5qXjM/s320/hboS.jpg" group-title="HBO Premium",HBO Signature
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 
@@ -584,7 +584,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_7vx2webw/landscape_carousel_hdpi.webp" group-title="HBO Premium",Cinemax
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9A6Z16NaoyhEZo1DqnMAb4Hb2XLd4noHy6qygzoEHh8qwleuUclbwSk0e3-UCNmFX5ws9hR1ni9oOdh8YFa1nzzvbUD5Jc1GDCK8hMsuA_kjzcUsWjKej5S-ABWg0z3jKuFpVZLukglUcHtgjTG_Gix7YfOzPCoowbWPqzCCuCiy0GR-TuJstXe5BbriG/s320/CINEMAX.jpg" group-title="HBO Premium",Cinemax
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
@@ -1012,16 +1012,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7
 https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/264761
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGNvDieCAmknLUfCspLBqUWzAlF-UE3L32DsgIkhVWMPxNAKBoSiMX5K4BfoopMqO4JdfpA3eYoIKl-J1dL8RUSamiTRYVPmdC9x_JZQubP5Oe2m1I8mVrupp0d-_vs7pzc4wiEJ1QxLBUE-oYQS707EI8J7CfKEns7eQI51guOAZOcR9EqLM9i7wPeZ4/s700/20251207_001445.jpg" group-title="Musik",Kpop Play
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1c6TThv6Y1XPSW4U55XHAE6ooCVdYNet3ZyHSXhjN2e2yv5PLZH2c07AnbuZLJhRguYjJ0N0TDp8WjsiUptGQw3sc9CnzNEb_uo3gGa5EEDprfEx-C1Sc-9I90Tk84o5sEPZ4LtGUBma39RwPOI9abW8proOYpMWsyNnCaImxEwP8HXVyPUBzw5iXFKZ/s320/KPOP.jpg" group-title="Musik",Kpop Play
 https://live.24hrkpop.com/hls/3/stream.m3u8
 
 #EXTINF:-1   tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDau0c1rzt6Cibo8JhcKpjPLFnYsn2n8y0Av0J1jSmVv15V6yQZOf0UcnzsYHyOaG8KLeaho0a-gYdIR6UWtEAApYX4R9MNpe6gk33T6KBpBZFb2PjLWn-NfOFqAqKTDrjqB9j1thusFLSr_YheajEDHPJRt9y1q0M-dSVqO3GMsPmoIaWIwuaV4uA3Q/s700/20251207_001416.jpg" group-title="Musik",Play Music 
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzeVlMxH27YZItvBD98dwfC7qhE6RHj-Qpr_BpuwAAiGfcwhIqlFCnTpin3bWNn_ZoqmtQO7ghJ8z0a1RUhj82uGMa5Ib5-UulLhyv1h91HzPbU7QFDrEkrHuZZI3upkSeaOowfPBPG7aXgoNnZcSaG1e7_3uv0DwNS1Gb8Ae4_NOq0aqG4b953EhXe9S9/s700/MIC%20TV.png",Mic TV
+#EXTINF:-1 group-title="Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0CIWYtaXmN2QXZwS5iE24gY1vMyi35fsd0khkL7R3ZUASXh5-dwr7HwSSKtKE6MQOh7BscfWqFFiDsmf8HQStQCI-DHad9X-5p1VawmpEIrZbztjhF-YKkLO2hqdr-r17WuC-Vxt-Pk1Llw1C03To2-38jaopt6bENQJsYuzwumVlgz9m80t9OwRYiw13/s320/MS.jpg",Mic TV
 http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
-#EXTINF:0 tvg-logo="https://stmify.com/wp-content/uploads/2024/10/252-s-300x169.webp" group-title="Musik",Now Rock
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxkiCXezNtdFsMItip_GDpFO_9cDfL45W0KJswX8Efdx_HhnlOfabAL0JkEtgHXptgX0p4mPNlOS39PhFbz8lX9DLjWsN54eUPRrLBS67k67wgsbZ8GyDALeVYOGWJIi-7wRn2CZi04-E27CQz4CH8bSBlH6G8uBSGf8DvX9E8XaECeLXC1zwmYG35cMVl/s320/ROCK.jpg" group-title="Musik",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
@@ -1029,7 +1029,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/MUSICTV.png?raw=true" group-title="Musik",Music Tv
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7XkcBCNS2z_s-J65dBWanXt0buMtYcX0-tlfn1jizjzaYGneRKVksAi0OUr4bmF5wleMBGsGCb4e9-vWtqHPH1ykLvnfcYHDTdaRU0u-RHkZXByN6KYj-ZjtzwFsFQ6lyz6N1ml22WQQlBGu6GDEkoLhvugRx0DMtIZ9tIYtg_2wAcltk6kUGo-YObLm8/s320/MU.jpg" group-title="Musik",Music Tv
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
@@ -1051,7 +1051,7 @@ http://202.169.224.202:8800/udp/239.9.1.13:1234
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:0 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423538_tvchannels_v1.jpg" group-title="Musik",Dance TV
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJl9K2qdIKKF0mcaocuO8mJhvVTtcn6T41q2Zd3pMMkRg88tIeP9PfhJdeef-oK2t6zsnLqaxIp7uitz23sriZzWNC1P90k-OuSOSXk67NTFfNO3iOyP0GGTZ-aDHDMBSOhuX9CqytkAVjGu7DeQ9dgkk52FaogDe4lPetMPHqXJY8k0GNRKQk35yp39XS/s320/DC.jpg" group-title="Musik",Dance TV
 https://op-group1-swiftservesd-1.dens.tv/s/s21/S4/mnf.m3u8
 
 
@@ -1239,7 +1239,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-3
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="Hiburan",Hanacaraka TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijgU1nlyCmNIOuLPI6MGUcL1JsoUlj3oVmGLW3e_SEX30RsuycbcJeiYXSIN6dOmJj4LbgQPdOpqjYakI3pDQ1XM_j3CXtqQNY8WQ1hs4JNK1Dqcp2zUd65SxKnHlWMrw0chER3Tzp5aRfLCUWiUYcx91Apqhic4dD1wjOSeTopbkUJ5aLO8fkdsujszdY/s320/HACA.jpg" group-title="Hiburan",Hanacaraka TV
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 
@@ -1247,7 +1247,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/08/95-s-300x169.webp" group-title="Hiburan",HISTORY
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVNW_3bERd9vqYGlGWEzovbLMvhP18nkwx3Ct_a-Ubgp34aKfdfM4tZmb7lVY6ZAplC75-SZ8NjDASCj5h4pOEdvMzWYRW1SVCptddSgbdsV_s_ZYBrBuaUAf940IsgsFzc4Sj8hs3RpoetUM7LWR-x40eV8SyHOJUNdXEPFLIw_7m62u21vxxSR_8mh42/s320/HS.jpg" group-title="Hiburan",HISTORY
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
 
@@ -1257,7 +1257,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celebrities-tv-id.png" group-title="Hiburan",Celebrities tv
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtaeX40ePSOp9e2N2dgtH-UbtygAdbOumtLdqWj5tKmlcAM3Op7nOjBFbyn3qVcgSupPu4oVC6b0Eok0Qar0JUAwKZ8ZWictZ79yiVh9rckKZxgSkHckQ9ZDV0wF1qN3SEZtyrl11x2ryIw0pbapDL19Dwsjenxl_oNXRwfD9aA85QvP4bPSoPBbbPrRcK/s320/CB.jpg" group-title="Hiburan",Celebrities tv
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 
