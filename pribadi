@@ -180,7 +180,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg" group-title="Lokal",MDTV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ad3Z8wKxUTk3_icXGAoiIjpXQLU=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg" group-title="Lokal",MDTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET.
@@ -207,7 +207,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687939_tvchannels_v1.jpeg" group-title="Lokal",Berita Satu
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0gFWKZO7GvvcnVtEaNHoAA5gMfM=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="Lokal",Berita Satu
 https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 
@@ -256,7 +256,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_zg4mwqv7/landscape_carousel_hdpi.webp" group-title="Film",Hits Now
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQ4SOrKNx6tEOI__OIgE2qFF3y-ogXOO8VhF0oBMASxRVDLBCgFw-KsxotqzJrlwNm1JCtCqVdRgWwOmSOXPDr2jUpr-5Uo8sRVj8DedZWqTJZqn_y8tK5rWdu1IFnkJ1CIEM5AOb1PJn-tbpI58C5ygTVq_teVFWs7ByNNE1GTIHMYnl8vqhkZcYKQ7q/s320/HN.jpg" group-title="Film",Hits Now
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
@@ -719,7 +719,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_e9m9jzif/landscape_carousel_hdpi.webp" group-title="Olah Raga",SPOTV 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3z4IXSoTGsuKPvJPvNPJ6GV0HNs=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg" group-title="Olah Raga",SPOTV 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 
@@ -727,7 +727,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_mubcipck/landscape_carousel_hdpi.webp" group-title="Olah Raga",SPOTV2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4S55d0i94p-RevrBKlwv_T17eMQ=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" group-title="Olah Raga",SPOTV2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
@@ -803,7 +803,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" group-title="Olah Raga",Motor Vision
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwvfULUCwcgSYNjaPMDSUQtegDLMl-kJ_Hh9bFirL77LETz1i0KPXICkIwkJ81Euryu7_UV8SKwt53y_6ELijwPdo1GgOqxgt-sVQTCFyKgNJLkKE4JMfPfYK5JqyYVhIHCyLspTw8cSMWnWBe5vu90Uus9yRfvp7D9PvaanO_3uSWZc9GV6uDc-h4nEGU/s320/MV.jpg" group-title="Olah Raga",Motor Vision
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 
 
@@ -877,7 +877,7 @@ http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg" group-title="Religi",Rodja TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhbX7i74luZkCZ5ZsVWL-dB5O2IsAvBMmMPcI1m2PnFigobxk78sX8KwieuTDWrfjbToVPMNlv39BO1O0jt2oAJ4xn6sw0zFM13JqOlpLgDSgLN5_NPRYe3CmkwVIe4yRbARgkNGE0jreLi4O0qHBPAFGeQc5nzh36x5VcWVmLyMWMefxgjPJuSSuh_2W8/s320/RJ.jpg" group-title="Religi",Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
@@ -1278,15 +1278,15 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyGa59QzxXZV-2KoHHPqB7PJitYDC54dshAS8CdgManEgm0jikLf3Y2LdIztSZ4eHodqSahYx29N08xLC1mv1hB5KETubqZyzjjYH-KHCZp0edLjg7d5oZvVJN8cqc3Ct6mVnvf52Xkbzd-pp7fRxDy4KmN2D82lgr6XtCSmV4I5rWIJMUQrLGCEl_2K3G/s700/NATIONAL%20GEOGRAPHIC.png" group-title="Pengetahuan",National Geographic
 #http://151.80.18.177:86/National_Geo_HD/index.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan" tvg-logo="https://alchetron.com/cdn/nat-geo-wild-f006c406-8a6a-4c4d-adf9-c76ee33a737-resize-750.png",Nat Geo Wild
+#EXTINF:-1 group-title="Pengetahuan" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwBUuKTag4MfYDJeUqIpcDl279517nzitDAtlaaqVrbQMY3RG0-lIh2zB6OKTdFP57IPchSq71psE4e9zKF65UhbozDkf-zNR9RootW17Kz8Y-0nNLx9oWwi34rspdh9LF4jSV3Rb95fagAAwqoprttBbdL3idXN3ezx_IGtu6cr3bCFkoJiMoRaA911gj/s320/NT.jpg",Nat Geo Wild
 http://84.17.50.102/natgeowild/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/08/9-s-300x169.webp" group-title="Pengetahuan",Animal Planet
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNfe2VWOdqfyUn_KHRpydKkCW3I7IXA5uJRNf_9s1iKa7nzZa6l9230ldFWuRyJg4zD2PvFB3sCFG-3a18dvzsHElvI8lRO6m0O89JdUD9UYILhjwwiqFBTfOXDWuVMWxvOpPPt0DyIi1dDKtTSjv2eqlzbRp9tcElAUQ2U6OcdfC5TlvpbxDGMKi4jlWJ/s320/AN.jpg" group-title="Pengetahuan",Animal Planet
 http://202.169.224.202:8800/udp/239.9.1.7:1234
 
 
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/09/129-s-150x84.webp" group-title="Pengetahuan",HGTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXUyVkfZBVQaW6ZWNWYKABDufUpcqkfHtH1advCnmolmAwKp1zxjcWuaSyYCJbvtbFJiknr0i4n6zN0GRUHH8XZU4kT8FqCi9yfK-zM3e1b0y1K2hrwU_8Lgzg1-IXPfNSxA9xpwPTEIvNF3caZFulTGI60K_-HmAXjnlQVU7XmRef4trliIk-3Rckq6vi/s320/HGTV.jpg" group-title="Pengetahuan",HGTV
 http://202.169.224.202:8800/udp/239.9.1.3:1234
 
 
@@ -1306,7 +1306,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="Pengetahuan",Knowledge
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGv-F_TCh7w2flMewEhv7dBcyZ7Umwy0tYe6OatQIgqhYLKZexCXuSQCl9SPFn58OfCql2npI_iNQJ1192GJDLvJp90akTM13V89dqZQqirM1WFCYQxLZTP-8Tb939tD45lQ1yKRjhTA8Dh3_VZrVNY4otc0lZqzdOcgmiaA5Jze8-aLAMNJZdNQ0YSmvo/s320/KN.jpg" group-title="Pengetahuan",Knowledge
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1344,7 +1344,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_fn0qos3d/landscape_carousel_hdpi.webp" group-title="Indihome TV",iNews
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_qesewoxv/landscape_carousel_hdpi.webp" group-title="Indihome TV",JTV 
+#EXTINF:-1 tvg-id="--" tvg-logo="https://thumbor.prod.vidiocdn.com/QYuAJr3TGaCQkyMmBJBFftNzi1M=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="Indihome TV",JTV 
 https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
