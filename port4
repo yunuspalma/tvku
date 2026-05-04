@@ -2,7 +2,7 @@
 
 #EXTM3U billed-msg="Channel Premium Ini Milik YUNUS Jika ada channel yg tidak bisa di akses selama 1 hari,silahkan Hub Yunus, Terima Kasih."
 
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ALLPLAYENT.png?raw=true" group-title="Local",AllPlay
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/MAXreals.png?raw=true" group-title="Local",Max Reels
 rtp://@239.1.1.252:9486
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/TVRI.png?raw=true" group-title="Local", TVRI
@@ -198,7 +198,7 @@ rtp://@239.1.2.207:9190
 rtp://@239.1.1.83:8472
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/paramount.png" group-title="Movies HD",PARAMOUNT
 #rtp://@239.1.1.211:9240
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ZEEBIOSKOP.png?raw=true" group-title="Movies HD",Zee Bioskop
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/zbioskopnew.png?raw=true" group-title="Movies HD",Z Bioskop
 rtp://@239.1.1.129:8748
 
 
@@ -312,13 +312,13 @@ rtp://@239.1.1.225:8013
 #rtp://@239.1.1.68:8382
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/MENTARITV.png?raw=true" group-title="Kids",Mentari TV
 rtp://@239.1.1.127:8815
-#EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/FUNPLANET.png?raw=true" group-title="Kids",FunPlanet
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/MAXkids.png?raw=true" group-title="Kids",Max Kids
 rtp://@239.1.1.201:9180
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/DREAMWORKS.png?raw=true" group-title="Kids",DreamWorks
 rtp://@239.1.1.234:9222
 
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_eatgo_big1.png" group-title="Lifestyle",Eat N Go
-rtp://@239.1.1.229:9350
+#rtp://@239.1.1.229:9350
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/FASHIONTV.png?raw=true" group-title="Lifestyle", FashionTV
 rtp://@239.1.1.79:8448
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/ATV.png?raw=true" group-title="Lifestyle",ATV
@@ -387,7 +387,7 @@ rtp://@239.1.1.93:8532
 rtp://@239.1.1.89:8508
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/cinemax.png" group-title="SD Channel", CINEMAX
 rtp://@239.1.1.87:8496
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/Maxstream.png" group-title="SD Channel", Maxstream
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/MAXSTREAM.png" group-title="SD Channel", Maxstream
 rtp://@239.1.1.101:8580
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/THRILL.png?raw=true" group-title="SD Channel",Thrill
 rtp://@239.1.1.83:8472
@@ -399,7 +399,7 @@ rtp://@239.1.1.137:8796
 rtp://@239.1.1.135:8784
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/tvnmovies.png" group-title="SD Channel",tvN Movies
 rtp://@239.1.1.61:8340
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/zbioskop_ver1.png" group-title="SD Channel",Zee Bioskop
+#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/zbioskopnew.png?raw=true" group-title="SD Channel",ZBioskop
 rtp://@239.1.1.129:8748
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/galaxyHD.png" group-title="SD Channel",Galaxy
 rtp://@239.1.1.184:8778
@@ -443,7 +443,7 @@ rtp://@239.1.1.119:8688
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/ALLPLAYSPORTS.png" group-title="Sports",Allplay Sports
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/logoindihome/maxsports.png" group-title="Sports",Max Sports
 rtp://@239.1.2.59:8209
 
 
