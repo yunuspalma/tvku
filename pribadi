@@ -45,10 +45,9 @@ https://fta1-cdn-flr.visionplus.id/out/v1/b642f32e396042f981d83fbb5f472272/index
 
 
 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNkfeRF3GoOfPuHZZnh2dizjtjQt21BEoWQbFJQmxiUUJncbJlhzY9HH5wSiBJLYXW0YoUoC9ODCJZFOlw6umTzyFRUyr_z8ULaFuQQnGrlEtX3wu3o2uubfEmMf8lP8kGTy__nzX4eIlMdZ1Y3F7BKroxWOayCvSBriLie4dl8-OPE83YUTYLYzjIAKGr/s320/TVSP.jpg" group-title="Lokal",TVRI Sport
-https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/pontv.jpg" group-title="Lokal",PonTv
