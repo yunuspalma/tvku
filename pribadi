@@ -42,7 +42,11 @@ https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="Lokal",TVRI
 https://fta1-cdn-flr.visionplus.id/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
 
-
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="Lokal",TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNkfeRF3GoOfPuHZZnh2dizjtjQt21BEoWQbFJQmxiUUJncbJlhzY9HH5wSiBJLYXW0YoUoC9ODCJZFOlw6umTzyFRUyr_z8ULaFuQQnGrlEtX3wu3o2uubfEmMf8lP8kGTy__nzX4eIlMdZ1Y3F7BKroxWOayCvSBriLie4dl8-OPE83YUTYLYzjIAKGr/s320/TVSP.jpg" group-title="Lokal",TVRI Sport
@@ -147,7 +151,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://vidx.semar.my.id/biasa2.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8V_B7Lwlp20b1C-PObDsPG8Ssn9BD9SF2RcMLzkhGE3X90jl_0fwlrnj8lDNpVNLXATVc2artGYCzVbiwySn0XaCApgCqL59Hcm4MAMPi9UGJZPnxufMW3EZIdy9jqocFdJggU4rHZg-bMU3OQXoW57hFZxDAWzHO-h7w8XDW26kmtlNc_UscrxL00_UQ/s320/INDOSIAR%20DIGITAL.jpg" group-title="Lokal",Indosiar Bola
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT8lIVHXMP5n9eOTEEC-xPkXP2wEhfZmlX_maMmGLBehj9_oX29wF1oD4u2dxExHfmO6b0uV1GPM4fqIbQGGsaw8lrxdmU0843gPpkjid8cNwqcR-QLaZxLHUu1L9_-Nh0AkcvbYwtYqIDT-JmyrLNlD1H7sug-HTPngW2t69-RxbMM8Q_KThp0qedcErE/s320/INDOSIAR%20VISION.jpg" group-title="Lokal",Indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8V_B7Lwlp20b1C-PObDsPG8Ssn9BD9SF2RcMLzkhGE3X90jl_0fwlrnj8lDNpVNLXATVc2artGYCzVbiwySn0XaCApgCqL59Hcm4MAMPi9UGJZPnxufMW3EZIdy9jqocFdJggU4rHZg-bMU3OQXoW57hFZxDAWzHO-h7w8XDW26kmtlNc_UscrxL00_UQ/s320/INDOSIAR%20DIGITAL.jpg" group-title="Lokal",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.148.44.38:8000/play/a05c/index.m3u8
 http://202.169.224.202:8800/udp/239.9.1.25:1234
@@ -779,31 +792,33 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
+
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-hXbPmCxm6oCTq7l9bJwRW-CFbura9yf_w&s" group-title="Olah Raga",Champions TV 1 
-#https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV1.m3u8
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6685&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6685&type=dash
 
 
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
+
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Wkxpz20O3iAtwjthDxDweZDV1_s1kIXiMg&s" group-title="Olah Raga",Champions TV 2
-#https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV2.m3u8
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=dash
 
 
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3q3Gp5kI9cpMuunTYNBsGQq_B-8uGjDUTw&s" group-title="Olah Raga",Champions TV 3
-#https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV3.m3u8
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=dash
  
 
 
@@ -927,17 +942,17 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv2swiAXHN9hZSEcNvrUbQV4JTvjugssuFrmao5v_XylTZDsaWSSTIdPNY-8E_L7IxOf-PK-rWZVJUqM_ri2StrZPFyAQ8h-9HjMzp_lQMWL5cb__xW7KvUbyxPKAhHtad16q6bhFk6yn_Z24BTpbzCQc0a1FTOdWsZ1Im2vl42rJjWFKX-7aRk9n01zwF/s320/TV1.jpg" group-title="Malaysia",TV1
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGXW4ri6ODfmQ4uZIhk4LaAugEf324mxV2jYGvQ8Ma95gFRUQfUk1Khjk-o5LAHtN3Z0Ln4gF4mm0kq-tZyKoyFw2ATpTdleChdXr_22Gm8ZldgKK0ppYlWAYDgbiRnUPzPwLCMrQ03k4uX98A4BfVsX1AKD4DaOJUrzwXify30Z2fUEuHg5v8M7I2weBk/s320/TV2.jpg" group-title="Malaysia",TV2
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJdHgq0S6a21zwEPKpKfAw1V2izUu2ZteqyB8tUKm7xIL_6opMkNKVqyoy_PRVQFopKUImtdP_HMC6MXeXV1zLi7kQQDs7xGkakek5UWN9JqTLrFqEM-pIqHE4ZYWbR7VRCkNDQagAkXty5vacS5SWbPN_-4UsyqIpC9gbX2lAvpkNxFHw0ORo350rSch/s320/TV3.jpg" group-title="Malaysia",TV3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv3
+#https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv3
 
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAAAoX3EaanvEqOx6Wq90GHPQ82fjDP0NK64cOzNeHPAy253Frd8J9YrqzyUkt34LTowz7xRqS52aj0T3i9q148L_XXJOewJXBn_M8XFbubsNHcIIWcT4BvN_EcR88f_Uh4AuGrpNXvFn6DmHMFvrACCGp2Yah4cqH_Bd-_SblJJBuHoUzLF2GRAxv8FRk/s320/TV6.jpg" group-title="Malaysia",TV6
