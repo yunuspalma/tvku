@@ -56,7 +56,7 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 #https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w1627249822.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iESh25mkdwIlSZLX4WUt256JH3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM-rKw5h5cpWPa0vMWkrgK4wQtZalp9_1G2-1b8vQXiXQnOhIXCW8EAwCDK3qXc2W5vl7_4ali7ExH3j8gd2mHEWEOoox-ioq9FORba0_vdfLq4-dlEAaQtmbu0_7ZZY0TyLJUD4B0w9Mrnzhj_GD1uqGWuqiI_bnU5mSGzWKERU0CKlvWiPN5_GHsT8-e/s320/SCTV%20VIDIO.jpg" group-title="Lokal",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -71,7 +71,7 @@ https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqreuoy8_XJ11dDOm-mKhW2NlOCjp_hxj5DgLdscrdsc9b4PaTCNdmADclGMsS4GrxrmwVXubFOYX-CF8HvFS_UlhKQwmCI5Khl2IqAU7yoWCy86IIP9_SmcJ00bAxghkUbUJMWixYmxfCiKtrHy_nVmUrLaFa0gXyLfnpqb8rzjnHMkrfZuLlCnbow54R/s320/sctvlive.png" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNpxTxeGlxMDgJEIMXE02xNQVRBBWaXirOYJHEy8zSkM88qQfofAQwGDBqR5b4DasHQROz1TMdkZhPb2dbD5dr4kH75qpAiyFNnOoHrXzlyT2pBNcKk0KqoNPlU4xjXP60aOzLOMI7EiR3bumVQ1qLn_9XxvwB1GosL8Q9lF4l1MGaTsELLhHzDOBgt8yl/s320/SCTV%20VISION.jpg" group-title="Lokal",SCTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
@@ -139,7 +139,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Lokal",Indosiar
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7SGt0srnmXKlAIpYFvAjnFh3f2MCK5OBdzUHxMWSOuayAZL0clnlwRteJJcSe1b7YSSrFNzh3NLL4006l5HZHF4PnnkYpzBKTvnvLBBakfCHL_NLqd5Woa3qrVGAlgGfhUO_vCTF8l2UjIhFljCZHj86IgkEs0KPcLOAkRwLPlXEFcy2uxht3k6av6uoO/s320/INDOSIAR%20VIDIO.jpg" group-title="Lokal",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -147,7 +147,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://vidx.semar.my.id/biasa2.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeSAe-aid_Cujef-2pKib0xrfm3Qpd-yivYPE09k5nT1qtR-v7EE3ostxYt7GioKXoc9oDeOTOWyLhI1a471dbDKX2S3PWLh2QNkwzfH4LPD41o16HdjN5dEf7cLD4rsYc5PyimL6-6RDkIAiQq2QvAlziaz6XGgcfsKuF_dP3Ll_66RZnsaPVuCxajGZ2/s320/indosiar%20live.png" group-title="Lokal",Indosiar Bola
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8V_B7Lwlp20b1C-PObDsPG8Ssn9BD9SF2RcMLzkhGE3X90jl_0fwlrnj8lDNpVNLXATVc2artGYCzVbiwySn0XaCApgCqL59Hcm4MAMPi9UGJZPnxufMW3EZIdy9jqocFdJggU4rHZg-bMU3OQXoW57hFZxDAWzHO-h7w8XDW26kmtlNc_UscrxL00_UQ/s320/INDOSIAR%20DIGITAL.jpg" group-title="Lokal",Indosiar Bola
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.148.44.38:8000/play/a05c/index.m3u8
 http://202.169.224.202:8800/udp/239.9.1.25:1234
