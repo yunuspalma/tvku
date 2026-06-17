@@ -259,6 +259,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 //Collected by @Yunus Palma menampilkan playlist >>> Movies
 //========================================================================
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaVW4Woehbt0UCjdmNhfe9fpQoXoqeC5AqqzFq-HLHbvvDdlH1_OvZOJ2ygPfh6XVx1WT15kSjAVWNs6xYIu7ceA_kG7Wnvb_c0LNFxFOqNbUTpz_F0RudfYF3Abtp4B0xxy3EzPpQ9HBPuKFlwK5aJG7Ve66SCQkjerCP7on7tL3UPHcUbvTVhZsRfSwW/s320/MAXReels.png" group-title="Film",MAXReels
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLyUfUhdHi4DvSP1W3o7wlz-GJRRGm6NaQh8qW0__HKVoIRgZv_kxg9Cd3l0XSUQ4nb3hjEPzxTWYTGVycfGiEk9zWSSQFrgtjqI_OPTK-P1TRbYn1mCQJ_LuCHlqUo8SdcWTZYZak6OrtN63bwp_5vM2bvFAAWNShiAaiXBDLdAbmWHyTfQULir8EeU7/s320/MAXEats.png" group-title="Film",MAXEats
+https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/citrabioskop.jpg?raw=true" group-title="Film",Citra Bioskop 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -286,6 +297,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibd0SE1PjcP_AQwJ3arAfO3J53QUNdfjB3pCvDUCKW8lUsbfE2KIL1p6R7HIOc8Opf2-RptIl02th5mt11_MU_ePQC3V-YpONYi4bFX0fb4EDGgB1pRLDin34ZwFWstyiHX_Lf_fjy3q1dk8RpPu6iTXQtDotXv3uiw2H4KsTqSZI6J_M0lQbcfFE1d_pg/s320/ci.png" group-title="Film",CITRA ENTERTAINMENT
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
+
+
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
@@ -293,9 +312,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_8ijijzlz/landscape_carousel_hdpi.webp" group-title="Film",Kplus
-http://103.148.44.38:8000/play/a01b/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_8ijijzlz/landscape_carousel_hdpi.webp" group-title="Film",Kplus
+https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkS8tBX68Ofo2yc1P9G7_EPnoVLmqqUaPkbB37Jm6ZMeXMekaJzy_Hmu-7yZ3IiZKyzxNWPa54clwJq-3fD6MIEmhrYCnXmem8E-DTnwtz7EYjHCHwNGWnFRLlrSoTXfyF_C6_E12gFVZNJQpqnOGkARUKDuV-n9m7m4rC9wLmx2Xlw9SagbQCLXr4nysy/s320/ChineseDrama.png" group-title="Film"Chinese Drama
+http://103.148.44.38:8000/play/a06w/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -442,7 +469,7 @@ http://203.77.246.58:4500/udp/239.1.3.62:5000
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsFYEgOixoJB66-jrEK6kdjZlrErt_1sgGk4LUH_PgIpog1bAbtkfZhpU9spUQyNusDZ3cjHBK8B_uRWlvALrN04B9CPlIvFNjhpCE8Y-O-W2PGpfpAVQDJTk9xK_HrQ1Xndgccr8ftRMmoEuTY-KZ5tbrdHOz0uaT6f3Z4gplR1f93KLVgyqqOFtArsq4/s320/WARNER.jpg" group-title="Film",Warner TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguXBdEQWr0TlOD2Zm0WDQCCcDyUcXCwtF1_8olBRTk5xwY75QHwOOAZeBRdaW_knUmAr9PPv7FqF00sqkUrbBps5kWXxyjp-xZvPmEx4TvvwizlPTV4bDLag3OZKf3CZew9Xidb71YOUaUQoQR1eWOG1D3CQPvC0dDUR3j0ZMWnvFYFyDqSC_D8Ga52XxQ/s320/wr.png" group-title="Film",Warner TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -524,14 +551,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOQOlTCm20UrWzs6oRetBHHBCZCM751I93iW2sbtBdyqm3hOA5OPc12VLEyr_owL4PY7Hc9i_qIPcRuiIA2k_Lg5T-0GEj2o3BLEv6U2ppD71l8fCnaFNCo2cK5ft22MX3gDItQV2YF7C2rRQJ7yEKYf4mIjPACNNDP-9MGM9mXe14PMXmLu9lI8Ws2MT/s432/VISIONPRIME.png" group-title="Film",Vision Prime
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOQOlTCm20UrWzs6oRetBHHBCZCM751I93iW2sbtBdyqm3hOA5OPc12VLEyr_owL4PY7Hc9i_qIPcRuiIA2k_Lg5T-0GEj2o3BLEv6U2ppD71l8fCnaFNCo2cK5ft22MX3gDItQV2YF7C2rRQJ7yEKYf4mIjPACNNDP-9MGM9mXe14PMXmLu9lI8Ws2MT/s432/VISIONPRIME.png" group-title="Film",Vision Prime
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
@@ -688,6 +714,22 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> Sports
 //========================================================================
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiarptOJD8Ogz1fstate_dVU9RbuQuovFWmlxdwcbj2yfX09sKC8E7rW98S76EWxNqmAWPcB2PHl75vrYZWYX03NL8OINVbMeNrs_PURmG0EQKTVUQaSN20vw9B0nR4F7ZPsCLRoNHOPYR23g09So8TjwappKgupwt9lr6Lv_xCs2LHehsM1_8oOYkQ8Imo/s320/maxsport.png" group-title="Olah Raga",MAX SPORT
+https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ-GupiPD5hiZZIN97COKZhHja5UDNrrYA66L4Fun0MaBP6ZHOcU5kv-fYPP0iC0oomMwMNoh4kW4X7bAQpVfHWmkgBbtCYMrvavTf418AaPTqL2-MC-yHc_f4KrIyFseUc4kEHKU4GxdBNTW32yU5H1aYcM-3i3U_H9F0lxMfvwWrdpQ2d7MZ4s0obBP8/s320/MAXStreak.png" group-title="Olah Raga",MAX STREAK
+https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/S9dyHK4hCY-jmoBd7LMd0lJAhWc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-8dbf5a.jpg" group-title="Olah Raga",NBA
