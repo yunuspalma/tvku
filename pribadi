@@ -3194,9 +3194,8 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 VOD KOREA
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-#EXTINF:-1 group-logo="https://imgur.com/a/sCLBcZw",VOD KOREA
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/204393941/eb24bf06559f6833b9d6e413b49abedb94993779" group-title="Bioskop Korea", Love Clinique
+#EXTINF:-1 tvg-logo="https://prod-images.viu.com/204393941/eb24bf06559f6833b9d6e413b49abedb94993779" group-title="Bioskop Korea",Love Clinique
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234513&quality=s240p&product_id=2576995&lang=Malay
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166234510/1166235143/e995772c3f8cac3c4df6be1805caeb638817c94f" group-title="Bioskop Korea", Office
