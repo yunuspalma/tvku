@@ -990,7 +990,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSNLAhWEPSPG7lyrMne0VkDJ_YG1E7tv9X_IOWy2RjQN5mCb9BtEstSv8x40mIA0X5ODCN3UAOhjT8F8Pb3jQppgvqtfViB40fO78lh75pW5sctkrY3YwhOJCUbAZrZjRMkliUUa5gachtxRM8aAaQZXvQ7MjdO2tay0UDMS4xA6J4aMS6a4I-TVWz8HYN/s320/OKEY.jpg" group-title="Malaysia",Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv2swiAXHN9hZSEcNvrUbQV4JTvjugssuFrmao5v_XylTZDsaWSSTIdPNY-8E_L7IxOf-PK-rWZVJUqM_ri2StrZPFyAQ8h-9HjMzp_lQMWL5cb__xW7KvUbyxPKAhHtad16q6bhFk6yn_Z24BTpbzCQc0a1FTOdWsZ1Im2vl42rJjWFKX-7aRk9n01zwF/s320/TV1.jpg" group-title="Malaysia",TV1
@@ -1006,7 +1006,7 @@ http://tvking.xyz:8080/Azman7/3890096/8432
 
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAAAoX3EaanvEqOx6Wq90GHPQ82fjDP0NK64cOzNeHPAy253Frd8J9YrqzyUkt34LTowz7xRqS52aj0T3i9q148L_XXJOewJXBn_M8XFbubsNHcIIWcT4BvN_EcR88f_Uh4AuGrpNXvFn6DmHMFvrACCGp2Yah4cqH_Bd-_SblJJBuHoUzLF2GRAxv8FRk/s320/TV6.jpg" group-title="Malaysia",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV8.jpg" group-title="Malaysia",8TV
