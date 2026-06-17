@@ -941,18 +941,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv2swiAXHN9hZSEcNvrUbQV4JTvjugssuFrmao5v_XylTZDsaWSSTIdPNY-8E_L7IxOf-PK-rWZVJUqM_ri2StrZPFyAQ8h-9HjMzp_lQMWL5cb__xW7KvUbyxPKAhHtad16q6bhFk6yn_Z24BTpbzCQc0a1FTOdWsZ1Im2vl42rJjWFKX-7aRk9n01zwF/s320/TV1.jpg" group-title="Malaysia",TV1
-#EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+http://tvking.xyz:8080/Azman7/3890096/8428
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGXW4ri6ODfmQ4uZIhk4LaAugEf324mxV2jYGvQ8Ma95gFRUQfUk1Khjk-o5LAHtN3Z0Ln4gF4mm0kq-tZyKoyFw2ATpTdleChdXr_22Gm8ZldgKK0ppYlWAYDgbiRnUPzPwLCMrQ03k4uX98A4BfVsX1AKD4DaOJUrzwXify30Z2fUEuHg5v8M7I2weBk/s320/TV2.jpg" group-title="Malaysia",TV2
-#EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+http://tvking.xyz:8080/Azman7/3890096/8429
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJdHgq0S6a21zwEPKpKfAw1V2izUu2ZteqyB8tUKm7xIL_6opMkNKVqyoy_PRVQFopKUImtdP_HMC6MXeXV1zLi7kQQDs7xGkakek5UWN9JqTLrFqEM-pIqHE4ZYWbR7VRCkNDQagAkXty5vacS5SWbPN_-4UsyqIpC9gbX2lAvpkNxFHw0ORo350rSch/s320/TV3.jpg" group-title="Malaysia",TV3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv3
+http://tvking.xyz:8080/Azman7/3890096/8432
 
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAAAoX3EaanvEqOx6Wq90GHPQ82fjDP0NK64cOzNeHPAy253Frd8J9YrqzyUkt34LTowz7xRqS52aj0T3i9q148L_XXJOewJXBn_M8XFbubsNHcIIWcT4BvN_EcR88f_Uh4AuGrpNXvFn6DmHMFvrACCGp2Yah4cqH_Bd-_SblJJBuHoUzLF2GRAxv8FRk/s320/TV6.jpg" group-title="Malaysia",TV6
