@@ -29,6 +29,282 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
+
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQnW-MLFwnlI08ZdQ7WG4V2W8w4kGGHBdBcfIiOJtbtc7lr4rAV53yldIZnYH8c3Ikstz27_3J609BtsyIxKi9Tq2Ls0T1oK9KMbDf2npgZiXrtD0mdruazHd9-QoFpxWcnIDHnEHrHDCrxrYEeMCZIyiN4CiDLA1nKnV3NH4azJAcGpoxK_qirINmNSmU/s320/FIFA.png" group-title="PIALA DUNIA"
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNkfeRF3GoOfPuHZZnh2dizjtjQt21BEoWQbFJQmxiUUJncbJlhzY9HH5wSiBJLYXW0YoUoC9ODCJZFOlw6umTzyFRUyr_z8ULaFuQQnGrlEtX3wu3o2uubfEmMf8lP8kGTy__nzX4eIlMdZ1Y3F7BKroxWOayCvSBriLie4dl8-OPE83YUTYLYzjIAKGr/s320/TVSP.jpg" group-title="PIALA DUNIA",TVRI Sport
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/kfYOQpF.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Tyc Sports Argentina)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+
+(Play)
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/nCdKYqn.jpeg" tvg-id="itzreisa.id" group-title="PIALA DUNIA",FIFA World Cup (Tsn 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/349014
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/5dnO8Zs.jpeg" tvg-id="itzreisa.id" group-title="PIALA DUNIA",FIFA World Cup (Tsn 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/349015
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/HhWavUG.jpeg" tvg-id="itzreisa.id" group-title="PIALA DUNIA",FIFA World Cup (Tsn 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/349016
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/GT3FuqV.jpeg" tvg-id="itzreisa.id" group-title="PIALA DUNIA",FIFA World Cup (Tsn 4)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/349017
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/PhLreC2.jpeg" tvg-id="itzreisa.id" group-title="PIALA DUNIA",FIFA World Cup (Tsn 5)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/349018
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gAghUfq.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Mono 29 Thai)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-name="Brunei" tvg-logo="https://i.imgur.com/viJTEuj.jpeg" tvg-id="itzreisa.id" group-title="PIALA DUNIA",FIFA World Cup (RTB Aneka)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Brunei" tvg-logo="https://i.imgur.com/5DQW1e2.jpeg" tvg-id="itzreisa.id" group-title="PIALA DUNIA",FIFA World Cup (RTB Go Live)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/inDnVLy.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (T Sports)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://amitomar.bdixbd.net/hoichoi.pro1/tracks-v1/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gPteww8.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Unite8 Sports 2 India)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://66.102.126.10:8000/play/a022/index.m3u8
+https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gPteww8.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Unite8 Sports 1 India)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.204.43.87:8080/live/1/1/266.m3u8
+http://66.102.126.10:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (beIN Sports France 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2499/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (beIN Sports France 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2500/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gMTsHX8.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Somoy TV Bangladesh)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (beIN Sports Qatar 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/353014
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/tlyHK4i.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (beIN Sports Qatar 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/353015
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/fEcK3X2.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (beIN Sports Qatar 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/353016
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/YSLWDO0.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (beIN Sports Qatar 4)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/353017
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/nKFtaha.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (beIN Sports Qatar 5)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/353018
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/L1kW5Pi.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (beIN Sports Qatar 6)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/353019
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/WIYY4Wk.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (beIN Sports Qatar 7)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/353020
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/cMeeaJe.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Elta Sports 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/oxOTDgI.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Elta Sports 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-2
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/DxzpkM3.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Elta Sports 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-3
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Cazé TV 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Cazé TV 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Cazé TV 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (TVRI sport Digital 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/351052
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (TVRI sport digital 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (TVRI sport digital 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"} 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
+#https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs 
+#http://202.169.224.202:8800/udp/239.1.2.3:1234
+#http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISPORT)/index.m3u8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/272
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title="PIALA DUNIA",FIFA World Cup (TVRI Nasional Digital 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/351047
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title="PIALA DUNIA",FIFA World Cup (TVRI Nasional Digital 2)
+EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://iptv.kilas7.com:80/kaukia/asdfrewq/8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#http://103.58.160.157:8278/720-TVRI/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="itzreisa.id" group-title="PIALA DUNIA",FIFA World Cup (TVRI Nasional Digital 3)
+.id" group-title="PIALA DUNIA",FIFA World Cup (TVRI Nasional Digital 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/Xq9m8Nd.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (RTVS Sport)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1elamatLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/HcBLwku.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (TVP Sport)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/XAAGTmF.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (DSports)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/551QfXx.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Fox Sports 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+#https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3645.ts
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/WTO4By8.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Fox Sports 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+#https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3646.ts
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/SHm3xFl.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Globo TV)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://hplay.tv/augetv/12396547488/10.m3u8
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",FIFA+ 
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+ 🇦🇹)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-ATBA3300007PT
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+ 🇨🇦)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-CABD1200008JG
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+ 🇨🇭)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-CHBA3300010UC
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+ 🇩🇪)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-DEBA3300019EB
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+ 🇪🇸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-ESBC2700009B4
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+ 🇫🇷)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-FRBA3300037Y7
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+ 🇬🇧)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-GBBD1100008YW
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+ 🇮🇳)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-INBA5100009V3
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+ 🇮🇹)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-ITBD1000002HF
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpegg" group-title="PIALA DUNIA",(FIFA+ 🇰🇷)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-KRBD1900001Y2
+
+#EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.imgur.com/cGvdDNY.jpeg" group-title="PIALA DUNIA",(FIFA+ 🇺🇸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-USBD12000255BLIVE
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJnxSvALN6axBaFaEOYEXV9c-_MbtxK1SyBfEcDaBtXFShJ4tPF7vsK0Exa1fQZBZbjREHvGiJSsghd2cvGiJZGazmUtU6XVtuOLU1RdvG_lFSGj8nIsLBxttW0dndePUOdar_v2tpVs7JkfGsSvZUXR_ZaOUsRVejkWaqEpPVHOm131aeys4ejIwKMbZs/s320/TVRIKAL.jpg" group-title="Lokal",TVRI KalBar
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
@@ -259,6 +535,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 //Collected by @Yunus Palma menampilkan playlist >>> Movies
 //========================================================================
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaVW4Woehbt0UCjdmNhfe9fpQoXoqeC5AqqzFq-HLHbvvDdlH1_OvZOJ2ygPfh6XVx1WT15kSjAVWNs6xYIu7ceA_kG7Wnvb_c0LNFxFOqNbUTpz_F0RudfYF3Abtp4B0xxy3EzPpQ9HBPuKFlwK5aJG7Ve66SCQkjerCP7on7tL3UPHcUbvTVhZsRfSwW/s320/MAXReels.png" group-title="Film",MAXReels
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLyUfUhdHi4DvSP1W3o7wlz-GJRRGm6NaQh8qW0__HKVoIRgZv_kxg9Cd3l0XSUQ4nb3hjEPzxTWYTGVycfGiEk9zWSSQFrgtjqI_OPTK-P1TRbYn1mCQJ_LuCHlqUo8SdcWTZYZak6OrtN63bwp_5vM2bvFAAWNShiAaiXBDLdAbmWHyTfQULir8EeU7/s320/MAXEats.png" group-title="Film",MAXEats
+https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/citrabioskop.jpg?raw=true" group-title="Film",Citra Bioskop 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -286,6 +573,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibd0SE1PjcP_AQwJ3arAfO3J53QUNdfjB3pCvDUCKW8lUsbfE2KIL1p6R7HIOc8Opf2-RptIl02th5mt11_MU_ePQC3V-YpONYi4bFX0fb4EDGgB1pRLDin34ZwFWstyiHX_Lf_fjy3q1dk8RpPu6iTXQtDotXv3uiw2H4KsTqSZI6J_M0lQbcfFE1d_pg/s320/ci.png" group-title="Film",CITRA ENTERTAINMENT
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
+
+
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
@@ -293,9 +588,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_8ijijzlz/landscape_carousel_hdpi.webp" group-title="Film",Kplus
-http://103.148.44.38:8000/play/a01b/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_8ijijzlz/landscape_carousel_hdpi.webp" group-title="Film",Kplus
+https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkS8tBX68Ofo2yc1P9G7_EPnoVLmqqUaPkbB37Jm6ZMeXMekaJzy_Hmu-7yZ3IiZKyzxNWPa54clwJq-3fD6MIEmhrYCnXmem8E-DTnwtz7EYjHCHwNGWnFRLlrSoTXfyF_C6_E12gFVZNJQpqnOGkARUKDuV-n9m7m4rC9wLmx2Xlw9SagbQCLXr4nysy/s320/ChineseDrama.png" group-title="Film"Chinese Drama
+http://103.148.44.38:8000/play/a06w/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -442,7 +745,7 @@ http://203.77.246.58:4500/udp/239.1.3.62:5000
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsFYEgOixoJB66-jrEK6kdjZlrErt_1sgGk4LUH_PgIpog1bAbtkfZhpU9spUQyNusDZ3cjHBK8B_uRWlvALrN04B9CPlIvFNjhpCE8Y-O-W2PGpfpAVQDJTk9xK_HrQ1Xndgccr8ftRMmoEuTY-KZ5tbrdHOz0uaT6f3Z4gplR1f93KLVgyqqOFtArsq4/s320/WARNER.jpg" group-title="Film",Warner TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguXBdEQWr0TlOD2Zm0WDQCCcDyUcXCwtF1_8olBRTk5xwY75QHwOOAZeBRdaW_knUmAr9PPv7FqF00sqkUrbBps5kWXxyjp-xZvPmEx4TvvwizlPTV4bDLag3OZKf3CZew9Xidb71YOUaUQoQR1eWOG1D3CQPvC0dDUR3j0ZMWnvFYFyDqSC_D8Ga52XxQ/s320/wr.png" group-title="Film",Warner TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -524,14 +827,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOQOlTCm20UrWzs6oRetBHHBCZCM751I93iW2sbtBdyqm3hOA5OPc12VLEyr_owL4PY7Hc9i_qIPcRuiIA2k_Lg5T-0GEj2o3BLEv6U2ppD71l8fCnaFNCo2cK5ft22MX3gDItQV2YF7C2rRQJ7yEKYf4mIjPACNNDP-9MGM9mXe14PMXmLu9lI8Ws2MT/s432/VISIONPRIME.png" group-title="Film",Vision Prime
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOQOlTCm20UrWzs6oRetBHHBCZCM751I93iW2sbtBdyqm3hOA5OPc12VLEyr_owL4PY7Hc9i_qIPcRuiIA2k_Lg5T-0GEj2o3BLEv6U2ppD71l8fCnaFNCo2cK5ft22MX3gDItQV2YF7C2rRQJ7yEKYf4mIjPACNNDP-9MGM9mXe14PMXmLu9lI8Ws2MT/s432/VISIONPRIME.png" group-title="Film",Vision Prime
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
@@ -688,6 +990,22 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> Sports
 //========================================================================
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiarptOJD8Ogz1fstate_dVU9RbuQuovFWmlxdwcbj2yfX09sKC8E7rW98S76EWxNqmAWPcB2PHl75vrYZWYX03NL8OINVbMeNrs_PURmG0EQKTVUQaSN20vw9B0nR4F7ZPsCLRoNHOPYR23g09So8TjwappKgupwt9lr6Lv_xCs2LHehsM1_8oOYkQ8Imo/s320/maxsport.png" group-title="Olah Raga",MAX SPORT
+https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ-GupiPD5hiZZIN97COKZhHja5UDNrrYA66L4Fun0MaBP6ZHOcU5kv-fYPP0iC0oomMwMNoh4kW4X7bAQpVfHWmkgBbtCYMrvavTf418AaPTqL2-MC-yHc_f4KrIyFseUc4kEHKU4GxdBNTW32yU5H1aYcM-3i3U_H9F0lxMfvwWrdpQ2d7MZ4s0obBP8/s320/MAXStreak.png" group-title="Olah Raga",MAX STREAK
+https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/S9dyHK4hCY-jmoBd7LMd0lJAhWc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-8dbf5a.jpg" group-title="Olah Raga",NBA
@@ -939,7 +1257,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSNLAhWEPSPG7lyrMne0VkDJ_YG1E7tv9X_IOWy2RjQN5mCb9BtEstSv8x40mIA0X5ODCN3UAOhjT8F8Pb3jQppgvqtfViB40fO78lh75pW5sctkrY3YwhOJCUbAZrZjRMkliUUa5gachtxRM8aAaQZXvQ7MjdO2tay0UDMS4xA6J4aMS6a4I-TVWz8HYN/s320/OKEY.jpg" group-title="Malaysia",Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv2swiAXHN9hZSEcNvrUbQV4JTvjugssuFrmao5v_XylTZDsaWSSTIdPNY-8E_L7IxOf-PK-rWZVJUqM_ri2StrZPFyAQ8h-9HjMzp_lQMWL5cb__xW7KvUbyxPKAhHtad16q6bhFk6yn_Z24BTpbzCQc0a1FTOdWsZ1Im2vl42rJjWFKX-7aRk9n01zwF/s320/TV1.jpg" group-title="Malaysia",TV1
@@ -955,7 +1273,7 @@ http://tvking.xyz:8080/Azman7/3890096/8432
 
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAAAoX3EaanvEqOx6Wq90GHPQ82fjDP0NK64cOzNeHPAy253Frd8J9YrqzyUkt34LTowz7xRqS52aj0T3i9q148L_XXJOewJXBn_M8XFbubsNHcIIWcT4BvN_EcR88f_Uh4AuGrpNXvFn6DmHMFvrACCGp2Yah4cqH_Bd-_SblJJBuHoUzLF2GRAxv8FRk/s320/TV6.jpg" group-title="Malaysia",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/TV8.jpg" group-title="Malaysia",8TV
@@ -3140,9 +3458,8 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 VOD KOREA
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-#EXTINF:-1 group-logo="https://imgur.com/a/sCLBcZw",VOD KOREA
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/204393941/eb24bf06559f6833b9d6e413b49abedb94993779" group-title="Bioskop Korea", Love Clinique
+#EXTINF:-1 tvg-logo="https://prod-images.viu.com/204393941/eb24bf06559f6833b9d6e413b49abedb94993779" group-title="Bioskop Korea",Love Clinique
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234513&quality=s240p&product_id=2576995&lang=Malay
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166234510/1166235143/e995772c3f8cac3c4df6be1805caeb638817c94f" group-title="Bioskop Korea", Office
