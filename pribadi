@@ -1,4 +1,4 @@
-
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQnW-MLFwnlI08ZdQ7WG4V2W8w4kGGHBdBcfIiOJtbtc7lr4rAV53yldIZnYH8c3Ikstz27_3J609BtsyIxKi9Tq2Ls0T1oK9KMbDf2npgZiXrtD0mdruazHd9-QoFpxWcnIDHnEHrHDCrxrYEeMCZIyiN4CiDLA1nKnV3NH4azJAcGpoxK_qirINmNSmU/s320/FIFA.png" group-title="PIALA DUNIA"
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
 ##########################################################################################
 ######                      JANGAN DIREBRANDING                                     ######
@@ -304,7 +304,7 @@ https://jmp2.uk/stvp-USBD12000255BLIVE
 
 
 
-
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghlkcDSoVy73cghfzXg9DxaIr5mq_4ZehI97uzHSFRc8qmYEX4sgsBMqQ070RKd3SbVxRZ4CntaTl7xnSdJ1tbEK5aH_X64FSHFm6XbV-ukiUHdfsg54YeF0X4SA5Ke1IuxSamel0DI8qCuH__nRjYTZuvE1jSXu5kTyeypmqLPSQgQmILjM8MPyLl6Uir/s320/INDONESIA.jpg" group-title="Lokal"
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJnxSvALN6axBaFaEOYEXV9c-_MbtxK1SyBfEcDaBtXFShJ4tPF7vsK0Exa1fQZBZbjREHvGiJSsghd2cvGiJZGazmUtU6XVtuOLU1RdvG_lFSGj8nIsLBxttW0dndePUOdar_v2tpVs7JkfGsSvZUXR_ZaOUsRVejkWaqEpPVHOm131aeys4ejIwKMbZs/s320/TVRIKAL.jpg" group-title="Lokal",TVRI KalBar
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
@@ -535,6 +535,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 //Collected by @Yunus Palma menampilkan playlist >>> Movies
 //========================================================================
 
+
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf2qsXRbX2t3uuRPEYgop_eXyQJrsMJAN9RwkCT4QEHAn0_f2uHFXlovyc2t9-U8Hq076vcTsbFFsFuUzx1MFEtbMg9S0zYPzM6s7RbNSH8_W_kxsHyvTUMHKnQsljSKWScyd6y-U_wnfB08nQfvLtAuVWfNiPgJwC_bbMuf9pflPc5NyAXbhMhVY4RPjm/s320/MOVIES.jpg" group-title="Film"
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaVW4Woehbt0UCjdmNhfe9fpQoXoqeC5AqqzFq-HLHbvvDdlH1_OvZOJ2ygPfh6XVx1WT15kSjAVWNs6xYIu7ceA_kG7Wnvb_c0LNFxFOqNbUTpz_F0RudfYF3Abtp4B0xxy3EzPpQ9HBPuKFlwK5aJG7Ve66SCQkjerCP7on7tL3UPHcUbvTVhZsRfSwW/s320/MAXReels.png" group-title="Film",MAXReels
@@ -874,7 +876,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 //Collected by @Yunus Palma menampilkan playlist >>>HBO Premium
 //========================================================================
 
-
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitDjhzAWDd1bNyfLd6Y6byhOPxL5xfzNefZeY19tk3IABr3Twz6x_Fqhh2w3LwMt_rDHIRc6hsrgdTSPoeY4sl8Q1M-TtbwAWs8l2z-FNF0zRWuwAfTvf02zyfc2PCGXC7AK7DTMynNK1O6fxijGgPi3HZWtxBYbg5fk9xoo0wELx0i-62wz6c-fXd1e9C/s320/HBOTV.jpg" group-title="HBO Premium"
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -934,7 +936,7 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 //Collected by @Yunus Palma menampilkan playlist >>> News
 //========================================================================
 
-
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL9ArkFF3pFe2MS2jU4juEG9bB_picMsV2ZscFcGwfQaiBxWsIh913cxhfNp81FXyYMoZWHB_xcJC3eWkPjUqn78X0Cizs5bpco9hqxtbQQslU2gW-QsA-TRAtYeUtA1zFASyIoDLJPtIAhupuPrkBDi2x9fx1WSMvJKBpKlJPVwb4QS73fPJjslX5QrLj/s320/BERITA.jpg" group-title="Berita"
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -991,7 +993,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 //Collected by @Yunus Palma menampilkan playlist >>> Sports
 //========================================================================
 
-
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxl-KonO2RA65X2NiJ1oUQT4Bt7JlIJ_GIIQe7POpKtByotxx4S_d91XcRdjBt1GQMXVZck-C7XV4sErw154iKvqy5va-PRAVswHEwbj4ZJgwVcBNx3T1KmRprnyb-2PRepNOO1zn6Mvc72kgzgA457UkFrxR279TTSeC0vrFpY-UlRErVGtpmaRO_ty8u/s320/OLAHRAGA.jpg" group-title="Olah Raga"
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiarptOJD8Ogz1fstate_dVU9RbuQuovFWmlxdwcbj2yfX09sKC8E7rW98S76EWxNqmAWPcB2PHl75vrYZWYX03NL8OINVbMeNrs_PURmG0EQKTVUQaSN20vw9B0nR4F7ZPsCLRoNHOPYR23g09So8TjwappKgupwt9lr6Lv_xCs2LHehsM1_8oOYkQ8Imo/s320/maxsport.png" group-title="Olah Raga",MAX SPORT
@@ -1169,6 +1171,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 //Collected by @Yunus Palma menampilkan playlist >>> Religi
 //========================================================================
 
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6I5sSXFjS_zjKaMdJICYhf9odQUgNH8mVW4Hq4XP6hZ7_FCGUg4xqGJn3ycjhpPhOVT6vALPDLg02hgNGTQ_1A9VCvac9XmQ8uVfBk3oBakJmxDHA7c_1Dcf0HIS2DOPHDsOWA-2OqmcORADNYTaGdwNA4D_xinKyE_8s90qlsUeGpmrqWfupj5oNCi60/s320/RELIGI.jpg" group-title="Religi"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
@@ -1352,6 +1355,11 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> Musik
 //========================================================================
+
+
+
+
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZZlDj7sibqO8POdDrRp4YVNDMfEwmNPbMCQRFteAzLjEbJqOWroiz6Cby_o9bkxkHFP5dpatsY84v0dEUtScqxyPPR_KClsnHkcXdDKZd6Hs2fprgZV1fxSRjEz8DOCZpWs0o08UE_2f2hiHPtRD2ygWShcVHSzz4VF5QEN3DGD1fQ-1T8e4iKR02mRC/s320/MUSIK.jpg" group-title="Musik"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1421,7 +1429,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s21/S4/mnf.m3u8
 //Collected by @Yunus Palma menampilkan playlist >>> Kids
 //========================================================================
 
-
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7WZeCuehsDaJBzK5LLjZELbfL9E5uuv-uUy0PnRbbqF6RyvYIo9ke7XfkvW82aSFoUa3ytlPxMoYAdacArA4WwCTRNl4a13D2hp0YJEJGuFURQUdVL8cFFDGTlo7VVRSmi7QRnVQM6w5PNYKmtGfTSGZe5szE_S629HfK1cvA6gB-aRKmDqWP-dfHvcec/s320/ANAK.jpg" group-title="Anak"
 #EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_0hjh536t/landscape_carousel_hdpi.webp" group-title="Anak",Mentari
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1543,6 +1551,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/ind
 //========================================================================
 
 
+
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2zTs-iF2zcaD9SFrGVcfVGx_W5jYREMVmh5zDgJX3xFSlOc0IeOciPsyv7dUMsKiHvDUS2Fmh19sHWa50Sooh_SwmztuTMcmDo50i6oqaAgRGaPZ8PgvQos-3KOrpNn2PHDmJe4dgXjmbPmR-a5QetlVMKk2pu85TR71D4tQxOoYd4QqhXUh4CSDCV99U/s320/HIBURAN.jpg" group-title="Hiburan"
 #EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3q4th1ok/landscape_carousel_hdpi.webp" group-title="Hiburan",AFN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
@@ -1625,7 +1635,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 
 
 
-
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI5ndeDpTTiZcypK3MYJn6W0niwuL_aDnX8MzoSS6joN-a42WhANE0uhl-rQ6PY5n7HffTjQZxP-tMFzHurzjLOhSdDv8iO0xGSle2txqRHkfCbBd8LRZ9qdwqwRinc4Gp_xsz76FQexKrI_9fxagQaEkAaH-bMYnWDzpkb_d0KcQc1J4AQPbiv-6DHCaB/s320/PENGETAHUAN.jpg" group-title="Pengetahuan"
 #EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2026/04/cgtn-live-stream-hd-300x169.webp" group-title="Pengetahuan",CGTN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1669,7 +1679,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgdxmT64M_YbnH7VKuTClWLyjx6f2vR8wuu6UvEbwC9JrfUJOhkvZEmS6gFbR64QbbMtDkXTNexm0IhM-5T7Zl1Fzwmf653R_E-DszkW2wFm9M9zmcbbIT_6Xpd1eO-zcOePuLAyn83nW-aJdiMrCC41DEh__zCJIiD1NMQidGQhwAXClgyHs9CMAOm0bq/s320/VODCAMPUR.jpg" group-title="Bioskop Online"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-panor-2-2026-lk21-150x225.jpg.webp" group-title="Bioskop Online",Panor 2
 https://drive.usercontent.google.com/download?id=1XMRjE9ZCOcmSlVU1PQZX-1ZssSunUeAu&export=download&authuser=0&confirm=t&uuid=5c1f61e4-43be-4a75-b8d2-19444cdd3f8f&at=ALBwUgmCUoTW7LzW43UXomthPjVI%3A1779451833963
 
@@ -3458,7 +3468,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 VOD KOREA
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsyy6loVc9hLa_7Ch43b5TeA-MIMJQKDQbsj_DA2YBMuH1g0z-60veKdKZMb7KhgdXNgdmDDT66mnZf9cD0U_Sm09H-00A1f_uhQhv6ZslzZkvqQd64G7Ruch7rTtd0SKmW0c0B_9GxM2XU9FIOBa93A8SiTlJVHgTXB_ymbl8x36NG4E2t6bJQCqSHdvu/s320/VODKOREA.jpg" group-title="Bioskop Korea"
 #EXTINF:-1 tvg-logo="https://prod-images.viu.com/204393941/eb24bf06559f6833b9d6e413b49abedb94993779" group-title="Bioskop Korea",Love Clinique
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234513&quality=s240p&product_id=2576995&lang=Malay
 
