@@ -1,4 +1,4 @@
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQnW-MLFwnlI08ZdQ7WG4V2W8w4kGGHBdBcfIiOJtbtc7lr4rAV53yldIZnYH8c3Ikstz27_3J609BtsyIxKi9Tq2Ls0T1oK9KMbDf2npgZiXrtD0mdruazHd9-QoFpxWcnIDHnEHrHDCrxrYEeMCZIyiN4CiDLA1nKnV3NH4azJAcGpoxK_qirINmNSmU/s320/FIFA.png" group-title="PIALA DUNIA"
+
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
 ##########################################################################################
 ######                      JANGAN DIREBRANDING                                     ######
@@ -31,9 +31,19 @@
 
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQnW-MLFwnlI08ZdQ7WG4V2W8w4kGGHBdBcfIiOJtbtc7lr4rAV53yldIZnYH8c3Ikstz27_3J609BtsyIxKi9Tq2Ls0T1oK9KMbDf2npgZiXrtD0mdruazHd9-QoFpxWcnIDHnEHrHDCrxrYEeMCZIyiN4CiDLA1nKnV3NH4azJAcGpoxK_qirINmNSmU/s320/FIFA.png" group-title="PIALA DUNIA"
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNkfeRF3GoOfPuHZZnh2dizjtjQt21BEoWQbFJQmxiUUJncbJlhzY9HH5wSiBJLYXW0YoUoC9ODCJZFOlw6umTzyFRUyr_z8ULaFuQQnGrlEtX3wu3o2uubfEmMf8lP8kGTy__nzX4eIlMdZ1Y3F7BKroxWOayCvSBriLie4dl8-OPE83YUTYLYzjIAKGr/s320/TVSP.jpg" group-title="PIALA DUNIA",TVRI Sport
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg88gEWIlOI9trB2T-w4bAHSqyDSNJ_tOa7JbbLn8YyUV9CyYHpnhe8otBfoyxYrQ-XiDl9EBvgswX7mCpd76teXK4i6Bp95d2y7SIvZbQZBuSjD7YQuls8rDWZf6zL5ExYMv-6fiaB-n2vShV-yL76n8z7DfEC1eY2GSku5hZvJaGj5ONEMKQGFPRPxcUg/s320/sport.png" group-title="PIALA DUNIA",TVRI Sport
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ_0YaIG7O-UeQkUEtnub8x0kLZU8366asm4_3JBQsj9NhmklhJaYzO_fMFcVQJiiOj6KMWrbpuD_TpkejZo7kOYwe4PjEZgXslKRJyuaP0I20oztKrXa7gYeGKXorblZHoE5HLdVgylI4-ANBLmZvjGqXV3CHbwzAJ1tjMpNm1AU_gBE2DKsBHrA1X3hM/s320/nasional.png" group-title="PIALA DUNIA",TVRI Nasional
+.id" group-title="Live Event Tim Nasional", FIFA World Cup (TVRI Nasional Digital 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/kfYOQpF.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA",FIFA World Cup (Tyc Sports Argentina)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
