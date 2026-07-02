@@ -31,16 +31,26 @@
 
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbVQ16XOqIsO0fIHkxzYBvBE-C7axEzu-CqktMAlBW1ULRoIGz7UqJOiNhBcxBVamCZM_K9mvBXHlAwROjyZdKkf3sFEqw84PngT-YzcfzMFeL8MdUykDkBp4EtoNXK0qWNQohLX_6xbjzKFUuqu70gA4WIva9E5SZj1vUpV_jnGOh60vOVAszRey_zWlC/s320/PL.jpg" group-title="PIALA DUNIA 2026"
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg88gEWIlOI9trB2T-w4bAHSqyDSNJ_tOa7JbbLn8YyUV9CyYHpnhe8otBfoyxYrQ-XiDl9EBvgswX7mCpd76teXK4i6Bp95d2y7SIvZbQZBuSjD7YQuls8rDWZf6zL5ExYMv-6fiaB-n2vShV-yL76n8z7DfEC1eY2GSku5hZvJaGj5ONEMKQGFPRPxcUg/s320/sport.png" group-title="PIALA DUNIA 2026",TVRI sport Max Stream On Saat Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tencent-css.byteplaycdn.com/bc45d110f4e170d2614174ed09e43948/6A45DAAC/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=tvri-sport
+#http://opplextv.cyou:8080/nasir6160/nasir/351052
+
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbVQ16XOqIsO0fIHkxzYBvBE-C7axEzu-CqktMAlBW1ULRoIGz7UqJOiNhBcxBVamCZM_K9mvBXHlAwROjyZdKkf3sFEqw84PngT-YzcfzMFeL8MdUykDkBp4EtoNXK0qWNQohLX_6xbjzKFUuqu70gA4WIva9E5SZj1vUpV_jnGOh60vOVAszRey_zWlC/s320/PL.jpg" group-title="PIALA DUNIA 2026"
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg88gEWIlOI9trB2T-w4bAHSqyDSNJ_tOa7JbbLn8YyUV9CyYHpnhe8otBfoyxYrQ-XiDl9EBvgswX7mCpd76teXK4i6Bp95d2y7SIvZbQZBuSjD7YQuls8rDWZf6zL5ExYMv-6fiaB-n2vShV-yL76n8z7DfEC1eY2GSku5hZvJaGj5ONEMKQGFPRPxcUg/s320/sport.png" group-title="PIALA DUNIA 2026",TVRI Sport
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ_0YaIG7O-UeQkUEtnub8x0kLZU8366asm4_3JBQsj9NhmklhJaYzO_fMFcVQJiiOj6KMWrbpuD_TpkejZo7kOYwe4PjEZgXslKRJyuaP0I20oztKrXa7gYeGKXorblZHoE5HLdVgylI4-ANBLmZvjGqXV3CHbwzAJ1tjMpNm1AU_gBE2DKsBHrA1X3hM/s320/nasional.png" group-title="PIALA DUNIA 2026",TVRI Nasional
-.id" group-title="Live Event Tim Nasional", FIFA World Cup (TVRI Nasional Digital 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-http://103.148.44.38:8000/play/a03t/index.m3u8
+EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://iptv.kilas7.com:80/kaukia/asdfrewq/8
 
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/9oqHNzY.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",Tipik
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
