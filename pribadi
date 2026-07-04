@@ -297,17 +297,25 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 
 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_gv023ysj/landscape_carousel_hdpi.webp" group-title="Lokal",BTV
-https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
 
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0gFWKZO7GvvcnVtEaNHoAA5gMfM=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="Lokal",Berita Satu
-https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0gFWKZO7GvvcnVtEaNHoAA5gMfM=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="Lokal",Berita Satu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="Lokal",TVOne
