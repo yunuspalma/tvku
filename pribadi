@@ -30,7 +30,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbVQ16XOqIsO0fIHkxzYBvBE-C7axEzu-CqktMAlBW1ULRoIGz7UqJOiNhBcxBVamCZM_K9mvBXHlAwROjyZdKkf3sFEqw84PngT-YzcfzMFeL8MdUykDkBp4EtoNXK0qWNQohLX_6xbjzKFUuqu70gA4WIva9E5SZj1vUpV_jnGOh60vOVAszRey_zWlC/s320/PL.jpg" group-title="PIALA DUNIA 2026"
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9BDHujhpOIDjZf6A8bxlzxlKYXw8SRxwoAmL5ie9sXR3XyZdMBGL2fqOAVBUW3E3pGvPc422zzIykWP66I7O2fXIdVteyo4hXZnHeq5zsk-VTmthl0FkNJLadNCZFcMLuaoummMhPH09fNPWurEMVlCi_b2OgmdGfNUnTc708lJ3JmWgGt8HKPXkMUzJH/s320/wc26.png" group-title="PIALA DUNIA 2026"
 
 
 
@@ -133,6 +133,8 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfIx_qmvgLB9n5EK8PwaXcP2XdA3Nxo8xV04616I1svJNzNlTBqzMGhOiyALDOZfLG7nhqXlFwLJwu4AUhP5gT3Kmul3Mi26npaZ_fEPuwjtmvsmb1WG9s7X_BSpfaQZnuexV46qV9xrDozT109g75w7CKDFA2xjiQ79NCdMxmBAtoBgkcHKD9Tfs6wKyi/s320/tic.png" group-title="Lokal",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/pontv.jpg" group-title="Lokal",PonTv
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
