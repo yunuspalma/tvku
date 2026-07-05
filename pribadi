@@ -31,27 +31,9 @@
 
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbVQ16XOqIsO0fIHkxzYBvBE-C7axEzu-CqktMAlBW1ULRoIGz7UqJOiNhBcxBVamCZM_K9mvBXHlAwROjyZdKkf3sFEqw84PngT-YzcfzMFeL8MdUykDkBp4EtoNXK0qWNQohLX_6xbjzKFUuqu70gA4WIva9E5SZj1vUpV_jnGOh60vOVAszRey_zWlC/s320/PL.jpg" group-title="PIALA DUNIA 2026"
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg88gEWIlOI9trB2T-w4bAHSqyDSNJ_tOa7JbbLn8YyUV9CyYHpnhe8otBfoyxYrQ-XiDl9EBvgswX7mCpd76teXK4i6Bp95d2y7SIvZbQZBuSjD7YQuls8rDWZf6zL5ExYMv-6fiaB-n2vShV-yL76n8z7DfEC1eY2GSku5hZvJaGj5ONEMKQGFPRPxcUg/s320/sport.png" group-title="PIALA DUNIA 2026",TVRI sport Max Stream On Saat Live
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"} 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-#https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs 
-#http://202.169.224.202:8800/udp/239.1.2.3:1234
-#http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
-#https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISPORT)/index.m3u8
-http://iptv.kilas7.com:80/kaukia/asdfrewq/272
 
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbVQ16XOqIsO0fIHkxzYBvBE-C7axEzu-CqktMAlBW1ULRoIGz7UqJOiNhBcxBVamCZM_K9mvBXHlAwROjyZdKkf3sFEqw84PngT-YzcfzMFeL8MdUykDkBp4EtoNXK0qWNQohLX_6xbjzKFUuqu70gA4WIva9E5SZj1vUpV_jnGOh60vOVAszRey_zWlC/s320/PL.jpg" group-title="PIALA DUNIA 2026"
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg88gEWIlOI9trB2T-w4bAHSqyDSNJ_tOa7JbbLn8YyUV9CyYHpnhe8otBfoyxYrQ-XiDl9EBvgswX7mCpd76teXK4i6Bp95d2y7SIvZbQZBuSjD7YQuls8rDWZf6zL5ExYMv-6fiaB-n2vShV-yL76n8z7DfEC1eY2GSku5hZvJaGj5ONEMKQGFPRPxcUg/s320/sport.png" group-title="PIALA DUNIA 2026",TVRI Sport
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ_0YaIG7O-UeQkUEtnub8x0kLZU8366asm4_3JBQsj9NhmklhJaYzO_fMFcVQJiiOj6KMWrbpuD_TpkejZo7kOYwe4PjEZgXslKRJyuaP0I20oztKrXa7gYeGKXorblZHoE5HLdVgylI4-ANBLmZvjGqXV3CHbwzAJ1tjMpNm1AU_gBE2DKsBHrA1X3hM/s320/nasional.png" group-title="PIALA DUNIA 2026",TVRI Nasional
-EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://iptv.kilas7.com:80/kaukia/asdfrewq/8
+
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",Cazé TV 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -102,6 +84,29 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 https://at-live-99.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg88gEWIlOI9trB2T-w4bAHSqyDSNJ_tOa7JbbLn8YyUV9CyYHpnhe8otBfoyxYrQ-XiDl9EBvgswX7mCpd76teXK4i6Bp95d2y7SIvZbQZBuSjD7YQuls8rDWZf6zL5ExYMv-6fiaB-n2vShV-yL76n8z7DfEC1eY2GSku5hZvJaGj5ONEMKQGFPRPxcUg/s320/sport.png" group-title="PIALA DUNIA 2026",TVRI sport Max Stream On Saat Live
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"} 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
+#https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs 
+#http://202.169.224.202:8800/udp/239.1.2.3:1234
+#http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISPORT)/index.m3u8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/272
+
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbVQ16XOqIsO0fIHkxzYBvBE-C7axEzu-CqktMAlBW1ULRoIGz7UqJOiNhBcxBVamCZM_K9mvBXHlAwROjyZdKkf3sFEqw84PngT-YzcfzMFeL8MdUykDkBp4EtoNXK0qWNQohLX_6xbjzKFUuqu70gA4WIva9E5SZj1vUpV_jnGOh60vOVAszRey_zWlC/s320/PL.jpg" group-title="PIALA DUNIA 2026"
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg88gEWIlOI9trB2T-w4bAHSqyDSNJ_tOa7JbbLn8YyUV9CyYHpnhe8otBfoyxYrQ-XiDl9EBvgswX7mCpd76teXK4i6Bp95d2y7SIvZbQZBuSjD7YQuls8rDWZf6zL5ExYMv-6fiaB-n2vShV-yL76n8z7DfEC1eY2GSku5hZvJaGj5ONEMKQGFPRPxcUg/s320/sport.png" group-title="PIALA DUNIA 2026",TVRI Sport
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ_0YaIG7O-UeQkUEtnub8x0kLZU8366asm4_3JBQsj9NhmklhJaYzO_fMFcVQJiiOj6KMWrbpuD_TpkejZo7kOYwe4PjEZgXslKRJyuaP0I20oztKrXa7gYeGKXorblZHoE5HLdVgylI4-ANBLmZvjGqXV3CHbwzAJ1tjMpNm1AU_gBE2DKsBHrA1X3hM/s320/nasional.png" group-title="PIALA DUNIA 2026",TVRI Nasional
+EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://iptv.kilas7.com:80/kaukia/asdfrewq/8
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUmL_kCh4odGwu_OKvHemR8TVIk_rLZuUXk0jp-_V0C0InRz5EYc70gNeG4LfwGVhgK4YLBm8Dh36HI5HQTcte-jEJ7nvY3hhyphenhyphen8f6KH8pQMXCkdtOsfMFP34oJtcIpcLnz4YNhPLndgNV8UhbxmTErwzyUylDdra8d31E2ZtsA8TBKDVqEaStg4Jkl9NO/s320/NASIONAL.png" group-title="Lokal"
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJnxSvALN6axBaFaEOYEXV9c-_MbtxK1SyBfEcDaBtXFShJ4tPF7vsK0Exa1fQZBZbjREHvGiJSsghd2cvGiJZGazmUtU6XVtuOLU1RdvG_lFSGj8nIsLBxttW0dndePUOdar_v2tpVs7JkfGsSvZUXR_ZaOUsRVejkWaqEpPVHOm131aeys4ejIwKMbZs/s320/TVRIKAL.jpg" group-title="Lokal",TVRI KalBar
