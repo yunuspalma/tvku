@@ -135,9 +135,7 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/ott/refs/heads/main/pontv.jpg" group-title="Lokal",PonTv
-#https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/chunklist_w1606515708.m3u8
-#https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
-#https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w1627249822.m3u8
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM-rKw5h5cpWPa0vMWkrgK4wQtZalp9_1G2-1b8vQXiXQnOhIXCW8EAwCDK3qXc2W5vl7_4ali7ExH3j8gd2mHEWEOoox-ioq9FORba0_vdfLq4-dlEAaQtmbu0_7ZZY0TyLJUD4B0w9Mrnzhj_GD1uqGWuqiI_bnU5mSGzWKERU0CKlvWiPN5_GHsT8-e/s320/SCTV%20VIDIO.jpg" group-title="Lokal",SCTV
