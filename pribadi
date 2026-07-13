@@ -410,13 +410,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 
 
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQ4SOrKNx6tEOI__OIgE2qFF3y-ogXOO8VhF0oBMASxRVDLBCgFw-KsxotqzJrlwNm1JCtCqVdRgWwOmSOXPDr2jUpr-5Uo8sRVj8DedZWqTJZqn_y8tK5rWdu1IFnkJ1CIEM5AOb1PJn-tbpI58C5ygTVq_teVFWs7ByNNE1GTIHMYnl8vqhkZcYKQ7q/s320/HN.jpg" group-title="Film",Hits Now
-#https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
-#https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQ4SOrKNx6tEOI__OIgE2qFF3y-ogXOO8VhF0oBMASxRVDLBCgFw-KsxotqzJrlwNm1JCtCqVdRgWwOmSOXPDr2jUpr-5Uo8sRVj8DedZWqTJZqn_y8tK5rWdu1IFnkJ1CIEM5AOb1PJn-tbpI58C5ygTVq_teVFWs7ByNNE1GTIHMYnl8vqhkZcYKQ7q/s320/HN.jpg" group-title="Film",Hits Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=68
+https://ayo.maling.pl/Vision/index.mpd?id=68
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
