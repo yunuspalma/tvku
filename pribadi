@@ -144,6 +144,15 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKGN2TZuMLTbUecXZUFVFBUvvAyl5-iK8tsuy3yORwWpDCqGj_ypdDsKl7o-P_EqrhjqEeAO_GWHJNCpEUYnEiWTt-wSipUK2ABMc_jmj4U-JrXUCJElR9fLOu6OPzhGNJtQJM4ToRzyvtx4QNrsaOQQ9O1gRJfONyzGFaHbIkHsze29OwfkqhqUQtgGET/s320/sindo.jpg" group-title="Lokal",Sindo News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=5
+https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfIx_qmvgLB9n5EK8PwaXcP2XdA3Nxo8xV04616I1svJNzNlTBqzMGhOiyALDOZfLG7nhqXlFwLJwu4AUhP5gT3Kmul3Mi26npaZ_fEPuwjtmvsmb1WG9s7X_BSpfaQZnuexV46qV9xrDozT109g75w7CKDFA2xjiQ79NCdMxmBAtoBgkcHKD9Tfs6wKyi/s320/tic.png" group-title="Lokal",The Indonesia Channel
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 
