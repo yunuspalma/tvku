@@ -4,7 +4,7 @@
 ######                      JANGAN DIREBRANDING                                     ######
 ##########################################################################################
 
-#EXTM3U billed-msg="Channel ini masa aktif telah habis.No Komplain, Terima Kasih.", url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml" refresh="3600"
+#EXTM3U billed-msg="Channel ini masa aktif telah habis.No Komplain, Terima Kasih.", url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="3600"
 
 
 
@@ -39,10 +39,10 @@ http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
 
 
 
-
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ_0YaIG7O-UeQkUEtnub8x0kLZU8366asm4_3JBQsj9NhmklhJaYzO_fMFcVQJiiOj6KMWrbpuD_TpkejZo7kOYwe4PjEZgXslKRJyuaP0I20oztKrXa7gYeGKXorblZHoE5HLdVgylI4-ANBLmZvjGqXV3CHbwzAJ1tjMpNm1AU_gBE2DKsBHrA1X3hM/s320/nasional.png" group-title="PIALA DUNIA 2026",TVRI Nasional
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
+https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
 
 
 
@@ -50,11 +50,8 @@ http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",Tipik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a 
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd 
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",PTV Sports
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",D Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -703,6 +700,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 //========================================================================
 //Collected by @Yunus Palma menampilkan playlist >>> India
 //========================================================================
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzYv9JQaKV01-cuHN3-VTGEfUoLC1Gh6ZcN8RVM6aAeYjWnWD2HTevGNEak8AYuvsABbFLmiOPljsPch1eRWVPDbZCrHAy81DrhPV6w6hmNZqAfipAieuYBm5HMWlpC0-eIg1x9-us4GsiDMOfHt2_ossWOrxODz09tKKwI1EHFqDUpKt50nda0nO6KxhH/s320/ccc.png" group-title="India",colors cineplex
 http://66.102.126.10:8000/play/a076/index.m3u8
