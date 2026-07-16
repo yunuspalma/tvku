@@ -4,7 +4,7 @@
 ######                      JANGAN DIREBRANDING                                     ######
 ##########################################################################################
 
-#EXTM3U billed-msg="Channel ini masa aktif telah habis.No Komplain, Terima Kasih.", url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="3600"
+#EXTM3U billed-msg="TOLONG DIBACA LAGI!.No Komplain, Terima Kasih.", url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="3600"
 
 
 
@@ -714,6 +714,9 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFGIL7YiFK8W9w6pahdZGXjWETTtf2rCwhnL4kBwvO-lgEiVM90SK5yYD9oUYD96mv2Nc_bgQbzCgD38PFlzQ0YxUktltU9a-HCItnANBFMcqrMactUpUjgqslrgs1Donj6tfUVxMkX4LzyFhh9Flf5RV2UanFl-CGXzQqqw6qRJkWPMST_q1erTuIu-F/s320/strhra.png" group-title="India",Stars 4RA
 http://66.102.126.10:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguruIW13RF6xB9fYZ4IVj81z7Xhyphenhyphen9qH9cgIprgIzlSL8GdWi-K0w9j5sGHAqoP3KBdsJahj5QxmD8oU9gboU7XdG9IF-0BUFOlFazA7Gn_kw0KyJnl0hw245ERNy2qriNSJVQPXjLcB9upRW4NY6HWoVop8Gn51ar7nCk37o_h5-HBy_zFkojmlcciL1Pi/s320/9xm.png" group-title="India",9xm
+https://9xjio.wiseplayout.com/9XM/master.m3u8
 
 
 //========================================================================
@@ -1530,6 +1533,131 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhnJbeiBN5jHS4THUdQdL8klYBRH2SJdBxWowAUhJ9RZmhIJ7l2KJKAWFjAHeiDnObs7vF94I8uF6dIdo43RClmIjO_uhRoNVOQJmL5MFlvRf_2PbMJUmpjb-VDR_vWASqIi8dIlbzDVz6T5f7hgqScq3WdZUXGKVCqX3h88t2tZpYFm2uBegGzWVXbCcX/s320/VODCAMPUR.png" group-title="Bioskop Online"
+#EXTINF:-1 tvg-id="auto.13.bomb.di.jakarta" group-title="Bioskop Online",13 Bomb Di Jakarta
+https://pixeldrain.com/api/file/ezqDwxkK?download
+
+#EXTINF:-1 tvg-id="auto.hamka.siti.raham.vol.2" group-title="Bioskop Online",Hamka & Siti Raham Vol. 2
+https://pixeldrain.com/api/file/ZQVckcfF?download
+# "https://pixeldrain.com/api/file/JKM91MwQ?download
+# "
+
+#EXTINF:-1 tvg-id="auto.layangan.putus.the.movie" group-title="Bioskop Online",Layangan Putus: The Movie
+https://pixeldrain.com/api/file/6fwxFxx9?download
+
+#EXTINF:-1 tvg-id="auto.mohon.doa.restu" group-title="Bioskop Online",Mohon Doa Restu
+https://pixeldrain.com/api/file/fNKYLoB8?download
+
+#EXTINF:-1 tvg-id="auto.surga.di.bawah.langit" group-title="Bioskop Online",Surga Di Bawah Langit
+https://pixeldrain.com/api/file/wbFWgdQ1?download
+
+#EXTINF:-1 tvg-id="auto.virgo.and.the.sparklings" group-title="Bioskop Online",Virgo and the Sparklings
+https://jhh7vextfg8r.hgagecdn.com/v/01/00817/cco00u79ja17_n/Virgo_and_the_Sparklings_2023.mp4?t=Et189NJtMhZshhVDx45hY8Js9MUyM-R71tUESbzZhh8&s=1721552935&e=129600&f=4089424&sp=400&i=36.75
+
+#EXTINF:-1 tvg-id="auto.agak.laen" group-title="Bioskop Online",Agak Laen
+https://pixeldrain.com/api/file/st9vqZYF?download
+
+#EXTINF:-1 tvg-id="auto.algrafi" group-title="Bioskop Online",Algrafi
+https://pixeldrain.com/api/file/QXa6Czx5?download
+
+#EXTINF:-1 tvg-id="auto.ali.topan" group-title="Bioskop Online",Ali Topan
+https://pixeldrain.com/api/file/MkWPhQ5s?download
+
+#EXTINF:-1 tvg-id="auto.ancika" group-title="Bioskop Online",Ancika
+https://pixeldrain.com/api/file/owtfAL5s?download
+
+#EXTINF:-1 tvg-id="auto.ayo.balikan" group-title="Bioskop Online",Ayo Balikan
+https://pixeldrain.com/api/file/VxqRRQ1B?download
+
+#EXTINF:-1 tvg-id="auto.bu.tejo.sowan.jakarta" group-title="Bioskop Online",Bu Tejo Sowan Jakarta
+https://pixeldrain.com/api/file/tzav6YZV?download
+
+#EXTINF:-1 tvg-id="auto.cek.ombak.lagi" group-title="Bioskop Online",Cek Ombak ( Lagi )
+https://pixeldrain.com/api/file/zUBcXqQw?download
+
+#EXTINF:-1 tvg-id="auto.demi.si.buah.hati" group-title="Bioskop Online",Demi Si Buah Hati
+https://pixeldrain.com/api/file/c57W6uEZ?download
+
+#EXTINF:-1 tvg-id="auto.dinda" group-title="Bioskop Online",Dinda
+https://pixeldrain.com/api/file/j1HPSh9x?download
+
+#EXTINF:-1 tvg-id="auto.kereta" group-title="Bioskop Online",Kereta
+https://pixeldrain.com/api/file/oCpSqqah?download
+
+#EXTINF:-1 tvg-id="auto.melukis.luka" group-title="Bioskop Online",Melukis Luka
+https://pixeldrain.com/api/file/nXDb1hSE?download
+
+#EXTINF:-1 tvg-id="auto.mukidi" group-title="Bioskop Online",Mukidi
+https://pixeldrain.com/api/file/xDtZjqYB?download
+
+#EXTINF:-1 tvg-id="auto.pasutri.gaje" group-title="Bioskop Online",Pasutri Gaje
+https://pixeldrain.com/api/file/6sQfgr9z?download
+
+#EXTINF:-1 tvg-id="auto.perjalanan.pembuktian.cinta" group-title="Bioskop Online",Perjalanan Pembuktian Cinta
+https://pixeldrain.com/api/file/xvpzbndd?download
+
+#EXTINF:-1 tvg-id="auto.petualangan.sherina.2" group-title="Bioskop Online",Petualangan Sherina 2
+https://pixeldrain.com/api/file/iLy76oSv?download
+
+#EXTINF:-1 tvg-id="auto.sujud.terakhir.bapak" group-title="Bioskop Online",Sujud Terakhir Bapak
+https://pixeldrain.com/api/file/dwi7mgXX?download
+
+#EXTINF:-1 tvg-id="auto.titip.surat.untuk.tuhan" group-title="Bioskop Online",Titip Surat Untuk Tuhan
+https://pixeldrain.com/api/file/845PJ3Gb?download
+# "https://pixeldrain.com/api/file/74gipWbg?download
+# "
+
+#EXTINF:-1 tvg-id="auto.kisah.tanah.jawa.pocong.gundul" group-title="Bioskop Online",Kisah Tanah Jawa: Pocong Gundul
+https://pixeldrain.com/api/file/xTZuUgAW?download
+
+#EXTINF:-1 tvg-id="auto.kutukan.sembilan.setan" group-title="Bioskop Online",Kutukan Sembilan Setan
+https://pixeldrain.com/api/file/smj56rTF?download
+
+#EXTINF:-1 tvg-id="auto.losmen.melati" group-title="Bioskop Online",Losmen Melati
+https://pixeldrain.com/api/file/zBP5ULUD?download
+# "https://pixeldrain.com/api/file/zBP5ULUD?download
+# "
+
+#EXTINF:-1 tvg-id="auto.malam.para.jahanam" group-title="Bioskop Online",Malam Para Jahanam
+https://pixeldrain.com/api/file/a9Y8CEgx?download
+
+#EXTINF:-1 tvg-id="auto.monster" group-title="Bioskop Online",Monster
+https://pixeldrain.com/api/file/kzy3h67F?download
+
+#EXTINF:-1 tvg-id="auto.saranjana.kota.ghaib" group-title="Bioskop Online",Saranjana: Kota Ghaib
+https://pixeldrain.com/api/file/vUGDTTXc?download
+# "https://pixeldrain.com/api/file/RAo1H7gc?download
+# "
+
+#EXTINF:-1 tvg-id="auto.siksa.neraka" group-title="Bioskop Online",Siksa Neraka
+https://pixeldrain.com/api/file/Ya2YKE7h?download
+
+#EXTINF:-1 tvg-id="auto.kereta.berdarah" group-title="Bioskop Online",Kereta Berdarah
+https://pixeldrain.com/api/file/tVDXN7EM?download
+
+#EXTINF:-1 tvg-id="auto.kuyang" group-title="Bioskop Online",Kuyang
+https://pixeldrain.com/api/file/BPrv72bw?download
+
+#EXTINF:-1 tvg-id="auto.pemandi.jenazah" group-title="Bioskop Online",Pemandi Jenazah
+https://pixeldrain.com/api/file/Zb5Seo99?download
+
+#EXTINF:-1 tvg-id="auto.pemukiman.setan" group-title="Bioskop Online",Pemukiman Setan
+https://pixeldrain.com/api/file/gjPCoSJZ?download
+
+#EXTINF:-1 tvg-id="auto.ritual.tumbal.terakhir" group-title="Bioskop Online",Ritual Tumbal Terakhir
+https://pixeldrain.com/api/file/f9HdvnRd?download
+
+#EXTINF:-1 tvg-id="auto.sehidup.semati" group-title="Bioskop Online",Sehidup Semati
+https://pixeldrain.com/api/file/zSNxqv5q?download
+
+#EXTINF:-1 tvg-id="auto.sinden.gaib" group-title="Bioskop Online",Sinden Gaib
+https://pixeldrain.com/api/file/ci2qdnsA?download
+
+#EXTINF:-1 tvg-id="auto.tanduk.setan" group-title="Bioskop Online",Tanduk Setan
+https://pixeldrain.com/api/file/ocwVztMT?download
+
+#EXTINF:-1 tvg-id="auto.trinil" group-title="Bioskop Online",Trinil
+https://pixeldrain.com/api/file/gu6tTkv4?download
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-panor-2-2026-lk21-150x225.jpg.webp" group-title="Bioskop Online",Panor 2
 https://drive.usercontent.google.com/download?id=1XMRjE9ZCOcmSlVU1PQZX-1ZssSunUeAu&export=download&authuser=0&confirm=t&uuid=5c1f61e4-43be-4a75-b8d2-19444cdd3f8f&at=ALBwUgmCUoTW7LzW43UXomthPjVI%3A1779451833963
 
