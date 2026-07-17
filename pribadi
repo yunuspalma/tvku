@@ -255,15 +255,15 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://vidx.semar.my.id/biasa2.mpd?id=205&type=dash
+#https://vidx.semar.my.id/biasa2.mpd?id=205&type=dash
 
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT8lIVHXMP5n9eOTEEC-xPkXP2wEhfZmlX_maMmGLBehj9_oX29wF1oD4u2dxExHfmO6b0uV1GPM4fqIbQGGsaw8lrxdmU0843gPpkjid8cNwqcR-QLaZxLHUu1L9_-Nh0AkcvbYwtYqIDT-JmyrLNlD1H7sug-HTPngW2t69-RxbMM8Q_KThp0qedcErE/s320/INDOSIAR%20VISION.jpg" group-title="Lokal",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8V_B7Lwlp20b1C-PObDsPG8Ssn9BD9SF2RcMLzkhGE3X90jl_0fwlrnj8lDNpVNLXATVc2artGYCzVbiwySn0XaCApgCqL59Hcm4MAMPi9UGJZPnxufMW3EZIdy9jqocFdJggU4rHZg-bMU3OQXoW57hFZxDAWzHO-h7w8XDW26kmtlNc_UscrxL00_UQ/s320/INDOSIAR%20DIGITAL.jpg" group-title="Lokal",Indosiar
