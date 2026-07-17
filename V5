@@ -184,26 +184,42 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0f2I5boA9LShVN7cMKGpHG7T9gQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg" group-title="Lokal",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0f2I5boA9LShVN7cMKGpHG7T9gQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg" group-title="Lokal",RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" group-title="Lokal",MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" group-title="Lokal",MNCTV+
+$EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" group-title="Lokal",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" group-title="Lokal",GTV+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_uakgnhip/landscape_carousel_hdpi.webp" group-title="Lokal",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -1533,27 +1549,27 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhnJbeiBN5jHS4THUdQdL8klYBRH2SJdBxWowAUhJ9RZmhIJ7l2KJKAWFjAHeiDnObs7vF94I8uF6dIdo43RClmIjO_uhRoNVOQJmL5MFlvRf_2PbMJUmpjb-VDR_vWASqIi8dIlbzDVz6T5f7hgqScq3WdZUXGKVCqX3h88t2tZpYFm2uBegGzWVXbCcX/s320/VODCAMPUR.png" group-title="Bioskop Online"
-#EXTINF:-1 tvg-id="auto.13.bomb.di.jakarta" group-title="Bioskop Online",13 Bomb Di Jakarta
+
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2023/11/25/poster-13-bom-di-jakarta_169.jpeg?w=520" group-title="Bioskop Online",13 Bomb Di Jakarta
 https://pixeldrain.com/api/file/ezqDwxkK?download
 
-#EXTINF:-1 tvg-id="auto.hamka.siti.raham.vol.2" group-title="Bioskop Online",Hamka & Siti Raham Vol. 2
+
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2023/12/27/hamka-siti-raham-vol-2_169.png?w=520" group-title="Bioskop Online",Hamka & Siti Raham Vol. 2
 https://pixeldrain.com/api/file/ZQVckcfF?download
 # "https://pixeldrain.com/api/file/JKM91MwQ?download
 # "
 
-#EXTINF:-1 tvg-id="auto.layangan.putus.the.movie" group-title="Bioskop Online",Layangan Putus: The Movie
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2023/10/17/layangan-putus-the-movie_169.png?w=520" group-title="Bioskop Online",Layangan Putus
 https://pixeldrain.com/api/file/6fwxFxx9?download
 
-#EXTINF:-1 tvg-id="auto.mohon.doa.restu" group-title="Bioskop Online",Mohon Doa Restu
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/10/mohon-doa-restu-2.jpg?width=520&height=300&quality=60" group-title="Bioskop Online",Mohon Doa Restu
 https://pixeldrain.com/api/file/fNKYLoB8?download
 
-#EXTINF:-1 tvg-id="auto.surga.di.bawah.langit" group-title="Bioskop Online",Surga Di Bawah Langit
+
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2020/03/16/72738-surga-di-bawah-langit.jpg" group-title="Bioskop Online",Surga Di Bawah Langit
 https://pixeldrain.com/api/file/wbFWgdQ1?download
 
-#EXTINF:-1 tvg-id="auto.virgo.and.the.sparklings" group-title="Bioskop Online",Virgo and the Sparklings
-https://jhh7vextfg8r.hgagecdn.com/v/01/00817/cco00u79ja17_n/Virgo_and_the_Sparklings_2023.mp4?t=Et189NJtMhZshhVDx45hY8Js9MUyM-R71tUESbzZhh8&s=1721552935&e=129600&f=4089424&sp=400&i=36.75
-
-#EXTINF:-1 tvg-id="auto.agak.laen" group-title="Bioskop Online",Agak Laen
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/01/30/sinopsis-film-agak-laen-dok-istimewa_169.jpeg?w=520&q=90" group-title="Bioskop Online",Agak Laen
 https://pixeldrain.com/api/file/st9vqZYF?download
 
 #EXTINF:-1 tvg-id="auto.algrafi" group-title="Bioskop Online",Algrafi
