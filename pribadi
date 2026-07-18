@@ -1604,7 +1604,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=105
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-logo="https://i.imgur.com/tqvEhjU.png" group-title="CARA NONTON VOD"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GDjP2x3.jpeg" group-title="CARA NONTON VOD",LIHAT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqvEhjU.png" group-title="CARA NONTON VOD",LIHAT
 https://drive.usercontent.google.com/download?id=1uvmedPJ_dOR5Ukn4Om51PtNl4S7_DLEo&export=download&authuser=0&confirm=t&uuid=f73fb191-ec31-44ad-bc22-0812bd957360&at=ABswASbWBI_AOmXS-NXFqdrnejAz:1784374978218
 
 
