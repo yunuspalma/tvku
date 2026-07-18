@@ -1635,10 +1635,10 @@ https://pixeldrain.com/api/file/st9vqZYF?download
 #EXTINF:-1 tvg-logo="https://prod-images.viu.com/2677226461/8743c20636e13daa96921ebe88dfa12a1b375377" group-title="Bioskop Online",Algrafi
 https://pixeldrain.com/api/file/QXa6Czx5?download
 
-#EXTINF:-1 tvg-logo="https://imgur.com/QqlsJeo" group-title="Bioskop Online",Ali Topan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sCo103.png" group-title="Bioskop Online",Ali Topan
 https://pixeldrain.com/api/file/MkWPhQ5s?download
 
-#EXTINF:-1 tvg-id="auto.ancika" group-title="Bioskop Online",Ancika
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FC0e7QO.jpeg" group-title="Bioskop Online",Ancika
 https://pixeldrain.com/api/file/owtfAL5s?download
 
 #EXTINF:-1 tvg-id="auto.ayo.balikan" group-title="Bioskop Online",Ayo Balikan
