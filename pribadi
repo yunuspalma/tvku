@@ -460,7 +460,7 @@ http://103.148.44.38:8000/play/a06w/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_kk9nyx3y/landscape_carousel_hdpi.webp" group-title="Film",AXN
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/594/526594-SNAPSHOT-m.jpg" group-title="Film",AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -568,7 +568,7 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707
 
 
 
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_hd1c30bo/landscape_carousel_hdpi.webp" group-title="Film",Hits
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/759/526759-SNAPSHOT-m.jpg" group-title="Film",Hits
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -793,9 +793,9 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 //Collected by @Yunus Palma menampilkan playlist >>> News
 //========================================================================
 
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIhCBUHkMDLj4YtCl0qOZOwLWmfr-Aw3t9R6bg_gu29fYv4y6qSteoB5vf7eYjs1tbeP2M3oIy1yCv_TiE6H6rwEE3mIwil-I_EML9P7H3MrN5XhdQf2gYNEhnEbWRamCvEOHOJflIPPTKCCtixhWfb4vdWKKpLFFWrYB-r5WtGa6ZhHL4ChY85tf2gdD0/s320/NERITA.png" group-title="Berita"
+#EXTINF:-1 group-logo="https://i.imgur.com/Te82Scm.png" group-title="Berita"
 
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_rfc1zphz/landscape_carousel_hdpi.webp" group-title="Berita",IDX Channel
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/555/526555-SNAPSHOT-m.jpg" group-title="Berita",IDX Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1058,7 +1058,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_j93el3os/landscape_carousel_hdpi.webp" group-title="Religi",TVMU
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/524/587524-SNAPSHOT-m.jpg" group-title="Religi",TVMU
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1087,7 +1087,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=153
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=137
 https://ayo.maling.pl/Vision/index.mpd?id=137pd
 
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_wfgm77pv/landscape_carousel_hdpi.webp" group-title="Religi",DAAI TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/872/526872-SNAPSHOT-m.jpg" group-title="Religi",DAAI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1112,7 +1112,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=18
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ss6ehuur/landscape_carousel_hdpi.webp" group-title="Religi",Al Jazeera
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/915/526915-SNAPSHOT-m.jpg" group-title="Religi",Al Jazeera
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
 
 
@@ -1276,7 +1276,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7XkcBCNS2z_s-J65dBWanXt0buMtYcX0-tlfn1jizjzaYGneRKVksAi0OUr4bmF5wleMBGsGCb4e9-vWtqHPH1ykLvnfcYHDTdaRU0u-RHkZXByN6KYj-ZjtzwFsFQ6lyz6N1ml22WQQlBGu6GDEkoLhvugRx0DMtIZ9tIYtg_2wAcltk6kUGo-YObLm8/s320/MU.jpg" group-title="Musik",Music Tv
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/135/50135-SNAPSHOT-m.png" group-title="Musik",Music Tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1319,8 +1319,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s21/S4/mnf.m3u8
 //Collected by @Yunus Palma menampilkan playlist >>> Kids
 //========================================================================
 
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrPxmZq9QtTxOE1q6P7tV-8UE2KmJpskrIZTAsSgAmssj2uWB-7XH3rqbdf11lYCPuEy_MEquuX891unlssXqVEN8kRu_4JKRrSVFPjXNjsM57dwF4SdHlHfyfBC_26lXgDZiqk2MJeAopkjM_wHK4ZfU-VSJax51I67oGMZwhUQ5gKPZpSPgj3Ay8lNrT/s320/ANAK.png" group-title="Anak"
-#EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_0hjh536t/landscape_carousel_hdpi.webp" group-title="Anak",Mentari
+#EXTINF:-1 group-logo="https://i.imgur.com/qOW94TF.png" group-title="Anak"
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/151/571151-SNAPSHOT-m.jpg" group-title="Anak",Mentari
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -1370,7 +1370,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=67
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh4tN1MQTkUKbFaAAHVzOT4wJkaSUrNp2c1Rz9QlRA51gjAwnCX1Q_KPJV9nshEKwqPXWPvkbmHwuZqpd_TpErNrNkCYk0q_CpuSzl3spuDTUoxwUKmrO7ke9lcBifi2ZkPOCKqy7uCdIH0Jx2XJn2Ra4M4eCsp7KtW_lVjESgAkXGJAkiF0bb2meWXO8C/s320/BUDI.jpg" group-title="Anak",Buddy Star
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/678/525678-SNAPSHOT-m.jpg" group-title="Anak",Buddy Star
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 
@@ -1409,7 +1409,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=60
 
 
 
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/FUz9Qyi9It56LTmpomftyB_blFr7HaZuVt1pni95LHS_orrt0kxrzm9L-gq76xgasA=w526-h296-rw" group-title="Anak",Kids TV
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/932/76932-SNAPSHOT-m.jpg" group-title="Anak",Kids TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1425,7 +1425,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=56
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
 
-#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/731/28731-SNAPSHOT-m.jpg" group-title="Anak",CBeebies
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/709/526709-SNAPSHOT-m.jpg" group-title="Anak",CBeebies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1435,7 +1435,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 https://ayo.maling.pl/Vision/index.mpd?id=58
 
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/NL2ytHLFBoIjkPLiyKLfw_APeFA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-0c857b.jpg" group-title="Anak",ZOOMOO
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/463/74463-SNAPSHOT-m.jpg" group-title="Anak",ZOOMOO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
