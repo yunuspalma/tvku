@@ -57,11 +57,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",PTV Sports
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",D Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",Fox
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511 
@@ -114,7 +110,7 @@ https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="Lokal",TVRI
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/083/587083-SNAPSHOT-m.jpg" group-title="Lokal",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -348,7 +344,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_gv023ysj/landscape_carousel_hdpi.webp" group-title="Lokal",BTV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/598/526598-SNAPSHOT-m.jpg" group-title="Lokal",BTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -368,7 +364,7 @@ https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="Lokal",TVOne
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/532/525532-SNAPSHOT-m.jpg" group-title="Lokal",TVOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
@@ -436,7 +432,7 @@ https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibd0SE1PjcP_AQwJ3arAfO3J53QUNdfjB3pCvDUCKW8lUsbfE2KIL1p6R7HIOc8Opf2-RptIl02th5mt11_MU_ePQC3V-YpONYi4bFX0fb4EDGgB1pRLDin34ZwFWstyiHX_Lf_fjy3q1dk8RpPu6iTXQtDotXv3uiw2H4KsTqSZI6J_M0lQbcfFE1d_pg/s320/ci.png" group-title="Film",CITRA ENTERTAINMENT
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/661/587661-SNAPSHOT-m.jpg" group-title="Film",Drama World
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/661/587661-SNAPSHOT-m.jpg" group-title="Film",Drama Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -844,7 +840,7 @@ https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/o
 https://ayo.maling.pl/Vision/index.mpd?id=133
 
 
-#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_fn0qos3d/landscape_carousel_hdpi.webp" group-title="Berita",INews
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/417/525417-SNAPSHOT-m.jpg" group-title="Berita",INews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
@@ -898,7 +894,7 @@ https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dBMf_WAWW0JVeB5hVsaXQbYSxv4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg" group-title="Olah Raga",beIN Sports 1 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtsQYsLMhqM3WZTE4XSk9ZEJvebGYxhDExX_sVgvQJ8BbFIEGWfI4n_nQ6gJHrruj63TPxxkb6nL0V96h-rTmRJ2W9q8tI1C5VlO7WKsWHFrf9X1xzX8uGSzPl1bh2Y1V51_k8bjmMsK6TxqbJSKUJPQsarjwOAW2Nwq3gTtZ8mGDz4dHkSIZytg8hRbEu/s320/B1.png" group-title="Olah Raga",beIN Sports 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -908,7 +904,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 https://ayo.maling.pl/Vision/index.mpd?id=122
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ISNhueISzA_MA5mdtCYkQxVYE3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg" group-title="Olah Raga",beIN Sports 2 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO1BVRn48Ojv8ENA8AGBQDhAKLzGqpflX0t_3jy9_j7bUC9XPvdbQaoQmcIe4BAEB1wOChB7h2tvqk_q8rbU7FB2OmTMg2QFqug0abXQaKylcCBYnX3XaUAbGZ6ynPhMJRJTj81zbiwjbXW4xLWpu0xC7T8JS4VnDwUR2AuDSdKqqAFxnumsI_c0mJbzL/s320/B2.png" group-title="Olah Raga",beIN Sports 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -918,7 +914,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=122
 https://ayo.maling.pl/Vision/index.mpd?id=123
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/57EvfUwIGo03MdOsFiN6ff6Jczw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg" group-title="Olah Raga",beIN Sports 3
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwUZkw5pgSLBhBHzZNoW8rB699FLmdbumi61wBPtoP4LgJI5wdScFs8bBi6DgRpY3Mafr59SjKG9h3IqI_bp3HECa9luKkM_6Qsg8_m5HQmBUmT7q8mmGyqZ-g46dlpXlRGne2sbY59xHXO20Nix21oKeSqN6XOPPl_o9Yr-6Y223vX0V3ZzSmjtNDQyyg/s320/B3.png" group-title="Olah Raga",beIN Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -927,7 +923,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=123
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=124
 https://ayo.maling.pl/Vision/index.mpd?id=124
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/B4.png?raw=true" group-title="Olah Raga",beIN Sports 4 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNf4VWSLvZ4C9lEY6O4oWZ6ivTFKAzkcEgwEZAUsFevcRqg0flvPTyt0IlVU0Vf-ZPsZvxVzUvoA8zX1bIZIKzs7PWJBs8oDmINRCXCo9W34IpNc1FHUJXZTJEmrsj_RmpgonWXdZMIXiJq133lGKWlNUSc7wwc3fdr7IffcKMMbhWba8K3dSKe-IZ323M/s320/B4.png" group-title="Olah Raga",beIN Sports 4 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -936,7 +932,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=124
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=125
 https://ayo.maling.pl/Vision/index.mpd?id=125
 
-#EXTINF:-1 tvg-logo="https://github.com/Khorizil/81/blob/main/B5.png?raw=true" group-title="Olah Raga",beIN Sports 5
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO0HR32dgjbShGA-nveZvuec6xkRm5Ws6HkNAGz18x1JHENCJbC7LF88jxD8aAOOIW3k_OZBsj4sapXKSPBbCLYd1JF2zdHltAgWMzLjxP50dyQgwNkOL9G8EKkqNT22dLL9seN969IsDn3-OdxOeLX41xlNAU8Ti18CLCs-Is8AuTdRDzCV1ZHt41zkzh/s320/B5.png" group-title="Olah Raga",beIN Sports 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -969,7 +965,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=120
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" group-title="Olah Raga",SportStars
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMALK3mH8_gms9XyL-Z4uSYV3UUJQbt1psL4eZfzPGuWidLfN9gvPmbj-G9ZID_O2XOCt5VHxiF9lOHYUL1q1gZTu6_-DUoNSgY1VddCekYTmCDUX1M0NvMDV94w7WbB-gpnKH4RIX3dMnyINnHxEPkxDvg-YaexCbKGqv_ZYCT7aYaiC1CwBp2C6T4i_W/s320/SPORTSTARS1.png" group-title="Olah Raga",SportStars
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -1126,7 +1122,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj31b_SlnWPbHzVk8Z_VTcNr-z1UILvt6CpJuU6ANH5bAFt6Mav1tgxJeZQYnstwDA2z9mEGcd5Zt3H-SAbJUmaabvIOMCngtAucQbRHoAl23HZ_F_Zd1HtXoimjMFxnlDMkatYIrWx30NcTRg2Di0W4rEayAXGslJ_WAIujnGPCSU7p-mZ2R3NKGBKezDr/s320/MAKTV.jpg" group-title="Religi",makkah tv
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/619/526619-SNAPSHOT-m.jpg" group-title="Religi",makkah tv
 http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 
 
