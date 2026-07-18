@@ -734,7 +734,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHHpq7_E-p6wu7ScmI4Kij6yc2QxWHNiUeYtZzQyosSEjchTHBbWCLd31j2xyO_5LJ4-8BJGXjcOJcmK2WY8GNIIBCWHUTvgeFCwH1qC0x5JSXjyw3AWZeXl1oVb-nkHOkVB1mfLFshdMjjOALBquxvNDJ7_IIXq1nOvh-E-PpnnQvDCz1zZMwq7ydJ-IC/s320/hboHITS.jpg" group-title="HBO Premium",HBO Hits
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -744,7 +744,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCdwbenGKKSeSG-a8oywMy9uI6ZCF0yvyI4ij7uToQKBuLqhYpdFm1jAjzhX2wdZ5iAK_J4w-p8kS0rybfmETzr1MHDc3C8MgT2j9dUOcMQNhPc-SgksZhH_v0wjfUwTRk4QDc8jvs7oD_knDfZQ7Zwf1XmHDwXXhLE2uTbE5J2-m0ixh94ix2CnU8YHXL/s320/hboF.jpg" group-title="HBO Premium",HBO Family
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -754,7 +754,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKYtMCoOwPTYAmHIX7EOAoRB1fld1Y9Um7Add_Upv4Z40Ve0PN72fdcatWMAnoSYYFo7b_LcXK36ydKEDWV2jpXX10b6v_iZuQEA7TDf9MVjM07w2Qq-yNyrdRbjaOeWWGgyNdzZp1-Z1UUOku8_0aUv_9IUxUSpu2_aBTMkPq7hAVVFa2O16508y5qXjM/s320/hboS.jpg" group-title="HBO Premium",HBO Signature
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
 
 
 
