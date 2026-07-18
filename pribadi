@@ -1604,7 +1604,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=105
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-logo="https://i.imgur.com/GDjP2x3.jpeg" group-title="CARA NONTON VOD"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GDjP2x3.jpeg" group-title="CARA NONTON VOD",Play
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GDjP2x3.jpeg" group-title="CARA NONTON VOD",LIHAT
 https://raw.githubusercontent.com/Yunuspro/cara/refs/heads/main/TUTOR%20VOD.mp4
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
