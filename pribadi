@@ -1677,7 +1677,7 @@ https://pixeldrain.com/api/file/xvpzbndd?download
 #EXTINF:-1 tvg-id="auto.petualangan.sherina.2" group-title="Bioskop Online",Petualangan Sherina 2
 https://pixeldrain.com/api/file/iLy76oSv?download
 
-#EXTINF:-1 tvg-id="https://i.imgur.com/a65ZJ9f.jpeg" group-title="Bioskop Online",Sujud Terakhir Bapak
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a65ZJ9f.jpeg" group-title="Bioskop Online",Sujud Terakhir Bapak
 https://pixeldrain.com/api/file/dwi7mgXX?download
 
 #EXTINF:-1 tvg-id="auto.titip.surat.untuk.tuhan" group-title="Bioskop Online",Titip Surat Untuk Tuhan
