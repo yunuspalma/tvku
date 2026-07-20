@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0deMXro.jpeg" group-title="Bioskop Online",Avatar Season 2:Ep 1
+https://www.googleapis.com/drive/v3/files/1M7NT5-Q5TZyBgP1OjoDiHYiJdeLsx_GC?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
 
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2023/11/25/poster-13-bom-di-jakarta_169.jpeg?w=520" group-title="Bioskop Online",13 Bomb Di Jakarta
