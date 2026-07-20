@@ -2,84 +2,14 @@
 
 #EXTM3U billed-msg="TOLONG DIBACA LAGI!.No Komplain, Terima Kasih.", url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="3600"
 
-
-
-
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml," refresh="3600"
 
-
-
-
-//========================================================================
-//Collected by @Yunus Palma menampilkan playlist >>> Local
-//========================================================================
-
-
-
-#EXTM3U
-
-# (â—) Last Update: 2026-04-14 10:26:00 GMT+7 "
-
-
-
+# (â—) Last Update: 2026-07-20 10:26:00 GMT+7 "
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-
-#EXTINF:-1 group-logo="https://i.imgur.com/kZahqQz.png" group-title="PIALA DUNIA 2026"
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cmMETRi.png" group-title="PIALA DUNIA 2026",TVRI Sport
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://157.15.187.3:25092/hls/49/49.m3u8
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://tvri.cob.web.id/hls2/index.m3u8
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/j5OYmrk.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",Fussball tv 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s2/1745094.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jztl9lI.png" group-title="PIALA DUNIA 2026",TVRI Nasional
-http://157.15.187.3:25092/hls/63/63.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",Cazé TV 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",PTV Sports
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",Fox
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511 
-
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",TVP Sport
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s2/1745104.m3u8
-
-
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",beIN Sports France 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-
-
-
-
-
-
+#http://157.15.187.3:25092/hls/63/63.m3u8
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -107,7 +37,12 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zWmHcrX.jpeg" group-title="Lokal",TVRI Sport
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.148.44.38:8000/play/a05u/index.m3u8
+http://157.15.187.3:25092/hls/49/49.m3u8
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://tvri.cob.web.id/hls2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/262/514262-SNAPSHOT-m.jpg" group-title="Lokal",Sindo News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -848,7 +783,34 @@ https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/j5OYmrk.jpeg" tvg-id=" fifaworldcup.com" group-title="Olah Raga",Fussball tv 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s2/1745094.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="Olah Raga",Cazé TV 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="Olah Raga",PTV Sports
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="Olah Raga",Fox
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511 
+
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="Olah Raga",TVP Sport
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s2/1745104.m3u8
+
+
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="Olah Raga",beIN Sports France 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/S9dyHK4hCY-jmoBd7LMd0lJAhWc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-8dbf5a.jpg" group-title="Olah Raga",NBA
