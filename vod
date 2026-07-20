@@ -108,15 +108,15 @@ https://pixeldrain.com/api/file/xTZuUgAW?download
 #EXTINF:-1 tvg-id="auto.kutukan.sembilan.setan" group-title="Bioskop Online",Kutukan Sembilan Setan
 https://pixeldrain.com/api/file/smj56rTF?download
 
-#EXTINF:-1 tvg-id="auto.losmen.melati" group-title="Bioskop Online",Losmen Melati
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEpX8O.jpeg" group-title="Bioskop Online",Losmen Melati
 https://pixeldrain.com/api/file/zBP5ULUD?download
 # "https://pixeldrain.com/api/file/zBP5ULUD?download
 # "
 
-#EXTINF:-1 tvg-id="auto.malam.para.jahanam" group-title="Bioskop Online",Malam Para Jahanam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GgCGth6.jpeg" group-title="Bioskop Online",Malam Para Jahanam
 https://pixeldrain.com/api/file/a9Y8CEgx?download
 
-#EXTINF:-1 tvg-id="auto.monster" group-title="Bioskop Online",Monster
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4N1LO9G.jpeg" group-title="Bioskop Online",Monster
 https://pixeldrain.com/api/file/kzy3h67F?download
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lBWr4Kn.jpeg" group-title="Bioskop Online",Saranjana: Kota Ghaib
