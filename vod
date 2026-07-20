@@ -21,6 +21,16 @@ https://www.googleapis.com/drive/v3/files/1krBcKFTmDAZMeSMHIV7mL8JN4f2mcUkw?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="Bioskop Online",Avatar Season 2:Ep 7
 https://www.googleapis.com/drive/v3/files/1EABqRNGROW9DR3BRvfFuhDrdaFwGrq1p?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85wDwIj.jpeg" group-title="Bioskop Online",Supergirl.2026
+https://www.googleapis.com/drive/v3/files/1p4j-Jg7EE5iJlpFQQUdwY3KUWJ5nPFLr?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/msULtav.jpeg" group-title="Bioskop Online",Fighter (2026)
+https://www.googleapis.com/drive/v3/files/1I64b3oRtLeYg7Gy96hjqvaGQSvcV89hZ?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
+
+
+
+
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2023/11/25/poster-13-bom-di-jakarta_169.jpeg?w=520" group-title="Bioskop Online",13 Bomb Di Jakarta
 https://pixeldrain.com/api/file/ezqDwxkK?download
 
@@ -109,30 +119,30 @@ https://pixeldrain.com/api/file/a9Y8CEgx?download
 #EXTINF:-1 tvg-id="auto.monster" group-title="Bioskop Online",Monster
 https://pixeldrain.com/api/file/kzy3h67F?download
 
-#EXTINF:-1 tvg-id="auto.saranjana.kota.ghaib" group-title="Bioskop Online",Saranjana: Kota Ghaib
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lBWr4Kn.jpeg" group-title="Bioskop Online",Saranjana: Kota Ghaib
 https://pixeldrain.com/api/file/vUGDTTXc?download
 # "https://pixeldrain.com/api/file/RAo1H7gc?download
 # "
 
-#EXTINF:-1 tvg-id="auto.siksa.neraka" group-title="Bioskop Online",Siksa Neraka
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8UFP29.jpeg" group-title="Bioskop Online",Siksa Neraka
 https://pixeldrain.com/api/file/Ya2YKE7h?download
 
-#EXTINF:-1 tvg-id="auto.kereta.berdarah" group-title="Bioskop Online",Kereta Berdarah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qhtMjzf.jpeg" group-title="Bioskop Online",Kereta Berdarah
 https://pixeldrain.com/api/file/tVDXN7EM?download
 
-#EXTINF:-1 tvg-id="auto.kuyang" group-title="Bioskop Online",Kuyang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ODY1pUw.jpeg" group-title="Bioskop Online",Kuyang
 https://pixeldrain.com/api/file/BPrv72bw?download
 
-#EXTINF:-1 tvg-id="auto.pemandi.jenazah" group-title="Bioskop Online",Pemandi Jenazah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByKfBF6.jpeg" group-title="Bioskop Online",Pemandi Jenazah
 https://pixeldrain.com/api/file/Zb5Seo99?download
 
-#EXTINF:-1 tvg-id="auto.pemukiman.setan" group-title="Bioskop Online",Pemukiman Setan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9aFpdHD.jpeg" group-title="Bioskop Online",Pemukiman Setan
 https://pixeldrain.com/api/file/gjPCoSJZ?download
 
-#EXTINF:-1 tvg-id="auto.ritual.tumbal.terakhir" group-title="Bioskop Online",Ritual Tumbal Terakhir
+#EXTINF:-1 tvg-logo="https://posters.cdn.klikfilm.net/480_360/ritual_rev_480_360.jpg" group-title="Bioskop Online",Ritual Tumbal Terakhir
 https://pixeldrain.com/api/file/f9HdvnRd?download
 
-#EXTINF:-1 tvg-id="auto.sehidup.semati" group-title="Bioskop Online",Sehidup Semati
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhvUUFg.jpeg" group-title="Bioskop Online",Sehidup Semati
 https://pixeldrain.com/api/file/zSNxqv5q?download
 
 #EXTINF:-1 tvg-id="auto.sinden.gaib" group-title="Bioskop Online",Sinden Gaib
