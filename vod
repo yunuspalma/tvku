@@ -1,25 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="2026",Avatar Season 2:Ep 1
-https://www.googleapis.com/drive/v3/files/1M7NT5-Q5TZyBgP1OjoDiHYiJdeLsx_GC?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="2026",Avatar Season 2:Ep 2
-https://www.googleapis.com/drive/v3/files/1-g1tDRQ2svg3LkKnr1oiIa2ey44Ti-Mn?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="2026",Avatar Season 2:Ep 3
-https://www.googleapis.com/drive/v3/files/1q6-X9Fx2f6_r5CJm0OJWlHnP7uzt0RGN?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="2026",Avatar Season 2:Ep 4
-https://www.googleapis.com/drive/v3/files/1gKBoCvaQ9MYLiAkDxlyoY1gWfJKHe7Mn?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="2026",Avatar Season 2:Ep 5
-https://www.googleapis.com/drive/v3/files/1a_RHtRdsrk5BdDJVLxd-VfjDZDguOxIy?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="2026",Avatar Season 2:Ep 6
-https://www.googleapis.com/drive/v3/files/1krBcKFTmDAZMeSMHIV7mL8JN4f2mcUkw?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="2026",Avatar Season 2:Ep 7
-https://www.googleapis.com/drive/v3/files/1EABqRNGROW9DR3BRvfFuhDrdaFwGrq1p?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85wDwIj.jpeg" group-title="2026",Supergirl.2026
 https://www.googleapis.com/drive/v3/files/1p4j-Jg7EE5iJlpFQQUdwY3KUWJ5nPFLr?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
@@ -46,6 +27,30 @@ https://drive.usercontent.google.com/download?id=1FdSw0_cQ-xmZHS7dMOu1L0duwJZRLI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ly1aXc9.jpeg" group-title="2026",Rise of the Conqueror
 https://drive.usercontent.google.com/download?id=1315lDSg8l5BmZASi6VZCRG9VhRKkdftW&export=download&authuser=0&confirm=t&uuid=3d1bec1e-5257-48b5-8ebd-452297ad8dfc&at=ABswASZXDLJHWnm-DKMLZ0X8FXw7%3A1784643814957
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="Avatar 2026",Avatar Season 2:Ep 1
+https://www.googleapis.com/drive/v3/files/1M7NT5-Q5TZyBgP1OjoDiHYiJdeLsx_GC?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="Avatar 2026",Avatar Season 2:Ep 2
+https://www.googleapis.com/drive/v3/files/1-g1tDRQ2svg3LkKnr1oiIa2ey44Ti-Mn?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="Avatar 2026",Avatar Season 2:Ep 3
+https://www.googleapis.com/drive/v3/files/1q6-X9Fx2f6_r5CJm0OJWlHnP7uzt0RGN?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="Avatar 2026",Avatar Season 2:Ep 4
+https://www.googleapis.com/drive/v3/files/1gKBoCvaQ9MYLiAkDxlyoY1gWfJKHe7Mn?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="Avatar 2026",Avatar Season 2:Ep 5
+https://www.googleapis.com/drive/v3/files/1a_RHtRdsrk5BdDJVLxd-VfjDZDguOxIy?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="Avatar 2026",Avatar Season 2:Ep 6
+https://www.googleapis.com/drive/v3/files/1krBcKFTmDAZMeSMHIV7mL8JN4f2mcUkw?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTA696Q.jpeg" group-title="Avatar 2026",Avatar Season 2:Ep 7
+https://www.googleapis.com/drive/v3/files/1EABqRNGROW9DR3BRvfFuhDrdaFwGrq1p?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2023/11/25/poster-13-bom-di-jakarta_169.jpeg?w=520" group-title="Campur",13 Bomb Di Jakarta
 https://pixeldrain.com/api/file/ezqDwxkK?download
