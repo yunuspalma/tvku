@@ -1,106 +1,15 @@
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
-##########################################################################################
-######                      JANGAN DIREBRANDING                                     ######
-##########################################################################################
+#EXTM3U
 
 #EXTM3U billed-msg="TOLONG DIBACA LAGI!.No Komplain, Terima Kasih.", url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="3600"
 
-
-
-
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml," refresh="3600"
 
-
-
-
-//========================================================================
-//Collected by @Yunus Palma menampilkan playlist >>> Local
-//========================================================================
-
-
-
-#EXTM3U
-
-# (â—) Last Update: 2026-04-14 10:26:00 GMT+7 "
-
-
-
+# (â—) Last Update: 2026-07-20 10:26:00 GMT+7 "
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-
-#EXTINF:-1 group-logo="https://i.imgur.com/kZahqQz.png" group-title="PIALA DUNIA 2026"
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cmMETRi.png" group-title="PIALA DUNIA 2026",TVRI Sport
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://157.15.187.3:25092/hls/49/49.m3u8
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://tvri.cob.web.id/hls2/index.m3u8
-http://103.148.44.38:8000/play/a05u/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jztl9lI.png" group-title="PIALA DUNIA 2026",TVRI Nasional
-http://157.15.187.3:25092/hls/63/63.m3u8
-https://pildun.cob.web.id/hls2/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",Cazé TV 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",PTV Sports
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",Fox
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511 
-
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="PIALA DUNIA 2026",TVP Sport
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s2/1745104.m3u8
-http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1834810.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
-#https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
-
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/SHm3xFl.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",Globo TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://200.77.176.130:8000/udp/224.0.0.1:49152
-#https://hplay.tv/augetv/12396547488/10.m3u8
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/SHm3xFl.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",Globo TV 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://200.77.176.130:8000/udp/224.0.0.1:49152
-
-
-
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",beIN Sports France 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/j5OYmrk.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",Fussball tv 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e":"17aea325d91b5e66f06a8c574f2f0b03","b73f76658d1f5ce38420f380421bafe3":"9ebdbf32f90b546f66603104b2ac3c8a","e1f8fc6898fc5bf7a00b5609af23fee0":"98b7133ee006d9fae111ec0cb366641c","e511fb81360c5f14b681605d1de52046":"ec72f335d0e436ac7dc1d936aea1144a"}
-https://at-live-99.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-
-
-
-
-
+#http://157.15.187.3:25092/hls/63/63.m3u8
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -128,7 +37,12 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zWmHcrX.jpeg" group-title="Lokal",TVRI Sport
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.148.44.38:8000/play/a05u/index.m3u8
+http://157.15.187.3:25092/hls/49/49.m3u8
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://tvri.cob.web.id/hls2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/262/514262-SNAPSHOT-m.jpg" group-title="Lokal",Sindo News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -716,16 +630,39 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 //========================================================================
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eq6MVw6.jpeg" group-title="India",&TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viOHI7Z.jpeg" group-title="India",&pictures
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SFPpIjR.jpeg" group-title="India",Z Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzYv9JQaKV01-cuHN3-VTGEfUoLC1Gh6ZcN8RVM6aAeYjWnWD2HTevGNEak8AYuvsABbFLmiOPljsPch1eRWVPDbZCrHAy81DrhPV6w6hmNZqAfipAieuYBm5HMWlpC0-eIg1x9-us4GsiDMOfHt2_ossWOrxODz09tKKwI1EHFqDUpKt50nda0nO6KxhH/s320/ccc.png" group-title="India",colors cineplex
-#http://66.102.126.10:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWAxEwj.jpeg" group-title="India",Z Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFGIL7YiFK8W9w6pahdZGXjWETTtf2rCwhnL4kBwvO-lgEiVM90SK5yYD9oUYD96mv2Nc_bgQbzCgD38PFlzQ0YxUktltU9a-HCItnANBFMcqrMactUpUjgqslrgs1Donj6tfUVxMkX4LzyFhh9Flf5RV2UanFl-CGXzQqqw6qRJkWPMST_q1erTuIu-F/s320/strhra.png" group-title="India",Stars 4RA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCRgF7Q.jpeg" group-title="India",etv cinema hd
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ovzhd8d.jpeg" group-title="India",Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3s4EPxE.jpeg" group-title="The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bOfqltA.png" group-title="India",Stars 4RA
 http://66.102.126.10:8000/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguruIW13RF6xB9fYZ4IVj81z7Xhyphenhyphen9qH9cgIprgIzlSL8GdWi-K0w9j5sGHAqoP3KBdsJahj5QxmD8oU9gboU7XdG9IF-0BUFOlFazA7Gn_kw0KyJnl0hw245ERNy2qriNSJVQPXjLcB9upRW4NY6HWoVop8Gn51ar7nCk37o_h5-HBy_zFkojmlcciL1Pi/s320/9xm.png" group-title="India",9xm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8VOKLwq.png" group-title="India",9xm
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 
 
@@ -741,7 +678,7 @@ https://9xjio.wiseplayout.com/9XM/master.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:0 tvg-logo="https://i.imgur.com/IxetgMY.jpeg" group-title="HBO Premium",HBO
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -751,7 +688,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHHpq7_E-p6wu7ScmI4Kij6yc2QxWHNiUeYtZzQyosSEjchTHBbWCLd31j2xyO_5LJ4-8BJGXjcOJcmK2WY8GNIIBCWHUTvgeFCwH1qC0x5JSXjyw3AWZeXl1oVb-nkHOkVB1mfLFshdMjjOALBquxvNDJ7_IIXq1nOvh-E-PpnnQvDCz1zZMwq7ydJ-IC/s320/hboHITS.jpg" group-title="HBO Premium",HBO Hits
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -761,7 +698,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCdwbenGKKSeSG-a8oywMy9uI6ZCF0yvyI4ij7uToQKBuLqhYpdFm1jAjzhX2wdZ5iAK_J4w-p8kS0rybfmETzr1MHDc3C8MgT2j9dUOcMQNhPc-SgksZhH_v0wjfUwTRk4QDc8jvs7oD_knDfZQ7Zwf1XmHDwXXhLE2uTbE5J2-m0ixh94ix2CnU8YHXL/s320/hboF.jpg" group-title="HBO Premium",HBO Family
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -771,7 +708,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKYtMCoOwPTYAmHIX7EOAoRB1fld1Y9Um7Add_Upv4Z40Ve0PN72fdcatWMAnoSYYFo7b_LcXK36ydKEDWV2jpXX10b6v_iZuQEA7TDf9MVjM07w2Qq-yNyrdRbjaOeWWGgyNdzZp1-Z1UUOku8_0aUv_9IUxUSpu2_aBTMkPq7hAVVFa2O16508y5qXjM/s320/hboS.jpg" group-title="HBO Premium",HBO Signature
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
 
 
 
@@ -869,7 +806,34 @@ https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/j5OYmrk.jpeg" tvg-id=" fifaworldcup.com" group-title="Olah Raga",Fussball tv 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s2/1745094.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="Olah Raga",Cazé TV 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="Olah Raga",PTV Sports
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="Olah Raga",Fox
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511 
+
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Hm5Hk1U_uVoAAAAd/fifa-world-cup-2026-fifa.gif" group-title="Olah Raga",TVP Sport
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s2/1745104.m3u8
+
+
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/mv4WjUp.jpeg" tvg-id=" fifaworldcup.com" group-title="Olah Raga",beIN Sports France 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/S9dyHK4hCY-jmoBd7LMd0lJAhWc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-8dbf5a.jpg" group-title="Olah Raga",NBA
@@ -1153,15 +1117,15 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv2swiAXHN9hZSEcNvrUbQV4JTvjugssuFrmao5v_XylTZDsaWSSTIdPNY-8E_L7IxOf-PK-rWZVJUqM_ri2StrZPFyAQ8h-9HjMzp_lQMWL5cb__xW7KvUbyxPKAhHtad16q6bhFk6yn_Z24BTpbzCQc0a1FTOdWsZ1Im2vl42rJjWFKX-7aRk9n01zwF/s320/TV1.jpg" group-title="Malaysia",TV1
-http://tvking.xyz:8080/Azman7/3890096/8428
+https://bit.ly/offlinedulu
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGXW4ri6ODfmQ4uZIhk4LaAugEf324mxV2jYGvQ8Ma95gFRUQfUk1Khjk-o5LAHtN3Z0Ln4gF4mm0kq-tZyKoyFw2ATpTdleChdXr_22Gm8ZldgKK0ppYlWAYDgbiRnUPzPwLCMrQ03k4uX98A4BfVsX1AKD4DaOJUrzwXify30Z2fUEuHg5v8M7I2weBk/s320/TV2.jpg" group-title="Malaysia",TV2
-http://tvking.xyz:8080/Azman7/3890096/8429
+https://bit.ly/offlinedulu
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJdHgq0S6a21zwEPKpKfAw1V2izUu2ZteqyB8tUKm7xIL_6opMkNKVqyoy_PRVQFopKUImtdP_HMC6MXeXV1zLi7kQQDs7xGkakek5UWN9JqTLrFqEM-pIqHE4ZYWbR7VRCkNDQagAkXty5vacS5SWbPN_-4UsyqIpC9gbX2lAvpkNxFHw0ORo350rSch/s320/TV3.jpg" group-title="Malaysia",TV3
-http://tvking.xyz:8080/Azman7/3890096/8432
+https://drive.usercontent.google.com/download?id=1TDQSYQRgISZ-K-G6HbZRB36zPU4YZmGw&export=download&authuser=0&confirm=t&uuid=c8febf95-240c-4f96-9349-ffb04ebfb851&at=ABswASYOMEwLVMZrl54_3R3sRVxn:1784377397540
 
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAAAoX3EaanvEqOx6Wq90GHPQ82fjDP0NK64cOzNeHPAy253Frd8J9YrqzyUkt34LTowz7xRqS52aj0T3i9q148L_XXJOewJXBn_M8XFbubsNHcIIWcT4BvN_EcR88f_Uh4AuGrpNXvFn6DmHMFvrACCGp2Yah4cqH_Bd-_SblJJBuHoUzLF2GRAxv8FRk/s320/TV6.jpg" group-title="Malaysia",TV6
@@ -1259,8 +1223,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:0 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_e59etfmm/landscape_carousel_hdpi.webp" group-title="Musik",PRAMBORS TV
 https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/pramborstv/manifest.mpd
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/264761
+
 
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1c6TThv6Y1XPSW4U55XHAE6ooCVdYNet3ZyHSXhjN2e2yv5PLZH2c07AnbuZLJhRguYjJ0N0TDp8WjsiUptGQw3sc9CnzNEb_uo3gGa5EEDprfEx-C1Sc-9I90Tk84o5sEPZ4LtGUBma39RwPOI9abW8proOYpMWsyNnCaImxEwP8HXVyPUBzw5iXFKZ/s320/KPOP.jpg" group-title="Musik",Kpop Play
@@ -1490,11 +1453,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetwor
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_wd3w16vp/landscape_carousel_hdpi.webp" group-title="Hiburan",Arirang
 https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/134/50134-SNAPSHOT-m.png" group-title="Hiburan",Crime Investigation
 #http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
@@ -1514,7 +1473,7 @@ https://ayo.maling.pl/Vision/index.mpd?id=95
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_brgzui5c/landscape_carousel_hdpi.webp" group-title="Hiburan",Fashion TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-3277707030000000.mpd
+
 
 
 
@@ -1596,11 +1555,15 @@ https://ayo.maling.pl/Vision/index.mpd?id=101
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=105
 https://ayo.maling.pl/Vision/index.mpd?id=105
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGv-F_TCh7w2flMewEhv7dBcyZ7Umwy0tYe6OatQIgqhYLKZexCXuSQCl9SPFn58OfCql2npI_iNQJ1192GJDLvJp90akTM13V89dqZQqirM1WFCYQxLZTP-8Tb939tD45lQ1yKRjhTA8Dh3_VZrVNY4otc0lZqzdOcgmiaA5Jze8-aLAMNJZdNQ0YSmvo/s320/KN.jpg" group-title="Pengetahuan",Knowledge
-#https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-logo="https://i.imgur.com/GDjP2x3.jpeg" group-title="CARA NONTON VOD"
