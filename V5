@@ -39,10 +39,9 @@ http://157.15.187.3:25092/hls/49/49.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://tvri.cob.web.id/hls2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/262/514262-SNAPSHOT-m.jpg" group-title="Lokal",Sindo News
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BpqTw7x.jpeg" group-title="Lokal",TVR Parlemen
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_cms3x58k/landscape_carousel_hdpi.webp" group-title="Lokal",The Indonesia Channel
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
