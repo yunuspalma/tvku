@@ -268,9 +268,6 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsatu-Suro.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/04/13/3257753829.jpg" group-title="Bioskop Online",WARUNG POCONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwarung-pocong.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxPUTpOsbzSJiRXn1tvyLr7YRi7s3EHxhI3ZPW2eh2773t3UvXJFZ7T5OY&s=10" group-title="Bioskop Online",KAFIR - GERBANG SUKMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -348,9 +345,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDlamporKerandaTerbang.m3u8
 
-#EXTINF:-1 tvg-logo="https://referensirakyat.co.id/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-29-at-12.21.01.jpeg", group-title="Bioskop Online",SIHIR PELAKOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsihirPelakor.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0hSptYxWB3E/maxresdefault.jpg", group-title="Bioskop Online",PENGABDI SETAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -451,92 +446,7 @@ https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=
 #EXTINF:-1 type="" group-title="Bioskop Online"tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/82/2024/09/23/Lembayung-okk-3660121846.jpg", LEMBAYUNG
 https://play.upns.xyz/hls/f5Jr3ih4E9FsfGlclg-eSQ/db/el9jhvkg/talzbq/tt/master.m3u8|referer=https://play.upns.xyz/&origin=https://play.upns.xyz&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i0.wp.com/www.biem.co/wp-content/uploads/2021/12/film-teluh.jpg", TELUH
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/877595.mp4
 
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/6QOnXjWw9Xs/hq720.jpg", TUMBAL - THE RITUAL
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/886923.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://blog-asset.jakmall.com/2024/10/silam.webp", SILAM
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/871366.mkv
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/24/Screenshot_20230624-184836_Instagram-2857002028.jpg", SESAT
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/16426.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://jadwalnonton.com/data/images/articles/2022/Inang-Film_478x280.jpg", INANG
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/881095.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://cdns.klimg.com/resized/1200x600/p/photonews/potret-pemeran-film-horor-religi-qorin--9a0f38.jpg", QORIN
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/918948.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://mdentertainment.com/pictures/wp-content/uploads/2022/12/3_11zon-32.jpg", RASUK 1
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/27497.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://asset.kompas.com/crops/qZ0ecFt_6YEgH4dbLYZ94nzm4I0=/0x309:896x906/1200x800/data/photo/2019/09/24/5d897ae65e7bb.jpeg", RASUK 2
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/27496.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://mediaindonesia.gumlet.io/news/2024/08/20/1724156188_80a45ef7512f3fc1ccdc.jpg?w=376&dpr=2.6", KUNTILANAK 1
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/818577.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/DMrzdE66l2M/maxresdefault.jpg", KUNTILANAK 2
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/818578.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://assets.promediateknologi.id/crop/141x171:879x623/750x500/webp/photo/2022/05/09/3329202728.jpg", KUNTILANAK 3
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/818579.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://awsimages.detik.net.id/visual/2022/04/13/tutuge_169.jpeg?w=650", TUTUGE
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/923267.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/Y0KavKkHOuE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAGMZ4qKCoLbDxKQcNJ4Wd--KlS9g", PAKU PONTIANAK (MALAYSIA)
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/428491.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/8TVPxHVUWS8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC3wBW-B74Nyz02PI7qVmoWAsidEg",BAYI AJAIB
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/921634.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://kaijuphile.com/wp-content/uploads/2025/05/Arwah-Noni-Belanda.webp", ARWAH NONI BELANDA
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/28886.mkv
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/bhgkOoWY228/sddefault.jpg", TUSUK JELANGKUNG
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/69280.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://montasefilm.com/wp-content/uploads/2020/01/5e21454ce63b2.png", JANIN
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/20222.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://asset-2.tribunnews.com/tribunnewswiki/foto/bank/images/Film-Wewe.jpg", WEWE
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/886924.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://asset.kompas.com/crops/f6PAqrQko32dvTIX8aid7W268ug=/0x263:1000x930/1200x800/data/photo/2023/01/05/63b6a34ddef45.jpg", ANAK RATU IBLIS - ALENA
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/929400.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://pic.bstarstatic.com/ugc/e6f2862cb56c67e250841d4570f27635.jpg", JERITAN MALAM
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/26619.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c9fa7e7322fab4d011a8d628e3c48baf9f2586520296e87c1220e6101171054e.jpg", DANAU HITAM
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/16405.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://imgx.sonora.id/crop/0x509:1080x1201/700x465/filters:format(webp):quality(50)/photo/2019/10/02/2844068544.jpg", SUNYARURI - DANUR 3
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/16406.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/C_t6YKy9O8w/maxresdefault.jpg", GASING TENGKORAK
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/16408.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://asset-2.tribunnews.com/tribunnewswiki/foto/bank/images/FIlm-Kafan-Sundel-Bolong.jpg", KAFAN SUNDEL BOLONG
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/16410.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/C_t6YKy9O8w/maxresdefault.jpg", KALUNG JELANGKUNG
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/16411.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://material.asset.catchplay.com/MDP-IN-001-A0043/artworks/posters/MDP-IN-001-A0043-P1200.jpg?hash=1759407572", POCONG RUMAH ANGKER
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/886916.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/W-nrBbG_0ew/maxresdefault.jpg", MENGUSIK GERBANG IBLIS - TABU
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/886919.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://asset-2.tribunnews.com/tribunnewswiki/foto/bank/images/Film-Bangkitnya-Suster-Gepeng.jpg", BANGKITNYA SUSTER GEPENG
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/16401.mp4
-
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/SJrqVflIuKw/maxresdefault.jpg",ARWAH TUMBAL NYAI
-http://ktpremium.online:2095/movie/Halim8781/Halim8781/16400.mp4
 
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://media.suara.com/pictures/970x544/2018/03/08/59530-poster-film-titisan-setan.jpg",Titisan Setan 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -567,8 +477,7 @@ https://pixeldrain.com/api/file/zBP5ULUD?download
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/Au26Od1RpTs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbBG48dMWGCtTExgh0GP8fWnFWsw",Malam Para Jahanam
 https://pixeldrain.com/api/file/a9Y8CEgx?download
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bihrapn.jpeg" group-title="Bioskop Online",40 Hari Bangkitnya Pocong
-https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/tNyCo3WtmzY/maxresdefault.jpg", Pemukiman Setan
 https://pixeldrain.com/api/file/gjPCoSJZ?download
@@ -655,8 +564,6 @@ https://drive.usercontent.google.com/download?id=1HLI1OZ6sJnN_6aVuJeVbq1CX6MN3os
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4PXAJt.jpeg" group-title="Bioskop Online",Suzzanna: Bernapas Dalam Kubur
 https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUh6SKJWNTzWFZT-4q7QMMb5XiMT92X2XmCRcjD0ivG0LxHtU8WUTEt-4&s=10",POCONG NGESOT
-https://vod3.cf.dmcdn.net/sec2(Xw0XCzcBsIjS-_nnOdd5fOU3m_hpwTwZex2rUf_DWYwWVJmWkX0qE6T1ornKwtdV3NyjuBjDmHcpNeAWufGpeg7HFtU0LQLEcty7f2excNuIY-pVPYbwt00ayMamv1sDSaFJqx0rl0HB2ck7LW-KC9XESpGOPTud-oo5T8j5JElyvqlTss_F7sgnJiyniP98)/video/490/186/562681094_mp4_h264_aac_hq_2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pic2.iqiyipic.com/image/20191106/34/b7/v_140637347_m_601_m6_480_270.jpg" group-title="Bioskop Online",THE MAD MONK LEGEND OF SHADOW FRIEND
@@ -1325,8 +1232,7 @@ https://pixeldrain.com/api/file/845PJ3Gb?download
 # "https://pixeldrain.com/api/file/74gipWbg?download
 # "
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MveR7Of.jpeg" group-title="Campur",Kisah Tanah Jawa:Pocong Gundul
-https://pixeldrain.com/api/file/xTZuUgAW?download
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NFti1YK.jpeg" group-title="Campur",Kutukan Sembilan Setan
 https://pixeldrain.com/api/file/smj56rTF?download
@@ -2861,11 +2767,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=320880cf-f6b2-40b8-b039-953bacced3ad
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=320880cf-f6b2-40b8-b039-953bacced3ad&sub=t35
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/e5b7981b-ed16-3b4e-939b-09e09a9cfa3a.jpeg" group-title="Campur", Horror-Scouts Guide to the Zombie Apocalypse
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b94f31eb-c787-4809-8822-fb126a1a0971
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b94f31eb-c787-4809-8822-fb126a1a0971&sub=t5
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/14/6de90173-29b6-3a0b-b25d-a6f64fd6ebea.jpeg" group-title="Campur", Horror-Spawn
 #KODIPROP:inputstream=inputstream.adaptive
