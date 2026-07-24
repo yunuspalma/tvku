@@ -226,9 +226,7 @@ https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=128955
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7ilgUf-U0mY/maxresdefault.jpg", group-title="Bioskop Online",BELIEVE - TAKDIR MIMPI KEBERANIAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDbelieveTakdirMimpiKeberanian.m3u8
+
 
 
 
@@ -255,9 +253,6 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsatu-Suro.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxPUTpOsbzSJiRXn1tvyLr7YRi7s3EHxhI3ZPW2eh2773t3UvXJFZ7T5OY&s=10" group-title="Bioskop Online",KAFIR - GERBANG SUKMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkafir-gerbangSukma.m3u8
 
 #EXTINF:-1 tvg-logo="https://pic.bstarstatic.com/ugc/bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp" group-title="Bioskop Online",MARIABAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -281,21 +276,6 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkromo-leo.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://magelangekspres.disway.id/upload/b2f0687e63fa3a304de67677cbf3260d.jpg", group-title="Bioskop Online",REGO NYOWO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDregoNyowo.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rnIpDQm1o8M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCgAlvcvXuDwo1V34UBPArXzUliWQ", group-title="Bioskop Online",KAMPUNG JABANG MAYIT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkampungJabangMayit.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgx.parapuan.co/crop/0x0:0x0/752x408/filters:format(webp)/photo/2024/07/07/sinopsis-film-narik-sukmojpg-20240707092006.jpg" group-title="Bioskop Online",NARIK SUKMO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDnarikSukmo.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/132/2025/04/01/Lampor-Keranda-Terbang-2019-movievaganza-trans7-932156416.jpg", group-title="Bioskop Online",LAMPOR - KERANDA TERBANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -347,9 +327,6 @@ https://filmovie.github.io/96/t9960i/kafprm.mp4.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.kingtv (Linux;Android) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=www.dropbox.com
 https://www.dropbox.com/scl/fi/hco4t21ahuvljui4qqj4a/Dancing-Village-The-Curse-Begins-2024.mp4?rlkey=rkwgld4gwv7s2u6tienjkeu4y&st=1uajkzq7&dl=1
-
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/130/2024/02/20/Desain-tanpa-judul_20240220_222430_0000-2602609465.png" group-title="Bioskop Online",PEMANDI JENAZAH
-https://files.dubbindo.site/upload/videos/2024/07/SU3G2PGmYFPBK7L3ky6s_05_e7ce2c68130d5bd85b48ca4245268011_video_240p_converted.mp4
 
 
 
