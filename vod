@@ -287,9 +287,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDregoNyowo.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.idntimes.com/post/20250220/whatsapp-image-2025-02-20-at-111011-1-a00efad42421bf768fd2e39503b7fe47.jpeg", group-title="Bioskop Online",JABANG MAYIT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjabangMayit.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rnIpDQm1o8M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCgAlvcvXuDwo1V34UBPArXzUliWQ", group-title="Bioskop Online",KAMPUNG JABANG MAYIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -345,9 +343,6 @@ https://filmovie.github.io/oq90jy/i85FtikK9rZ/k4idF.m3u8
 https://filmovie.github.io/96/t9960i/kafprm.mp4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/COuGaZEfDWM/maxresdefault.jpg" group-title="Bioskop Online",GUNA GUNA ISTRI MIUDA
-https://www.googleapis.com/drive/v3/files/1I5uN8SuiBkHWJ1BJpkKpuImNtempS4WM?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
-
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/72/2024/08/11/IMG_20240811_201204-3867138655.jpg", BANDARAWUHI DI DESA PENARI
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.kingtv (Linux;Android) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referer=www.dropbox.com
@@ -358,13 +353,6 @@ https://files.dubbindo.site/upload/videos/2024/07/SU3G2PGmYFPBK7L3ky6s_05_e7ce2c
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/EoFQeFdr65tvAVLnLf9j0Ut2s5U=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/25475/original/belenggu-130911b.jpg" group-title="Bioskop Online",BELENGGU
-https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://cdn-brilio-net.akamaized.net/webp/news/2018/02/28/139563/1200xauto-segera-tayang-ini-5-kisah-menyeramkan-di-balik-layar-film-nini-thowok-180228q.jpg" group-title="Bioskop Online",NINI THOWOK
-https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
 
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8zBWKhKF-859A0efX50FNWF_VWykM5nfUA&s",Kisah Tanah Jawa: Pocong Gundul
 https://pixeldrain.com/api/file/xTZuUgAW?download
@@ -372,18 +360,16 @@ https://pixeldrain.com/api/file/xTZuUgAW?download
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://imgx.parapuan.co/crop/0x135:1080x817/260x140/filters:format(webp)/photo/2023/08/21/sinopsis-series-losmen-melatijp-20230821122246.jpg",Losmen Melati
 https://pixeldrain.com/api/file/zBP5ULUD?download
 
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/Au26Od1RpTs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbBG48dMWGCtTExgh0GP8fWnFWsw",Malam Para Jahanam
-https://pixeldrain.com/api/file/a9Y8CEgx?download
+
 
 
 
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/tNyCo3WtmzY/maxresdefault.jpg", Pemukiman Setan
 https://pixeldrain.com/api/file/gjPCoSJZ?download
 
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/tXbp2JK-QbM/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGCJp2UC0QIneJU1xCBwmVnDRVBQ",Saranjana: Kota Ghaib
-https://pixeldrain.com/api/file/vUGDTTXc?download
 
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/Q3bWmyvyA-I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJNdqVZIsD3Ixrmm-Gx9fToC4iXQ",Siksa Neraka
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.imgur.com/NTeDnbd.jpeg",Siksa Neraka
 https://pixeldrain.com/api/file/Ya2YKE7h?download
 
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi_webp/F0yPzEwP7dg/sddefault.webp",Kereta Berdarah
@@ -392,8 +378,6 @@ https://pixeldrain.com/api/file/tVDXN7EM?download
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://cdns.klimg.com/resized/1200x600/p/headline/kuyang-the-movie-hadirkan-teror-mengeri-dd901d.jpg",Kuyang
 https://pixeldrain.com/api/file/BPrv72bw?download
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ratab1s.jpeg" group-title="Bioskop Online",Mumun
-https://www.googleapis.com/drive/v3/files/15YK42UQb5_lDJdhLgmJgjpHyMTRkP07C?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi_webp/30bB-An0Zz4/sddefault.webp",Ritual Tumbal Terakhir
 https://pixeldrain.com/api/file/f9HdvnRd?download
@@ -444,8 +428,7 @@ https://drive.usercontent.google.com/download?id=1wQui7I9Ucl9Sa1MU9ZbmIrleFbe_VE
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x2GHfi-1gs4/maxresdefault.jpg" group-title="Bioskop Online",DOSEN GHAIB - SUDAH MALAM ATAU SUDAH TAHU (FHD) 
 https://drive.usercontent.google.com/download?id=1YslB3-jUVIsLr9EDSjaukX6dpwKZxX9R&export=download&authuser=0&confirm=t&uuid=357c1cc9-c82d-4901-b5a6-18db10f9902c&at=APvzH3rIBYS4a9CILesu8yIh3WCf%3A1735754447312
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3eDxKOXvgZ0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLABI6ZgMJk_VH1dsUreoV70UfLG8w" group-title="Bioskop Online",Menjelang Magrib
-https://www.googleapis.com/drive/v3/files/1DRC9yXAmzCudZIjptTTWU_X_9_OlMLF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 #EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://imgx.parapuan.co/crop/0x0:0x0/x/photo/2024/09/30/sinopsis-film-sumala-vira-di-tik-20240930084405.jpg" group-title="Bioskop Online",SUMALA
 https://drive.usercontent.google.com/download?id=19wSa5iuLrVn8_uQ_R0uLX04PdE0QCV7t&export=download&authuser=1&confirm=t&uuid=0b07f81b-6d19-4a29-8fea-ee7ec791949b&at=APcmpoxKGEwsS-2Fpa_r34SLyEOe:1745250661194
@@ -459,8 +442,7 @@ https://drive.usercontent.google.com/download?id=1AEE0hVoIgqK3QG2Chl1DixPT6FKgib
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01j2frpnsd591dr1m8fse0g4sx.jpg" group-title="Bioskop Online",KANG MAK (FHD) 
 https://drive.usercontent.google.com/download?id=1HLI1OZ6sJnN_6aVuJeVbq1CX6MN3os75&export=download&authuser=0&confirm=t&uuid=c2e93085-57d1-4be1-bdc3-00807a43582e&at=APvzH3rgln-RebiQU_tpIjD7DDzO%3A1735695013023
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4PXAJt.jpeg" group-title="Bioskop Online",Suzzanna: Bernapas Dalam Kubur
-https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 
 
@@ -515,7 +497,7 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheDe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/WingsOf-Dread.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wolnomga660/hq720.jpg" group-title="Bioskop Online",SATLUJ
+#EXTINF:-1 tvg-logo="blob:https://imgur.com/6a10386f-4890-41f6-a7ac-655c16f629fa" group-title="Bioskop Online",SATLUJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Satluj.m3u8
 
@@ -956,8 +938,6 @@ https://spuc.monkberga.sbs/v4/sc/ur3z63/cf-master.txt?v=1742903386|referer=https
 https://sipt.sipeskrlbtrujill.sbs/v4/61/6husnk/cf-master.txt?v=1742754617|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
 
-#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://klikxxi.com/wp-content/uploads/2025/03/1741921797230-152x228.jpeg",🟠 Journey to the West Happy City (2025)
-https://s3ae.swobodafocht.sbs/v4/ck/x6lngt/cf-master.txt?v=1742907492|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://klikxxi.com/wp-content/uploads/2025/03/dfgdg-1-152x228.jpg",🟠 Beyond the Sin (2025)
 https://sdqm.feistjmyrodne.sbs/v4/lf/6hky1b/cf-master.txt?v=1742665746|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
@@ -1143,13 +1123,14 @@ https://pixeldrain.com/api/file/zBP5ULUD?download
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgCGth6.jpeg" group-title="Campur",Malam Para Jahanam
 https://pixeldrain.com/api/file/a9Y8CEgx?download
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4N1LO9G.jpeg" group-title="Campur",Monster
 https://pixeldrain.com/api/file/kzy3h67F?download
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lBWr4Kn.jpeg" group-title="Campur",Saranjana: Kota Ghaib
 https://pixeldrain.com/api/file/vUGDTTXc?download
-# "https://pixeldrain.com/api/file/RAo1H7gc?download
-# "
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8UFP29.jpeg" group-title="Campur",Siksa Neraka
 https://pixeldrain.com/api/file/Ya2YKE7h?download
