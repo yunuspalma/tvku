@@ -3,16 +3,16 @@
 #EXTM3U billed-msg="Channel Premium Ini Milik YUNUS Jika ada channel yg tidak bisa di akses selama 1 hari,silahkan Hub Yunus, Terima Kasih."
 
 
-#EXTINF:0 tvg-logo="https://github.com/yunuspalma/indilogo/blob/main/logoindihome/MAXreals.png?raw=true" group-title="Local",Max Reels
+#EXTINF:0 tvg-logo="https://i.imgur.com/JV40oNl.png" group-title="Local", Max Reels
 rtp://@239.1.1.252:9486
 
 #EXTINF:0 tvg-logo="https://github.com/Khorizil/intv/blob/main/TVRI.png?raw=true" group-title="Local", TVRI
 rtp://@239.1.1.238:8016
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/RCTI.png" group-title="Local",Rcti
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/RCTI.png" group-title="Local", Rcti
 rtp://@239.1.2.45:8193
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/GTV.png" group-title="Local",Gtv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yunuspalma/indilogo/refs/heads/main/GTV.png" group-title="Local", Gtv
 rtp://@239.1.2.47:8195
 
 
