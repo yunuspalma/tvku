@@ -4,9 +4,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85wDwIj.jpeg" group-title="Bioskop Online",Supergirl (2026)
 https://pixeldrain.com/api/file/N5uiA5rz
 
-#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/article-check-out-sekarang-pay-later-caper-2026-1_890_490.webp" group-title="Bioskop Online",CHECK OUT SEKARANG - PAY LATER / CAPER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDcheckOutSekarang-PayLaterCaper.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2020/06/The-Raid-2_all-templateThumbnail.jpg" group-title="Bioskop Online",THE RAID 2 (BERANDAL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
